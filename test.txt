@@ -2,4 +2,3 @@ this is a test
 it is just a test for this program
 this is a test
 it is a branch merge test
-test fixed bug
