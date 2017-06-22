@@ -1,16 +1,16 @@
 # 1 "hello.cpp"
 # 1 "<built-in>"
-# 1 "<ÃüÁîÐÐ>"
+# 1 "<command-line>"
+# 1 "/usr/include/stdc-predef.h" 1 3 4
+# 1 "<command-line>" 2
 # 1 "hello.cpp"
-# 1 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\iostream" 1 3
-# 36 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\iostream" 3
+# 1 "/usr/include/c++/4.8/iostream" 1 3
+# 36 "/usr/include/c++/4.8/iostream" 3
        
-# 37 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\iostream" 3
+# 37 "/usr/include/c++/4.8/iostream" 3
 
-# 1 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\mingw32\\bits\\c++config.h" 1 3
-# 194 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\mingw32\\bits\\c++config.h" 3
-
-# 194 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\mingw32\\bits\\c++config.h" 3
+# 1 "/usr/include/i386-linux-gnu/c++/4.8/bits/c++config.h" 1 3
+# 184 "/usr/include/i386-linux-gnu/c++/4.8/bits/c++config.h" 3
 namespace std
 {
   typedef unsigned int size_t;
@@ -20,56 +20,67 @@ namespace std
 
 
 }
-# 216 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\mingw32\\bits\\c++config.h" 3
-namespace std
+# 426 "/usr/include/i386-linux-gnu/c++/4.8/bits/c++config.h" 3
+# 1 "/usr/include/i386-linux-gnu/c++/4.8/bits/os_defines.h" 1 3
+# 39 "/usr/include/i386-linux-gnu/c++/4.8/bits/os_defines.h" 3
+# 1 "/usr/include/features.h" 1 3 4
+# 374 "/usr/include/features.h" 3 4
+# 1 "/usr/include/i386-linux-gnu/sys/cdefs.h" 1 3 4
+# 385 "/usr/include/i386-linux-gnu/sys/cdefs.h" 3 4
+# 1 "/usr/include/i386-linux-gnu/bits/wordsize.h" 1 3 4
+# 386 "/usr/include/i386-linux-gnu/sys/cdefs.h" 2 3 4
+# 375 "/usr/include/features.h" 2 3 4
+# 398 "/usr/include/features.h" 3 4
+# 1 "/usr/include/i386-linux-gnu/gnu/stubs.h" 1 3 4
+
+
+
+
+
+
+# 1 "/usr/include/i386-linux-gnu/gnu/stubs-32.h" 1 3 4
+# 8 "/usr/include/i386-linux-gnu/gnu/stubs.h" 2 3 4
+# 399 "/usr/include/features.h" 2 3 4
+# 40 "/usr/include/i386-linux-gnu/c++/4.8/bits/os_defines.h" 2 3
+# 427 "/usr/include/i386-linux-gnu/c++/4.8/bits/c++config.h" 2 3
+
+
+# 1 "/usr/include/i386-linux-gnu/c++/4.8/bits/cpu_defines.h" 1 3
+# 430 "/usr/include/i386-linux-gnu/c++/4.8/bits/c++config.h" 2 3
+# 39 "/usr/include/c++/4.8/iostream" 2 3
+# 1 "/usr/include/c++/4.8/ostream" 1 3
+# 36 "/usr/include/c++/4.8/ostream" 3
+       
+# 37 "/usr/include/c++/4.8/ostream" 3
+
+# 1 "/usr/include/c++/4.8/ios" 1 3
+# 36 "/usr/include/c++/4.8/ios" 3
+       
+# 37 "/usr/include/c++/4.8/ios" 3
+
+# 1 "/usr/include/c++/4.8/iosfwd" 1 3
+# 36 "/usr/include/c++/4.8/iosfwd" 3
+       
+# 37 "/usr/include/c++/4.8/iosfwd" 3
+
+
+# 1 "/usr/include/c++/4.8/bits/stringfwd.h" 1 3
+# 37 "/usr/include/c++/4.8/bits/stringfwd.h" 3
+       
+# 38 "/usr/include/c++/4.8/bits/stringfwd.h" 3
+
+
+# 1 "/usr/include/c++/4.8/bits/memoryfwd.h" 1 3
+# 46 "/usr/include/c++/4.8/bits/memoryfwd.h" 3
+       
+# 47 "/usr/include/c++/4.8/bits/memoryfwd.h" 3
+
+
+
+namespace std __attribute__ ((__visibility__ ("default")))
 {
-  inline namespace __cxx11 __attribute__((__abi_tag__ ("cxx11"))) { }
-}
-namespace __gnu_cxx
-{
-  inline namespace __cxx11 __attribute__((__abi_tag__ ("cxx11"))) { }
-}
-# 482 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\mingw32\\bits\\c++config.h" 3
-# 1 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\mingw32\\bits\\os_defines.h" 1 3
-# 483 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\mingw32\\bits\\c++config.h" 2 3
 
-
-# 1 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\mingw32\\bits\\cpu_defines.h" 1 3
-# 486 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\mingw32\\bits\\c++config.h" 2 3
-# 39 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\iostream" 2 3
-# 1 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\ostream" 1 3
-# 36 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\ostream" 3
-       
-# 37 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\ostream" 3
-
-# 1 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\ios" 1 3
-# 36 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\ios" 3
-       
-# 37 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\ios" 3
-
-# 1 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\iosfwd" 1 3
-# 36 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\iosfwd" 3
-       
-# 37 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\iosfwd" 3
-
-
-# 1 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\stringfwd.h" 1 3
-# 37 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\stringfwd.h" 3
-       
-# 38 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\stringfwd.h" 3
-
-
-# 1 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\memoryfwd.h" 1 3
-# 46 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\memoryfwd.h" 3
-       
-# 47 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\memoryfwd.h" 3
-
-
-
-namespace std
-{
-
-# 63 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\memoryfwd.h" 3
+# 63 "/usr/include/c++/4.8/bits/memoryfwd.h" 3
   template<typename>
     class allocator;
 
@@ -84,9 +95,9 @@ namespace std
 
 
 }
-# 41 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\stringfwd.h" 2 3
+# 41 "/usr/include/c++/4.8/bits/stringfwd.h" 2 3
 
-namespace std
+namespace std __attribute__ ((__visibility__ ("default")))
 {
 
 
@@ -99,739 +110,725 @@ namespace std
   template<class _CharT>
     struct char_traits;
 
-  template<> struct char_traits<char>;
-
-
-  template<> struct char_traits<wchar_t>;
-# 67 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\stringfwd.h" 3
-namespace __cxx11 {
-
   template<typename _CharT, typename _Traits = char_traits<_CharT>,
            typename _Alloc = allocator<_CharT> >
     class basic_string;
+
+  template<> struct char_traits<char>;
 
 
   typedef basic_string<char> string;
 
 
+  template<> struct char_traits<wchar_t>;
+
 
   typedef basic_string<wchar_t> wstring;
-# 90 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\stringfwd.h" 3
-}
-
-
-
+# 86 "/usr/include/c++/4.8/bits/stringfwd.h" 3
 
 }
-# 40 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\iosfwd" 2 3
-# 1 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\postypes.h" 1 3
-# 38 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\postypes.h" 3
+# 40 "/usr/include/c++/4.8/iosfwd" 2 3
+# 1 "/usr/include/c++/4.8/bits/postypes.h" 1 3
+# 38 "/usr/include/c++/4.8/bits/postypes.h" 3
        
-# 39 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\postypes.h" 3
+# 39 "/usr/include/c++/4.8/bits/postypes.h" 3
 
-# 1 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\cwchar" 1 3
-# 39 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\cwchar" 3
+# 1 "/usr/include/c++/4.8/cwchar" 1 3
+# 39 "/usr/include/c++/4.8/cwchar" 3
        
-# 40 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\cwchar" 3
+# 40 "/usr/include/c++/4.8/cwchar" 3
 
 
 
 
-# 1 "d:\\mingw\\include\\wchar.h" 1 3
-# 35 "d:\\mingw\\include\\wchar.h" 3
-       
-# 36 "d:\\mingw\\include\\wchar.h" 3
-# 53 "d:\\mingw\\include\\wchar.h" 3
-# 1 "d:\\mingw\\include\\_mingw.h" 1 3
-# 55 "d:\\mingw\\include\\_mingw.h" 3
-       
-# 56 "d:\\mingw\\include\\_mingw.h" 3
-# 66 "d:\\mingw\\include\\_mingw.h" 3
-# 1 "d:\\mingw\\include\\msvcrtver.h" 1 3
-# 35 "d:\\mingw\\include\\msvcrtver.h" 3
-       
-# 36 "d:\\mingw\\include\\msvcrtver.h" 3
-# 67 "d:\\mingw\\include\\_mingw.h" 2 3
+# 1 "/usr/include/wchar.h" 1 3 4
+# 36 "/usr/include/wchar.h" 3 4
+# 1 "/usr/include/stdio.h" 1 3 4
+# 44 "/usr/include/stdio.h" 3 4
+struct _IO_FILE;
 
 
 
+typedef struct _IO_FILE FILE;
 
 
 
-# 1 "d:\\mingw\\include\\w32api.h" 1 3
-# 35 "d:\\mingw\\include\\w32api.h" 3
-       
-# 36 "d:\\mingw\\include\\w32api.h" 3
-# 59 "d:\\mingw\\include\\w32api.h" 3
-# 1 "d:\\mingw\\include\\sdkddkver.h" 1 3
-# 35 "d:\\mingw\\include\\sdkddkver.h" 3
-       
-# 36 "d:\\mingw\\include\\sdkddkver.h" 3
-# 60 "d:\\mingw\\include\\w32api.h" 2 3
-# 74 "d:\\mingw\\include\\_mingw.h" 2 3
-# 54 "d:\\mingw\\include\\wchar.h" 2 3
 
 
+# 64 "/usr/include/stdio.h" 3 4
+typedef struct _IO_FILE __FILE;
+# 37 "/usr/include/wchar.h" 2 3 4
 
 
-
-
-
-# 1 "d:\\mingw\\include\\wctype.h" 1 3
-# 33 "d:\\mingw\\include\\wctype.h" 3
-       
-# 34 "d:\\mingw\\include\\wctype.h" 3
-# 87 "d:\\mingw\\include\\wctype.h" 3
-# 1 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\stddef.h" 1 3 4
-# 357 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\stddef.h" 3 4
-typedef short unsigned int wint_t;
-# 88 "d:\\mingw\\include\\wctype.h" 2 3
-
-typedef wchar_t wctype_t;
-
-
-extern "C" {
-
-
-
-
-
-
-
- __attribute__((__cdecl__)) __attribute__((__nothrow__)) int iswalnum (wint_t);
- __attribute__((__cdecl__)) __attribute__((__nothrow__)) int iswalpha (wint_t);
- __attribute__((__cdecl__)) __attribute__((__nothrow__)) int iswascii (wint_t);
- __attribute__((__cdecl__)) __attribute__((__nothrow__)) int iswcntrl (wint_t);
- __attribute__((__cdecl__)) __attribute__((__nothrow__)) int iswctype (wint_t, wctype_t);
- __attribute__((__cdecl__)) __attribute__((__nothrow__)) int iswdigit (wint_t);
- __attribute__((__cdecl__)) __attribute__((__nothrow__)) int iswgraph (wint_t);
- __attribute__((__cdecl__)) __attribute__((__nothrow__)) int iswlower (wint_t);
- __attribute__((__cdecl__)) __attribute__((__nothrow__)) int iswprint (wint_t);
- __attribute__((__cdecl__)) __attribute__((__nothrow__)) int iswpunct (wint_t);
- __attribute__((__cdecl__)) __attribute__((__nothrow__)) int iswspace (wint_t);
- __attribute__((__cdecl__)) __attribute__((__nothrow__)) int iswupper (wint_t);
- __attribute__((__cdecl__)) __attribute__((__nothrow__)) int iswxdigit (wint_t);
-
-__attribute__((__deprecated__))
-
-
-
-
-
- __attribute__((__cdecl__)) __attribute__((__nothrow__)) int is_wctype (wint_t, wctype_t);
-
-
-__attribute__((__cdecl__)) __attribute__((__nothrow__)) int iswblank (wint_t);
-
-
-
-
-
-
-
- __attribute__((__cdecl__)) __attribute__((__nothrow__)) wint_t towlower (wint_t);
- __attribute__((__cdecl__)) __attribute__((__nothrow__)) wint_t towupper (wint_t);
-# 182 "d:\\mingw\\include\\wctype.h" 3
-}
-# 191 "d:\\mingw\\include\\wctype.h" 3
-typedef wchar_t wctrans_t;
-
-extern "C" {
-# 202 "d:\\mingw\\include\\wctype.h" 3
-__attribute__((__cdecl__)) __attribute__((__nothrow__)) wint_t towctrans (wint_t, wctrans_t);
-__attribute__((__cdecl__)) __attribute__((__nothrow__)) wctrans_t wctrans (const char*);
-__attribute__((__cdecl__)) __attribute__((__nothrow__)) wctype_t wctype (const char*);
-
-}
-# 62 "d:\\mingw\\include\\wchar.h" 2 3
-
-
-
-
-# 1 "d:\\mingw\\include\\sys\\types.h" 1 3
-# 34 "d:\\mingw\\include\\sys\\types.h" 3
-       
-# 35 "d:\\mingw\\include\\sys\\types.h" 3
-# 62 "d:\\mingw\\include\\sys\\types.h" 3
-  typedef long __off32_t;
-
-
-
-
-  typedef __off32_t _off_t;
-
-
-
-
-
-
-
-  typedef _off_t off_t;
-# 91 "d:\\mingw\\include\\sys\\types.h" 3
-  typedef long long __off64_t;
-
-
-
-
-
-
-  typedef __off64_t off64_t;
-# 115 "d:\\mingw\\include\\sys\\types.h" 3
-  typedef int _ssize_t;
-
-
-
-
-
-
-
-  typedef _ssize_t ssize_t;
-# 139 "d:\\mingw\\include\\sys\\types.h" 3
-  typedef long __time32_t;
-  typedef long long __time64_t;
-# 149 "d:\\mingw\\include\\sys\\types.h" 3
-   typedef __time32_t time_t;
-# 174 "d:\\mingw\\include\\sys\\types.h" 3
-# 1 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\stddef.h" 1 3 4
-# 149 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\stddef.h" 3 4
-typedef int ptrdiff_t;
-# 216 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\stddef.h" 3 4
-typedef unsigned int size_t;
-# 175 "d:\\mingw\\include\\sys\\types.h" 2 3
-# 184 "d:\\mingw\\include\\sys\\types.h" 3
-typedef unsigned int _dev_t;
-# 195 "d:\\mingw\\include\\sys\\types.h" 3
-typedef short _ino_t;
-typedef unsigned short _mode_t;
-typedef int _pid_t;
-typedef int _sigset_t;
-# 207 "d:\\mingw\\include\\sys\\types.h" 3
-typedef _dev_t dev_t;
-typedef _ino_t ino_t;
-typedef _mode_t mode_t;
-typedef _pid_t pid_t;
-typedef _sigset_t sigset_t;
-
-
-typedef long long fpos64_t;
-
-
-
-
-
-
-typedef unsigned long useconds_t __attribute__((__deprecated__));
-# 67 "d:\\mingw\\include\\wchar.h" 2 3
-# 83 "d:\\mingw\\include\\wchar.h" 3
-# 1 "d:\\mingw\\include\\stdio.h" 1 3
-# 38 "d:\\mingw\\include\\stdio.h" 3
-       
-# 39 "d:\\mingw\\include\\stdio.h" 3
-# 69 "d:\\mingw\\include\\stdio.h" 3
-# 1 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\stddef.h" 1 3 4
-# 70 "d:\\mingw\\include\\stdio.h" 2 3
-# 94 "d:\\mingw\\include\\stdio.h" 3
-# 1 "d:\\mingw\\include\\sys/types.h" 1 3
-# 95 "d:\\mingw\\include\\stdio.h" 2 3
-
-
-
-
-
-
-
-# 1 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\stdarg.h" 1 3 4
-# 40 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\stdarg.h" 3 4
+# 1 "/usr/lib/gcc/i686-linux-gnu/4.8/include/stdarg.h" 1 3 4
+# 40 "/usr/lib/gcc/i686-linux-gnu/4.8/include/stdarg.h" 3 4
 typedef __builtin_va_list __gnuc_va_list;
-# 103 "d:\\mingw\\include\\stdio.h" 2 3
-# 210 "d:\\mingw\\include\\stdio.h" 3
-typedef struct _iobuf
+# 40 "/usr/include/wchar.h" 2 3 4
+
+# 1 "/usr/include/i386-linux-gnu/bits/wchar.h" 1 3 4
+# 42 "/usr/include/wchar.h" 2 3 4
+# 51 "/usr/include/wchar.h" 3 4
+# 1 "/usr/lib/gcc/i686-linux-gnu/4.8/include/stddef.h" 1 3 4
+# 212 "/usr/lib/gcc/i686-linux-gnu/4.8/include/stddef.h" 3 4
+typedef unsigned int size_t;
+# 353 "/usr/lib/gcc/i686-linux-gnu/4.8/include/stddef.h" 3 4
+typedef unsigned int wint_t;
+# 52 "/usr/include/wchar.h" 2 3 4
+# 82 "/usr/include/wchar.h" 3 4
+typedef struct
 {
-  char *_ptr;
-  int _cnt;
-  char *_base;
-  int _flag;
-  int _file;
-  int _charbuf;
-  int _bufsiz;
-  char *_tmpfname;
-} FILE;
-# 252 "d:\\mingw\\include\\stdio.h" 3
+  int __count;
+  union
+  {
+
+    unsigned int __wch;
+
+
+
+    char __wchb[4];
+  } __value;
+} __mbstate_t;
+# 104 "/usr/include/wchar.h" 3 4
+
+
+typedef __mbstate_t mbstate_t;
+
+
+
+
+
+
+# 132 "/usr/include/wchar.h" 3 4
 extern "C" {
-# 922 "d:\\mingw\\include\\stdio.h" 3
- __attribute__((__cdecl__)) __attribute__((__nothrow__)) int fwprintf (FILE *, const wchar_t *, ...);
- __attribute__((__cdecl__)) __attribute__((__nothrow__)) int wprintf (const wchar_t *, ...);
- __attribute__((__cdecl__)) __attribute__((__nothrow__)) int vfwprintf (FILE *, const wchar_t *, __builtin_va_list);
- __attribute__((__cdecl__)) __attribute__((__nothrow__)) int vwprintf (const wchar_t *, __builtin_va_list);
- __attribute__((__cdecl__)) __attribute__((__nothrow__)) int _snwprintf (wchar_t *, size_t, const wchar_t *, ...);
- __attribute__((__cdecl__)) __attribute__((__nothrow__)) int _vscwprintf (const wchar_t *, __builtin_va_list);
- __attribute__((__cdecl__)) __attribute__((__nothrow__)) int _vsnwprintf (wchar_t *, size_t, const wchar_t *, __builtin_va_list);
- __attribute__((__cdecl__)) __attribute__((__nothrow__)) int fwscanf (FILE *, const wchar_t *, ...);
- __attribute__((__cdecl__)) __attribute__((__nothrow__)) int wscanf (const wchar_t *, ...);
- __attribute__((__cdecl__)) __attribute__((__nothrow__)) int swscanf (const wchar_t *, const wchar_t *, ...);
- __attribute__((__cdecl__)) __attribute__((__nothrow__)) wint_t fgetwc (FILE *);
- __attribute__((__cdecl__)) __attribute__((__nothrow__)) wint_t fputwc (wchar_t, FILE *);
- __attribute__((__cdecl__)) __attribute__((__nothrow__)) wint_t ungetwc (wchar_t, FILE *);
 
 
 
 
- __attribute__((__cdecl__)) __attribute__((__nothrow__)) int swprintf (wchar_t *, const wchar_t *, ...);
- __attribute__((__cdecl__)) __attribute__((__nothrow__)) int vswprintf (wchar_t *, const wchar_t *, __builtin_va_list);
-
-
-
- __attribute__((__cdecl__)) __attribute__((__nothrow__)) wchar_t * fgetws (wchar_t *, int, FILE *);
- __attribute__((__cdecl__)) __attribute__((__nothrow__)) int fputws (const wchar_t *, FILE *);
- __attribute__((__cdecl__)) __attribute__((__nothrow__)) wint_t getwc (FILE *);
- __attribute__((__cdecl__)) __attribute__((__nothrow__)) wint_t getwchar (void);
- __attribute__((__cdecl__)) __attribute__((__nothrow__)) wint_t putwc (wint_t, FILE *);
- __attribute__((__cdecl__)) __attribute__((__nothrow__)) wint_t putwchar (wint_t);
-
-
- __attribute__((__cdecl__)) __attribute__((__nothrow__)) wchar_t * _getws (wchar_t *);
- __attribute__((__cdecl__)) __attribute__((__nothrow__)) int _putws (const wchar_t *);
- __attribute__((__cdecl__)) __attribute__((__nothrow__)) FILE * _wfdopen(int, const wchar_t *);
- __attribute__((__cdecl__)) __attribute__((__nothrow__)) FILE * _wfopen (const wchar_t *, const wchar_t *);
- __attribute__((__cdecl__)) __attribute__((__nothrow__)) FILE * _wfreopen (const wchar_t *, const wchar_t *, FILE *);
- __attribute__((__cdecl__)) __attribute__((__nothrow__)) FILE * _wfsopen (const wchar_t *, const wchar_t *, int);
- __attribute__((__cdecl__)) __attribute__((__nothrow__)) wchar_t * _wtmpnam (wchar_t *);
- __attribute__((__cdecl__)) __attribute__((__nothrow__)) wchar_t * _wtempnam (const wchar_t *, const wchar_t *);
- __attribute__((__cdecl__)) __attribute__((__nothrow__)) int _wrename (const wchar_t *, const wchar_t *);
- __attribute__((__cdecl__)) __attribute__((__nothrow__)) int _wremove (const wchar_t *);
- __attribute__((__cdecl__)) __attribute__((__nothrow__)) void _wperror (const wchar_t *);
- __attribute__((__cdecl__)) __attribute__((__nothrow__)) FILE * _wpopen (const wchar_t *, const wchar_t *);
-
-
-
-
-
-
-__attribute__((__cdecl__)) __attribute__((__nothrow__)) int snwprintf (wchar_t *, size_t, const wchar_t *, ...);
-__attribute__((__cdecl__)) __attribute__((__nothrow__)) int vsnwprintf (wchar_t *, size_t, const wchar_t *, __builtin_va_list);
-# 980 "d:\\mingw\\include\\stdio.h" 3
-__attribute__((__cdecl__)) __attribute__((__nothrow__)) int vwscanf (const wchar_t *__restrict__, __builtin_va_list);
-__attribute__((__cdecl__)) __attribute__((__nothrow__))
-int vfwscanf (FILE *__restrict__, const wchar_t *__restrict__, __builtin_va_list);
-__attribute__((__cdecl__)) __attribute__((__nothrow__))
-int vswscanf (const wchar_t *__restrict__, const wchar_t * __restrict__, __builtin_va_list);
-# 1012 "d:\\mingw\\include\\stdio.h" 3
-}
-# 84 "d:\\mingw\\include\\wchar.h" 2 3
-# 147 "d:\\mingw\\include\\wchar.h" 3
-# 1 "d:\\mingw\\include\\stdlib.h" 1 3
-# 34 "d:\\mingw\\include\\stdlib.h" 3
-       
-# 35 "d:\\mingw\\include\\stdlib.h" 3
-# 90 "d:\\mingw\\include\\stdlib.h" 3
-extern "C" {
-# 394 "d:\\mingw\\include\\stdlib.h" 3
- __attribute__((__cdecl__)) __attribute__((__nothrow__))
-long wcstol (const wchar_t *, wchar_t **, int);
-
- __attribute__((__cdecl__)) __attribute__((__nothrow__))
-unsigned long wcstoul (const wchar_t *, wchar_t **, int);
-
- __attribute__((__cdecl__)) __attribute__((__nothrow__)) double wcstod (const wchar_t *, wchar_t **);
-
-
-
-
-
-__attribute__((__cdecl__)) __attribute__((__nothrow__))
-float wcstof (const wchar_t *__restrict__, wchar_t **__restrict__);
-
-__attribute__((__cdecl__)) __attribute__((__nothrow__))
-long double wcstold (const wchar_t *__restrict__, wchar_t **__restrict__);
-# 451 "d:\\mingw\\include\\stdlib.h" 3
- __attribute__((__cdecl__)) __attribute__((__nothrow__)) wchar_t *_wgetenv (const wchar_t *);
- __attribute__((__cdecl__)) __attribute__((__nothrow__)) int _wputenv (const wchar_t *);
-
- __attribute__((__cdecl__)) __attribute__((__nothrow__))
-void _wsearchenv (const wchar_t *, const wchar_t *, wchar_t *);
-
- __attribute__((__cdecl__)) __attribute__((__nothrow__)) int _wsystem (const wchar_t *);
-
- __attribute__((__cdecl__)) __attribute__((__nothrow__))
-void _wmakepath (wchar_t *, const wchar_t *, const wchar_t *, const wchar_t *,
-    const wchar_t *
-  );
-
- __attribute__((__cdecl__)) __attribute__((__nothrow__))
-void _wsplitpath (const wchar_t *, wchar_t *, wchar_t *, wchar_t *, wchar_t *);
-
- __attribute__((__cdecl__)) __attribute__((__nothrow__))
-wchar_t *_wfullpath (wchar_t *, const wchar_t *, size_t);
-# 847 "d:\\mingw\\include\\stdlib.h" 3
-}
-# 148 "d:\\mingw\\include\\wchar.h" 2 3
-# 199 "d:\\mingw\\include\\wchar.h" 3
-# 1 "d:\\mingw\\include\\direct.h" 1 3
-# 34 "d:\\mingw\\include\\direct.h" 3
-       
-# 35 "d:\\mingw\\include\\direct.h" 3
-# 60 "d:\\mingw\\include\\direct.h" 3
-extern "C" {
-# 86 "d:\\mingw\\include\\direct.h" 3
- __attribute__((__cdecl__)) __attribute__((__nothrow__)) int _wchdir (const wchar_t *);
- __attribute__((__cdecl__)) __attribute__((__nothrow__)) wchar_t *_wgetcwd (wchar_t *, int);
- __attribute__((__cdecl__)) __attribute__((__nothrow__)) wchar_t *_wgetdcwd (int, wchar_t *, int);
- __attribute__((__cdecl__)) __attribute__((__nothrow__)) int _wmkdir (const wchar_t *);
- __attribute__((__cdecl__)) __attribute__((__nothrow__)) int _wrmdir (const wchar_t *);
-
-
-
-}
-# 200 "d:\\mingw\\include\\wchar.h" 2 3
-# 212 "d:\\mingw\\include\\wchar.h" 3
-# 1 "d:\\mingw\\include\\sys/stat.h" 1 3
-# 34 "d:\\mingw\\include\\sys/stat.h" 3
-       
-# 35 "d:\\mingw\\include\\sys/stat.h" 3
-# 173 "d:\\mingw\\include\\sys/stat.h" 3
-struct _stat { _dev_t st_dev; _ino_t st_ino; _mode_t st_mode; short st_nlink; short st_uid; short st_gid; _dev_t st_rdev; _off_t st_size; time_t st_atime; time_t st_mtime; time_t st_ctime; };
-
-
-
-
-
-
-struct stat { _dev_t st_dev; _ino_t st_ino; _mode_t st_mode; short st_nlink; short st_uid; short st_gid; _dev_t st_rdev; _off_t st_size; time_t st_atime; time_t st_mtime; time_t st_ctime; };
-
-
-
-
-
-
-
-struct _stati64 { _dev_t st_dev; _ino_t st_ino; _mode_t st_mode; short st_nlink; short st_uid; short st_gid; _dev_t st_rdev; __off64_t st_size; time_t st_atime; time_t st_mtime; time_t st_ctime; };
-
-
-
-
-
-
-struct __stat64 { _dev_t st_dev; _ino_t st_ino; _mode_t st_mode; short st_nlink; short st_uid; short st_gid; _dev_t st_rdev; __off64_t st_size; __time64_t st_atime; __time64_t st_mtime; __time64_t st_ctime; };
-# 218 "d:\\mingw\\include\\sys/stat.h" 3
-extern "C" {
-# 352 "d:\\mingw\\include\\sys/stat.h" 3
- __attribute__((__cdecl__)) __attribute__((__nothrow__)) int _wstat(const wchar_t *, struct _stat *);
- __attribute__((__cdecl__)) __attribute__((__nothrow__)) int _wstati64 (const wchar_t *, struct _stati64 *);
-
-
-
-
-
-
- __attribute__((__cdecl__)) __attribute__((__nothrow__)) int _wstat64 (const wchar_t *, struct __stat64 *);
-# 398 "d:\\mingw\\include\\sys/stat.h" 3
-}
-# 213 "d:\\mingw\\include\\wchar.h" 2 3
-# 237 "d:\\mingw\\include\\wchar.h" 3
-# 1 "d:\\mingw\\include\\io.h" 1 3
-# 38 "d:\\mingw\\include\\io.h" 3
-       
-# 39 "d:\\mingw\\include\\io.h" 3
-# 67 "d:\\mingw\\include\\io.h" 3
-# 1 "d:\\mingw\\include\\stdint.h" 1 3
-# 34 "d:\\mingw\\include\\stdint.h" 3
-       
-# 35 "d:\\mingw\\include\\stdint.h" 3
-# 106 "d:\\mingw\\include\\stdint.h" 3
- typedef int __intptr_t;
-
-typedef __intptr_t intptr_t;
-# 68 "d:\\mingw\\include\\io.h" 2 3
-# 104 "d:\\mingw\\include\\io.h" 3
-typedef unsigned long _fsize_t;
-# 174 "d:\\mingw\\include\\io.h" 3
-extern "C" {
-# 341 "d:\\mingw\\include\\io.h" 3
-struct _wfinddata_t { unsigned attrib; time_t time_create; time_t time_access; time_t time_write; _fsize_t size; wchar_t name[(260)]; };
-struct _wfinddatai64_t { unsigned attrib; time_t time_create; time_t time_access; time_t time_write; long long size; wchar_t name[(260)]; };
-
-
-
-
-
-
-
- __attribute__((__cdecl__)) __attribute__((__nothrow__))
-intptr_t _wfindfirst (const wchar_t *, struct _wfinddata_t *);
-
- __attribute__((__cdecl__)) __attribute__((__nothrow__))
-int _wfindnext (intptr_t, struct _wfinddata_t *);
-
- __attribute__((__cdecl__)) __attribute__((__nothrow__))
-intptr_t _wfindfirsti64 (const wchar_t *, struct _wfinddatai64_t *);
-
- __attribute__((__cdecl__)) __attribute__((__nothrow__))
-int _wfindnexti64 (intptr_t, struct _wfinddatai64_t *);
-
-
-
-
-
-
-
-struct __wfinddata64_t { unsigned attrib; __time64_t time_create; __time64_t time_access; __time64_t time_write; long long size; wchar_t name[(260)]; };
-# 377 "d:\\mingw\\include\\io.h" 3
- __attribute__((__cdecl__)) __attribute__((__nothrow__))
-intptr_t _wfindfirst64 (const wchar_t *, struct __wfinddata64_t *);
-
- __attribute__((__cdecl__)) __attribute__((__nothrow__))
-int _wfindnext64 (intptr_t, struct __wfinddata64_t *);
-# 484 "d:\\mingw\\include\\io.h" 3
- __attribute__((__cdecl__)) __attribute__((__nothrow__)) int _findclose (intptr_t);
-# 525 "d:\\mingw\\include\\io.h" 3
-}
-# 551 "d:\\mingw\\include\\io.h" 3
-extern "C" {
-# 636 "d:\\mingw\\include\\io.h" 3
- __attribute__((__cdecl__)) __attribute__((__nothrow__)) int _waccess (const wchar_t *, int);
- __attribute__((__cdecl__)) __attribute__((__nothrow__)) int _wchmod (const wchar_t *, int);
- __attribute__((__cdecl__)) __attribute__((__nothrow__)) int _wcreat (const wchar_t *, int);
- __attribute__((__cdecl__)) __attribute__((__nothrow__)) int _wunlink (const wchar_t *);
- __attribute__((__cdecl__)) __attribute__((__nothrow__)) int _wopen (const wchar_t *, int, ...);
- __attribute__((__cdecl__)) __attribute__((__nothrow__)) int _wsopen (const wchar_t *, int, int, ...);
- __attribute__((__cdecl__)) __attribute__((__nothrow__)) wchar_t *_wmktemp (wchar_t *);
-# 701 "d:\\mingw\\include\\io.h" 3
-}
-# 238 "d:\\mingw\\include\\wchar.h" 2 3
-# 290 "d:\\mingw\\include\\wchar.h" 3
-# 1 "d:\\mingw\\include\\time.h" 1 3
-# 33 "d:\\mingw\\include\\time.h" 3
-       
-# 34 "d:\\mingw\\include\\time.h" 3
-# 80 "d:\\mingw\\include\\time.h" 3
 struct tm;
-# 440 "d:\\mingw\\include\\time.h" 3
-extern "C" {
-
-
- __attribute__((__cdecl__)) __attribute__((__nothrow__)) wchar_t *_wasctime (const struct tm *);
- __attribute__((__cdecl__)) __attribute__((__nothrow__)) wchar_t *_wstrdate (wchar_t *);
- __attribute__((__cdecl__)) __attribute__((__nothrow__)) wchar_t *_wstrtime (wchar_t *);
 
 
 
 
 
 
- __attribute__((__cdecl__)) __attribute__((__nothrow__)) wchar_t *_wctime64 (const __time64_t *);
-# 466 "d:\\mingw\\include\\time.h" 3
- __attribute__((__cdecl__)) __attribute__((__nothrow__)) wchar_t *_wctime (const time_t *);
-# 495 "d:\\mingw\\include\\time.h" 3
- __attribute__((__cdecl__)) __attribute__((__nothrow__))
-size_t wcsftime (wchar_t *, size_t, const wchar_t *, const struct tm *);
 
+
+
+extern wchar_t *wcscpy (wchar_t *__restrict __dest,
+   const wchar_t *__restrict __src) throw ();
+
+extern wchar_t *wcsncpy (wchar_t *__restrict __dest,
+    const wchar_t *__restrict __src, size_t __n)
+     throw ();
+
+
+extern wchar_t *wcscat (wchar_t *__restrict __dest,
+   const wchar_t *__restrict __src) throw ();
+
+extern wchar_t *wcsncat (wchar_t *__restrict __dest,
+    const wchar_t *__restrict __src, size_t __n)
+     throw ();
+
+
+extern int wcscmp (const wchar_t *__s1, const wchar_t *__s2)
+     throw () __attribute__ ((__pure__));
+
+extern int wcsncmp (const wchar_t *__s1, const wchar_t *__s2, size_t __n)
+     throw () __attribute__ ((__pure__));
+
+
+
+
+extern int wcscasecmp (const wchar_t *__s1, const wchar_t *__s2) throw ();
+
+
+extern int wcsncasecmp (const wchar_t *__s1, const wchar_t *__s2,
+   size_t __n) throw ();
+
+
+
+# 1 "/usr/include/xlocale.h" 1 3 4
+# 27 "/usr/include/xlocale.h" 3 4
+typedef struct __locale_struct
+{
+
+  struct __locale_data *__locales[13];
+
+
+  const unsigned short int *__ctype_b;
+  const int *__ctype_tolower;
+  const int *__ctype_toupper;
+
+
+  const char *__names[13];
+} *__locale_t;
+
+
+typedef __locale_t locale_t;
+# 181 "/usr/include/wchar.h" 2 3 4
+
+extern int wcscasecmp_l (const wchar_t *__s1, const wchar_t *__s2,
+    __locale_t __loc) throw ();
+
+extern int wcsncasecmp_l (const wchar_t *__s1, const wchar_t *__s2,
+     size_t __n, __locale_t __loc) throw ();
+
+
+
+
+
+extern int wcscoll (const wchar_t *__s1, const wchar_t *__s2) throw ();
+
+
+
+extern size_t wcsxfrm (wchar_t *__restrict __s1,
+         const wchar_t *__restrict __s2, size_t __n) throw ();
+
+
+
+
+
+
+
+
+extern int wcscoll_l (const wchar_t *__s1, const wchar_t *__s2,
+        __locale_t __loc) throw ();
+
+
+
+
+extern size_t wcsxfrm_l (wchar_t *__s1, const wchar_t *__s2,
+    size_t __n, __locale_t __loc) throw ();
+
+
+extern wchar_t *wcsdup (const wchar_t *__s) throw () __attribute__ ((__malloc__));
+
+
+
+
+
+extern "C++" wchar_t *wcschr (wchar_t *__wcs, wchar_t __wc)
+     throw () __asm ("wcschr") __attribute__ ((__pure__));
+extern "C++" const wchar_t *wcschr (const wchar_t *__wcs, wchar_t __wc)
+     throw () __asm ("wcschr") __attribute__ ((__pure__));
+
+
+
+
+
+
+extern "C++" wchar_t *wcsrchr (wchar_t *__wcs, wchar_t __wc)
+     throw () __asm ("wcsrchr") __attribute__ ((__pure__));
+extern "C++" const wchar_t *wcsrchr (const wchar_t *__wcs, wchar_t __wc)
+     throw () __asm ("wcsrchr") __attribute__ ((__pure__));
+
+
+
+
+
+
+
+
+
+extern wchar_t *wcschrnul (const wchar_t *__s, wchar_t __wc)
+     throw () __attribute__ ((__pure__));
+
+
+
+
+
+extern size_t wcscspn (const wchar_t *__wcs, const wchar_t *__reject)
+     throw () __attribute__ ((__pure__));
+
+
+extern size_t wcsspn (const wchar_t *__wcs, const wchar_t *__accept)
+     throw () __attribute__ ((__pure__));
+
+
+extern "C++" wchar_t *wcspbrk (wchar_t *__wcs, const wchar_t *__accept)
+     throw () __asm ("wcspbrk") __attribute__ ((__pure__));
+extern "C++" const wchar_t *wcspbrk (const wchar_t *__wcs,
+         const wchar_t *__accept)
+     throw () __asm ("wcspbrk") __attribute__ ((__pure__));
+
+
+
+
+
+
+extern "C++" wchar_t *wcsstr (wchar_t *__haystack, const wchar_t *__needle)
+     throw () __asm ("wcsstr") __attribute__ ((__pure__));
+extern "C++" const wchar_t *wcsstr (const wchar_t *__haystack,
+        const wchar_t *__needle)
+     throw () __asm ("wcsstr") __attribute__ ((__pure__));
+
+
+
+
+
+
+extern wchar_t *wcstok (wchar_t *__restrict __s,
+   const wchar_t *__restrict __delim,
+   wchar_t **__restrict __ptr) throw ();
+
+
+extern size_t wcslen (const wchar_t *__s) throw () __attribute__ ((__pure__));
+
+
+
+
+
+extern "C++" wchar_t *wcswcs (wchar_t *__haystack, const wchar_t *__needle)
+     throw () __asm ("wcswcs") __attribute__ ((__pure__));
+extern "C++" const wchar_t *wcswcs (const wchar_t *__haystack,
+        const wchar_t *__needle)
+     throw () __asm ("wcswcs") __attribute__ ((__pure__));
+# 306 "/usr/include/wchar.h" 3 4
+extern size_t wcsnlen (const wchar_t *__s, size_t __maxlen)
+     throw () __attribute__ ((__pure__));
+
+
+
+
+
+
+extern "C++" wchar_t *wmemchr (wchar_t *__s, wchar_t __c, size_t __n)
+     throw () __asm ("wmemchr") __attribute__ ((__pure__));
+extern "C++" const wchar_t *wmemchr (const wchar_t *__s, wchar_t __c,
+         size_t __n)
+     throw () __asm ("wmemchr") __attribute__ ((__pure__));
+
+
+
+
+
+
+extern int wmemcmp (const wchar_t *__s1, const wchar_t *__s2, size_t __n)
+     throw () __attribute__ ((__pure__));
+
+
+extern wchar_t *wmemcpy (wchar_t *__restrict __s1,
+    const wchar_t *__restrict __s2, size_t __n) throw ();
+
+
+
+extern wchar_t *wmemmove (wchar_t *__s1, const wchar_t *__s2, size_t __n)
+     throw ();
+
+
+extern wchar_t *wmemset (wchar_t *__s, wchar_t __c, size_t __n) throw ();
+
+
+
+
+
+extern wchar_t *wmempcpy (wchar_t *__restrict __s1,
+     const wchar_t *__restrict __s2, size_t __n)
+     throw ();
+
+
+
+
+
+
+extern wint_t btowc (int __c) throw ();
+
+
+
+extern int wctob (wint_t __c) throw ();
+
+
+
+extern int mbsinit (const mbstate_t *__ps) throw () __attribute__ ((__pure__));
+
+
+
+extern size_t mbrtowc (wchar_t *__restrict __pwc,
+         const char *__restrict __s, size_t __n,
+         mbstate_t *__restrict __p) throw ();
+
+
+extern size_t wcrtomb (char *__restrict __s, wchar_t __wc,
+         mbstate_t *__restrict __ps) throw ();
+
+
+extern size_t __mbrlen (const char *__restrict __s, size_t __n,
+   mbstate_t *__restrict __ps) throw ();
+extern size_t mbrlen (const char *__restrict __s, size_t __n,
+        mbstate_t *__restrict __ps) throw ();
+
+# 405 "/usr/include/wchar.h" 3 4
+
+
+
+extern size_t mbsrtowcs (wchar_t *__restrict __dst,
+    const char **__restrict __src, size_t __len,
+    mbstate_t *__restrict __ps) throw ();
+
+
+
+extern size_t wcsrtombs (char *__restrict __dst,
+    const wchar_t **__restrict __src, size_t __len,
+    mbstate_t *__restrict __ps) throw ();
+
+
+
+
+
+
+extern size_t mbsnrtowcs (wchar_t *__restrict __dst,
+     const char **__restrict __src, size_t __nmc,
+     size_t __len, mbstate_t *__restrict __ps) throw ();
+
+
+
+extern size_t wcsnrtombs (char *__restrict __dst,
+     const wchar_t **__restrict __src,
+     size_t __nwc, size_t __len,
+     mbstate_t *__restrict __ps) throw ();
+
+
+
+
+
+
+extern int wcwidth (wchar_t __c) throw ();
+
+
+
+extern int wcswidth (const wchar_t *__s, size_t __n) throw ();
+
+
+
+
+
+
+extern double wcstod (const wchar_t *__restrict __nptr,
+        wchar_t **__restrict __endptr) throw ();
+
+
+
+
+
+extern float wcstof (const wchar_t *__restrict __nptr,
+       wchar_t **__restrict __endptr) throw ();
+extern long double wcstold (const wchar_t *__restrict __nptr,
+       wchar_t **__restrict __endptr) throw ();
+
+
+
+
+
+
+
+extern long int wcstol (const wchar_t *__restrict __nptr,
+   wchar_t **__restrict __endptr, int __base) throw ();
+
+
+
+extern unsigned long int wcstoul (const wchar_t *__restrict __nptr,
+      wchar_t **__restrict __endptr, int __base)
+     throw ();
+
+
+
+
+
+
+__extension__
+extern long long int wcstoll (const wchar_t *__restrict __nptr,
+         wchar_t **__restrict __endptr, int __base)
+     throw ();
+
+
+
+__extension__
+extern unsigned long long int wcstoull (const wchar_t *__restrict __nptr,
+     wchar_t **__restrict __endptr,
+     int __base) throw ();
+
+
+
+
+
+
+__extension__
+extern long long int wcstoq (const wchar_t *__restrict __nptr,
+        wchar_t **__restrict __endptr, int __base)
+     throw ();
+
+
+
+__extension__
+extern unsigned long long int wcstouq (const wchar_t *__restrict __nptr,
+           wchar_t **__restrict __endptr,
+           int __base) throw ();
+# 530 "/usr/include/wchar.h" 3 4
+extern long int wcstol_l (const wchar_t *__restrict __nptr,
+     wchar_t **__restrict __endptr, int __base,
+     __locale_t __loc) throw ();
+
+extern unsigned long int wcstoul_l (const wchar_t *__restrict __nptr,
+        wchar_t **__restrict __endptr,
+        int __base, __locale_t __loc) throw ();
+
+__extension__
+extern long long int wcstoll_l (const wchar_t *__restrict __nptr,
+    wchar_t **__restrict __endptr,
+    int __base, __locale_t __loc) throw ();
+
+__extension__
+extern unsigned long long int wcstoull_l (const wchar_t *__restrict __nptr,
+       wchar_t **__restrict __endptr,
+       int __base, __locale_t __loc)
+     throw ();
+
+extern double wcstod_l (const wchar_t *__restrict __nptr,
+   wchar_t **__restrict __endptr, __locale_t __loc)
+     throw ();
+
+extern float wcstof_l (const wchar_t *__restrict __nptr,
+         wchar_t **__restrict __endptr, __locale_t __loc)
+     throw ();
+
+extern long double wcstold_l (const wchar_t *__restrict __nptr,
+         wchar_t **__restrict __endptr,
+         __locale_t __loc) throw ();
+
+
+
+
+
+
+extern wchar_t *wcpcpy (wchar_t *__restrict __dest,
+   const wchar_t *__restrict __src) throw ();
+
+
+
+extern wchar_t *wcpncpy (wchar_t *__restrict __dest,
+    const wchar_t *__restrict __src, size_t __n)
+     throw ();
+
+
+
+
+
+
+extern __FILE *open_wmemstream (wchar_t **__bufloc, size_t *__sizeloc) throw ();
+
+
+
+
+
+
+extern int fwide (__FILE *__fp, int __mode) throw ();
+
+
+
+
+
+
+extern int fwprintf (__FILE *__restrict __stream,
+       const wchar_t *__restrict __format, ...)
+                                                           ;
+
+
+
+
+extern int wprintf (const wchar_t *__restrict __format, ...)
+                                                           ;
+
+extern int swprintf (wchar_t *__restrict __s, size_t __n,
+       const wchar_t *__restrict __format, ...)
+     throw () ;
+
+
+
+
+
+extern int vfwprintf (__FILE *__restrict __s,
+        const wchar_t *__restrict __format,
+        __gnuc_va_list __arg)
+                                                           ;
+
+
+
+
+extern int vwprintf (const wchar_t *__restrict __format,
+       __gnuc_va_list __arg)
+                                                           ;
+
+
+extern int vswprintf (wchar_t *__restrict __s, size_t __n,
+        const wchar_t *__restrict __format,
+        __gnuc_va_list __arg)
+     throw () ;
+
+
+
+
+
+
+extern int fwscanf (__FILE *__restrict __stream,
+      const wchar_t *__restrict __format, ...)
+                                                          ;
+
+
+
+
+extern int wscanf (const wchar_t *__restrict __format, ...)
+                                                          ;
+
+extern int swscanf (const wchar_t *__restrict __s,
+      const wchar_t *__restrict __format, ...)
+     throw () ;
+# 680 "/usr/include/wchar.h" 3 4
+
+
+
+
+
+
+
+
+
+extern int vfwscanf (__FILE *__restrict __s,
+       const wchar_t *__restrict __format,
+       __gnuc_va_list __arg)
+                                                          ;
+
+
+
+
+extern int vwscanf (const wchar_t *__restrict __format,
+      __gnuc_va_list __arg)
+                                                          ;
+
+extern int vswscanf (const wchar_t *__restrict __s,
+       const wchar_t *__restrict __format,
+       __gnuc_va_list __arg)
+     throw () ;
+# 736 "/usr/include/wchar.h" 3 4
+
+
+
+
+
+
+
+
+
+extern wint_t fgetwc (__FILE *__stream);
+extern wint_t getwc (__FILE *__stream);
+
+
+
+
+
+extern wint_t getwchar (void);
+
+
+
+
+
+
+extern wint_t fputwc (wchar_t __wc, __FILE *__stream);
+extern wint_t putwc (wchar_t __wc, __FILE *__stream);
+
+
+
+
+
+extern wint_t putwchar (wchar_t __wc);
+
+
+
+
+
+
+
+extern wchar_t *fgetws (wchar_t *__restrict __ws, int __n,
+   __FILE *__restrict __stream);
+
+
+
+
+
+extern int fputws (const wchar_t *__restrict __ws,
+     __FILE *__restrict __stream);
+
+
+
+
+
+
+extern wint_t ungetwc (wint_t __wc, __FILE *__stream);
+
+# 801 "/usr/include/wchar.h" 3 4
+extern wint_t getwc_unlocked (__FILE *__stream);
+extern wint_t getwchar_unlocked (void);
+
+
+
+
+
+
+
+extern wint_t fgetwc_unlocked (__FILE *__stream);
+
+
+
+
+
+
+
+extern wint_t fputwc_unlocked (wchar_t __wc, __FILE *__stream);
+# 827 "/usr/include/wchar.h" 3 4
+extern wint_t putwc_unlocked (wchar_t __wc, __FILE *__stream);
+extern wint_t putwchar_unlocked (wchar_t __wc);
+# 837 "/usr/include/wchar.h" 3 4
+extern wchar_t *fgetws_unlocked (wchar_t *__restrict __ws, int __n,
+     __FILE *__restrict __stream);
+
+
+
+
+
+
+
+extern int fputws_unlocked (const wchar_t *__restrict __ws,
+       __FILE *__restrict __stream);
+
+
+
+
+
+
+
+extern size_t wcsftime (wchar_t *__restrict __s, size_t __maxsize,
+   const wchar_t *__restrict __format,
+   const struct tm *__restrict __tp) throw ();
+
+
+
+
+
+
+
+extern size_t wcsftime_l (wchar_t *__restrict __s, size_t __maxsize,
+     const wchar_t *__restrict __format,
+     const struct tm *__restrict __tp,
+     __locale_t __loc) throw ();
+# 891 "/usr/include/wchar.h" 3 4
 }
-# 291 "d:\\mingw\\include\\wchar.h" 2 3
-# 328 "d:\\mingw\\include\\wchar.h" 3
-# 1 "d:\\mingw\\include\\locale.h" 1 3
-# 34 "d:\\mingw\\include\\locale.h" 3
-       
-# 35 "d:\\mingw\\include\\locale.h" 3
-# 135 "d:\\mingw\\include\\locale.h" 3
-extern "C" {
-# 151 "d:\\mingw\\include\\locale.h" 3
- __attribute__((__cdecl__)) __attribute__((__nothrow__)) wchar_t *_wsetlocale (int, const wchar_t *);
-# 178 "d:\\mingw\\include\\locale.h" 3
-}
-# 329 "d:\\mingw\\include\\wchar.h" 2 3
-
-
-
-
-
-
-
-# 1 "d:\\mingw\\include\\process.h" 1 3
-# 33 "d:\\mingw\\include\\process.h" 3
-       
-# 34 "d:\\mingw\\include\\process.h" 3
-# 91 "d:\\mingw\\include\\process.h" 3
-# 1 "d:\\mingw\\include\\stdint.h" 1 3
-# 34 "d:\\mingw\\include\\stdint.h" 3
-       
-# 35 "d:\\mingw\\include\\stdint.h" 3
-# 92 "d:\\mingw\\include\\process.h" 2 3
-
-extern "C" {
-# 240 "d:\\mingw\\include\\process.h" 3
- __attribute__((__cdecl__)) __attribute__((__nothrow__))
-intptr_t _wexecl (const wchar_t *, const wchar_t *, ...);
-
- __attribute__((__cdecl__)) __attribute__((__nothrow__))
-intptr_t _wexecle (const wchar_t *, const wchar_t *, ...);
-
- __attribute__((__cdecl__)) __attribute__((__nothrow__))
-intptr_t _wexeclp (const wchar_t *, const wchar_t *, ...);
-
- __attribute__((__cdecl__)) __attribute__((__nothrow__))
-intptr_t _wexeclpe (const wchar_t *, const wchar_t *, ...);
-
- __attribute__((__cdecl__)) __attribute__((__nothrow__))
-intptr_t _wexecv (const wchar_t *, const wchar_t * const *);
-
- __attribute__((__cdecl__)) __attribute__((__nothrow__)) intptr_t _wexecve
-(const wchar_t *, const wchar_t * const *, const wchar_t * const *);
-
- __attribute__((__cdecl__)) __attribute__((__nothrow__))
-intptr_t _wexecvp (const wchar_t *, const wchar_t * const *);
-
- __attribute__((__cdecl__)) __attribute__((__nothrow__)) intptr_t _wexecvpe
-(const wchar_t *, const wchar_t * const *, const wchar_t * const *);
-
- __attribute__((__cdecl__)) __attribute__((__nothrow__))
-intptr_t _wspawnl (int, const wchar_t *, const wchar_t *, ...);
-
- __attribute__((__cdecl__)) __attribute__((__nothrow__))
-intptr_t _wspawnle (int, const wchar_t *, const wchar_t *, ...);
-
- __attribute__((__cdecl__)) __attribute__((__nothrow__))
-intptr_t _wspawnlp (int, const wchar_t *, const wchar_t *, ...);
-
- __attribute__((__cdecl__)) __attribute__((__nothrow__))
-intptr_t _wspawnlpe (int, const wchar_t *, const wchar_t *, ...);
-
- __attribute__((__cdecl__)) __attribute__((__nothrow__))
-intptr_t _wspawnv (int, const wchar_t *, const wchar_t * const *);
-
- __attribute__((__cdecl__)) __attribute__((__nothrow__)) intptr_t _wspawnve
-(int, const wchar_t *, const wchar_t * const *, const wchar_t * const *);
-
- __attribute__((__cdecl__)) __attribute__((__nothrow__))
-intptr_t _wspawnvp (int, const wchar_t *, const wchar_t * const *);
-
- __attribute__((__cdecl__)) __attribute__((__nothrow__)) intptr_t _wspawnvpe
-(int, const wchar_t *, const wchar_t * const *, const wchar_t * const *);
-
-
-
-}
-# 337 "d:\\mingw\\include\\wchar.h" 2 3
-# 370 "d:\\mingw\\include\\wchar.h" 3
-extern "C" {
-# 392 "d:\\mingw\\include\\wchar.h" 3
- __attribute__((__cdecl__)) __attribute__((__nothrow__)) wchar_t *wcscat (wchar_t *, const wchar_t *);
- __attribute__((__cdecl__)) __attribute__((__nothrow__)) wchar_t *wcschr (const wchar_t *, wchar_t);
- __attribute__((__cdecl__)) __attribute__((__nothrow__)) int wcscmp (const wchar_t *, const wchar_t *);
- __attribute__((__cdecl__)) __attribute__((__nothrow__)) int wcscoll (const wchar_t *, const wchar_t *);
- __attribute__((__cdecl__)) __attribute__((__nothrow__)) wchar_t *wcscpy (wchar_t *, const wchar_t *);
- __attribute__((__cdecl__)) __attribute__((__nothrow__)) size_t wcscspn (const wchar_t *, const wchar_t *);
- __attribute__((__cdecl__)) __attribute__((__nothrow__)) size_t wcslen (const wchar_t *);
- __attribute__((__cdecl__)) __attribute__((__nothrow__)) wchar_t *wcsncat (wchar_t *, const wchar_t *, size_t);
- __attribute__((__cdecl__)) __attribute__((__nothrow__)) int wcsncmp (const wchar_t *, const wchar_t *, size_t);
- __attribute__((__cdecl__)) __attribute__((__nothrow__)) wchar_t *wcsncpy (wchar_t *, const wchar_t *, size_t);
- __attribute__((__cdecl__)) __attribute__((__nothrow__)) wchar_t *wcspbrk (const wchar_t *, const wchar_t *);
- __attribute__((__cdecl__)) __attribute__((__nothrow__)) wchar_t *wcsrchr (const wchar_t *, wchar_t);
- __attribute__((__cdecl__)) __attribute__((__nothrow__)) size_t wcsspn (const wchar_t *, const wchar_t *);
- __attribute__((__cdecl__)) __attribute__((__nothrow__)) wchar_t *wcsstr (const wchar_t *, const wchar_t *);
- __attribute__((__cdecl__)) __attribute__((__nothrow__)) wchar_t *wcstok (wchar_t *, const wchar_t *);
- __attribute__((__cdecl__)) __attribute__((__nothrow__)) size_t wcsxfrm (wchar_t *, const wchar_t *, size_t);
-
-
-
-
- __attribute__((__cdecl__)) __attribute__((__nothrow__)) wchar_t *_wcsdup (const wchar_t *);
- __attribute__((__cdecl__)) __attribute__((__nothrow__)) int _wcsicmp (const wchar_t *, const wchar_t *);
- __attribute__((__cdecl__)) __attribute__((__nothrow__)) int _wcsicoll (const wchar_t *, const wchar_t *);
- __attribute__((__cdecl__)) __attribute__((__nothrow__)) wchar_t *_wcslwr (wchar_t*);
- __attribute__((__cdecl__)) __attribute__((__nothrow__)) int _wcsnicmp (const wchar_t *, const wchar_t *, size_t);
- __attribute__((__cdecl__)) __attribute__((__nothrow__)) wchar_t *_wcsnset (wchar_t *, wchar_t, size_t);
- __attribute__((__cdecl__)) __attribute__((__nothrow__)) wchar_t *_wcsrev (wchar_t *);
- __attribute__((__cdecl__)) __attribute__((__nothrow__)) wchar_t *_wcsset (wchar_t *, wchar_t);
- __attribute__((__cdecl__)) __attribute__((__nothrow__)) wchar_t *_wcsupr (wchar_t *);
-
-
- __attribute__((__cdecl__)) __attribute__((__nothrow__)) int _wcsncoll (const wchar_t *, const wchar_t *, size_t);
- __attribute__((__cdecl__)) __attribute__((__nothrow__)) int _wcsnicoll (const wchar_t *, const wchar_t *, size_t);
-# 445 "d:\\mingw\\include\\wchar.h" 3
-int __attribute__((__cdecl__)) __attribute__((__nothrow__)) wcscmpi (const wchar_t *, const wchar_t *);
-# 457 "d:\\mingw\\include\\wchar.h" 3
- __attribute__((__cdecl__)) __attribute__((__nothrow__)) wchar_t *wcsdup (const wchar_t *);
- __attribute__((__cdecl__)) __attribute__((__nothrow__)) int wcsicmp (const wchar_t *, const wchar_t *);
- __attribute__((__cdecl__)) __attribute__((__nothrow__)) int wcsicoll (const wchar_t *, const wchar_t *);
- __attribute__((__cdecl__)) __attribute__((__nothrow__)) wchar_t *wcslwr (wchar_t *);
- __attribute__((__cdecl__)) __attribute__((__nothrow__)) int wcsnicmp (const wchar_t *, const wchar_t *, size_t);
- __attribute__((__cdecl__)) __attribute__((__nothrow__)) wchar_t *wcsnset (wchar_t *, wchar_t, size_t);
- __attribute__((__cdecl__)) __attribute__((__nothrow__)) wchar_t *wcsrev (wchar_t *);
- __attribute__((__cdecl__)) __attribute__((__nothrow__)) wchar_t *wcsset (wchar_t *, wchar_t);
- __attribute__((__cdecl__)) __attribute__((__nothrow__)) wchar_t *wcsupr (wchar_t *);
-# 491 "d:\\mingw\\include\\wchar.h" 3
-extern size_t __mingw_wcsnlen (const wchar_t *, size_t);
-
-
-inline __attribute__((__always_inline__)) size_t wcsnlen (const wchar_t *__text, size_t __maxlen)
-{ return __mingw_wcsnlen (__text, __maxlen); }
-# 509 "d:\\mingw\\include\\wchar.h" 3
-typedef wchar_t _Wint_t;
-
-
-typedef int mbstate_t;
-
-
-
-
-
-__attribute__((__cdecl__)) __attribute__((__nothrow__)) wint_t btowc (int);
-__attribute__((__cdecl__)) __attribute__((__nothrow__)) int wctob (wint_t);
-
-__attribute__((__cdecl__)) __attribute__((__nothrow__))
-size_t mbrlen (const char *__restrict__, size_t, mbstate_t *__restrict__);
-
-__attribute__((__cdecl__)) __attribute__((__nothrow__)) size_t mbrtowc
-(wchar_t *__restrict__, const char *__restrict__, size_t, mbstate_t *__restrict__);
-
-__attribute__((__cdecl__)) __attribute__((__nothrow__)) size_t mbsrtowcs
-(wchar_t *__restrict__, const char **__restrict__, size_t, mbstate_t *__restrict__);
-
-__attribute__((__cdecl__)) __attribute__((__nothrow__))
-size_t wcrtomb (char * __restrict__, wchar_t, mbstate_t *__restrict__);
-
-__attribute__((__cdecl__)) __attribute__((__nothrow__)) size_t wcsrtombs
-(char *__restrict__, const wchar_t **__restrict__, size_t, mbstate_t *__restrict__);
-
-
-
-
-
-
-
-__attribute__((__cdecl__)) __attribute__((__nothrow__)) int fwide (FILE *, int);
-__attribute__((__cdecl__)) __attribute__((__nothrow__)) int mbsinit (const mbstate_t *);
-# 555 "d:\\mingw\\include\\wchar.h" 3
-__attribute__((__cdecl__)) __attribute__((__nothrow__)) wchar_t *wmemset (wchar_t *, wchar_t, size_t);
-__attribute__((__cdecl__)) __attribute__((__nothrow__)) wchar_t *wmemchr (const wchar_t *, wchar_t, size_t);
-
-
-
-
-
-int wmemcmp (const wchar_t *, const wchar_t *, size_t);
-
-__attribute__((__cdecl__)) __attribute__((__nothrow__))
-wchar_t *wmemcpy (wchar_t *__restrict__, const wchar_t *__restrict__, size_t);
-
-__attribute__((__cdecl__)) __attribute__((__nothrow__)) wchar_t *wmemmove (wchar_t *, const wchar_t *, size_t);
-
-__attribute__((__cdecl__)) __attribute__((__nothrow__))
-long long wcstoll (const wchar_t *__restrict__, wchar_t **__restrict__, int);
-
-__attribute__((__cdecl__)) __attribute__((__nothrow__)) unsigned long long wcstoull
-(const wchar_t *__restrict__, wchar_t **__restrict__, int);
-
-
-}
-# 45 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\cwchar" 2 3
-# 62 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\cwchar" 3
+# 45 "/usr/include/c++/4.8/cwchar" 2 3
+# 62 "/usr/include/c++/4.8/cwchar" 3
 namespace std
 {
   using ::mbstate_t;
 }
-# 135 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\cwchar" 3
-namespace std
+# 135 "/usr/include/c++/4.8/cwchar" 3
+namespace std __attribute__ ((__visibility__ ("default")))
 {
 
 
@@ -854,15 +851,23 @@ namespace std
   using ::putwc;
   using ::putwchar;
 
-
+  using ::swprintf;
 
   using ::swscanf;
   using ::ungetwc;
   using ::vfwprintf;
-# 172 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\cwchar" 3
+
+  using ::vfwscanf;
+
+
+  using ::vswprintf;
+
+
+  using ::vswscanf;
+
   using ::vwprintf;
 
-
+  using ::vwscanf;
 
   using ::wcrtomb;
   using ::wcscat;
@@ -879,7 +884,7 @@ namespace std
   using ::wcsspn;
   using ::wcstod;
 
-
+  using ::wcstof;
 
   using ::wcstok;
   using ::wcstol;
@@ -897,37 +902,42 @@ namespace std
   using ::wcsrchr;
   using ::wcsstr;
   using ::wmemchr;
-
-
-  inline wchar_t*
-  wcschr(wchar_t* __p, wchar_t __c)
-  { return wcschr(const_cast<const wchar_t*>(__p), __c); }
-
-  inline wchar_t*
-  wcspbrk(wchar_t* __s1, const wchar_t* __s2)
-  { return wcspbrk(const_cast<const wchar_t*>(__s1), __s2); }
-
-  inline wchar_t*
-  wcsrchr(wchar_t* __p, wchar_t __c)
-  { return wcsrchr(const_cast<const wchar_t*>(__p), __c); }
-
-  inline wchar_t*
-  wcsstr(wchar_t* __s1, const wchar_t* __s2)
-  { return wcsstr(const_cast<const wchar_t*>(__s1), __s2); }
-
-  inline wchar_t*
-  wmemchr(wchar_t* __p, wchar_t __c, size_t __n)
-  { return wmemchr(const_cast<const wchar_t*>(__p), __c, __n); }
-
-
+# 232 "/usr/include/c++/4.8/cwchar" 3
 
 }
-# 41 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\postypes.h" 2 3
-# 68 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\postypes.h" 3
-namespace std
+
+
+
+
+
+
+
+namespace __gnu_cxx
 {
 
-# 90 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\postypes.h" 3
+
+
+
+
+  using ::wcstold;
+# 257 "/usr/include/c++/4.8/cwchar" 3
+  using ::wcstoll;
+  using ::wcstoull;
+
+}
+
+namespace std
+{
+  using ::__gnu_cxx::wcstold;
+  using ::__gnu_cxx::wcstoll;
+  using ::__gnu_cxx::wcstoull;
+}
+# 41 "/usr/include/c++/4.8/bits/postypes.h" 2 3
+# 68 "/usr/include/c++/4.8/bits/postypes.h" 3
+namespace std __attribute__ ((__visibility__ ("default")))
+{
+
+# 90 "/usr/include/c++/4.8/bits/postypes.h" 3
   typedef long long streamoff;
 
 
@@ -937,7 +947,7 @@ namespace std
 
 
   typedef ptrdiff_t streamsize;
-# 111 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\postypes.h" 3
+# 111 "/usr/include/c++/4.8/bits/postypes.h" 3
   template<typename _StateT>
     class fpos
     {
@@ -952,7 +962,7 @@ namespace std
 
       fpos()
       : _M_off(0), _M_state() { }
-# 133 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\postypes.h" 3
+# 133 "/usr/include/c++/4.8/bits/postypes.h" 3
       fpos(streamoff __off)
       : _M_off(__off), _M_state() { }
 
@@ -1051,15 +1061,15 @@ namespace std
   typedef fpos<mbstate_t> streampos;
 
   typedef fpos<mbstate_t> wstreampos;
-# 239 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\postypes.h" 3
+# 239 "/usr/include/c++/4.8/bits/postypes.h" 3
 
 }
-# 41 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\iosfwd" 2 3
+# 41 "/usr/include/c++/4.8/iosfwd" 2 3
 
-namespace std
+namespace std __attribute__ ((__visibility__ ("default")))
 {
 
-# 74 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\iosfwd" 3
+# 74 "/usr/include/c++/4.8/iosfwd" 3
   class ios_base;
 
   template<typename _CharT, typename _Traits = char_traits<_CharT> >
@@ -1077,9 +1087,6 @@ namespace std
   template<typename _CharT, typename _Traits = char_traits<_CharT> >
     class basic_iostream;
 
-
-namespace __cxx11 {
-
   template<typename _CharT, typename _Traits = char_traits<_CharT>,
      typename _Alloc = allocator<_CharT> >
     class basic_stringbuf;
@@ -1095,8 +1102,6 @@ namespace __cxx11 {
   template<typename _CharT, typename _Traits = char_traits<_CharT>,
     typename _Alloc = allocator<_CharT> >
     class basic_stringstream;
-
-}
 
   template<typename _CharT, typename _Traits = char_traits<_CharT> >
     class basic_filebuf;
@@ -1200,26 +1205,26 @@ namespace __cxx11 {
 
 
 }
-# 39 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\ios" 2 3
-# 1 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\exception" 1 3
-# 33 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\exception" 3
+# 39 "/usr/include/c++/4.8/ios" 2 3
+# 1 "/usr/include/c++/4.8/exception" 1 3
+# 33 "/usr/include/c++/4.8/exception" 3
        
-# 34 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\exception" 3
+# 34 "/usr/include/c++/4.8/exception" 3
 
 #pragma GCC visibility push(default)
 
 
-# 1 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\atomic_lockfree_defines.h" 1 3
-# 33 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\atomic_lockfree_defines.h" 3
+# 1 "/usr/include/c++/4.8/bits/atomic_lockfree_defines.h" 1 3
+# 33 "/usr/include/c++/4.8/bits/atomic_lockfree_defines.h" 3
        
-# 34 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\atomic_lockfree_defines.h" 3
-# 39 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\exception" 2 3
+# 34 "/usr/include/c++/4.8/bits/atomic_lockfree_defines.h" 3
+# 39 "/usr/include/c++/4.8/exception" 2 3
 
 extern "C++" {
 
 namespace std
 {
-# 60 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\exception" 3
+# 60 "/usr/include/c++/4.8/exception" 3
   class exception
   {
   public:
@@ -1254,14 +1259,18 @@ namespace std
 
 
   terminate_handler set_terminate(terminate_handler) throw();
-# 102 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\exception" 3
+
+
+
   void terminate() throw() __attribute__ ((__noreturn__));
 
 
   unexpected_handler set_unexpected(unexpected_handler) throw();
-# 114 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\exception" 3
+
+
+
   void unexpected() __attribute__ ((__noreturn__));
-# 127 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\exception" 3
+# 117 "/usr/include/c++/4.8/exception" 3
   bool uncaught_exception() throw() __attribute__ ((__pure__));
 
 
@@ -1270,7 +1279,7 @@ namespace std
 namespace __gnu_cxx
 {
 
-# 152 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\exception" 3
+# 142 "/usr/include/c++/4.8/exception" 3
   void __verbose_terminate_handler();
 
 
@@ -1279,20 +1288,20 @@ namespace __gnu_cxx
 }
 
 #pragma GCC visibility pop
-# 40 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\ios" 2 3
-# 1 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\char_traits.h" 1 3
-# 37 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\char_traits.h" 3
+# 40 "/usr/include/c++/4.8/ios" 2 3
+# 1 "/usr/include/c++/4.8/bits/char_traits.h" 1 3
+# 37 "/usr/include/c++/4.8/bits/char_traits.h" 3
        
-# 38 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\char_traits.h" 3
+# 38 "/usr/include/c++/4.8/bits/char_traits.h" 3
 
-# 1 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\stl_algobase.h" 1 3
-# 60 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\stl_algobase.h" 3
-# 1 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\functexcept.h" 1 3
-# 40 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\functexcept.h" 3
-# 1 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\exception_defines.h" 1 3
-# 41 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\functexcept.h" 2 3
+# 1 "/usr/include/c++/4.8/bits/stl_algobase.h" 1 3
+# 60 "/usr/include/c++/4.8/bits/stl_algobase.h" 3
+# 1 "/usr/include/c++/4.8/bits/functexcept.h" 1 3
+# 40 "/usr/include/c++/4.8/bits/functexcept.h" 3
+# 1 "/usr/include/c++/4.8/bits/exception_defines.h" 1 3
+# 41 "/usr/include/c++/4.8/bits/functexcept.h" 2 3
 
-namespace std
+namespace std __attribute__ ((__visibility__ ("default")))
 {
 
 
@@ -1328,10 +1337,6 @@ namespace std
   __throw_out_of_range(const char*) __attribute__((__noreturn__));
 
   void
-  __throw_out_of_range_fmt(const char*, ...) __attribute__((__noreturn__))
-    __attribute__((__format__(__gnu_printf__, 1, 2)));
-
-  void
   __throw_runtime_error(const char*) __attribute__((__noreturn__));
 
   void
@@ -1359,13 +1364,13 @@ namespace std
 
 
 }
-# 61 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\stl_algobase.h" 2 3
-# 1 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\cpp_type_traits.h" 1 3
-# 35 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\cpp_type_traits.h" 3
+# 61 "/usr/include/c++/4.8/bits/stl_algobase.h" 2 3
+# 1 "/usr/include/c++/4.8/bits/cpp_type_traits.h" 1 3
+# 35 "/usr/include/c++/4.8/bits/cpp_type_traits.h" 3
        
-# 36 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\cpp_type_traits.h" 3
-# 68 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\cpp_type_traits.h" 3
-namespace __gnu_cxx
+# 36 "/usr/include/c++/4.8/bits/cpp_type_traits.h" 3
+# 68 "/usr/include/c++/4.8/bits/cpp_type_traits.h" 3
+namespace __gnu_cxx __attribute__ ((__visibility__ ("default")))
 {
 
 
@@ -1375,7 +1380,7 @@ namespace __gnu_cxx
 
 }
 
-namespace std
+namespace std __attribute__ ((__visibility__ ("default")))
 {
 
 
@@ -1442,7 +1447,6 @@ namespace std
 
 
 
-
   template<>
     struct __is_integer<bool>
     {
@@ -1478,7 +1482,7 @@ namespace std
       enum { __value = 1 };
       typedef __true_type __type;
     };
-# 199 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\cpp_type_traits.h" 3
+# 198 "/usr/include/c++/4.8/bits/cpp_type_traits.h" 3
   template<>
     struct __is_integer<short>
     {
@@ -1534,7 +1538,10 @@ namespace std
       enum { __value = 1 };
       typedef __true_type __type;
     };
-# 287 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\cpp_type_traits.h" 3
+
+
+
+
   template<typename _Tp>
     struct __is_floating
     {
@@ -1611,6 +1618,14 @@ namespace std
 
 
   template<typename _Tp>
+    struct __is_fundamental
+    : public __traitor<__is_void<_Tp>, __is_arithmetic<_Tp> >
+    { };
+
+
+
+
+  template<typename _Tp>
     struct __is_scalar
     : public __traitor<__is_arithmetic<_Tp>, __is_pointer<_Tp> >
     { };
@@ -1678,19 +1693,19 @@ namespace std
       enum { __value = 0 };
       typedef __false_type __type;
     };
-# 443 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\cpp_type_traits.h" 3
+# 421 "/usr/include/c++/4.8/bits/cpp_type_traits.h" 3
 
 }
-# 62 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\stl_algobase.h" 2 3
-# 1 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\ext\\type_traits.h" 1 3
-# 32 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\ext\\type_traits.h" 3
+# 62 "/usr/include/c++/4.8/bits/stl_algobase.h" 2 3
+# 1 "/usr/include/c++/4.8/ext/type_traits.h" 1 3
+# 32 "/usr/include/c++/4.8/ext/type_traits.h" 3
        
-# 33 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\ext\\type_traits.h" 3
+# 33 "/usr/include/c++/4.8/ext/type_traits.h" 3
 
 
 
 
-namespace __gnu_cxx
+namespace __gnu_cxx __attribute__ ((__visibility__ ("default")))
 {
 
 
@@ -1810,7 +1825,9 @@ namespace __gnu_cxx
     inline bool
     __is_null_pointer(_Type)
     { return false; }
-# 165 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\ext\\type_traits.h" 3
+
+
+
   template<typename _Tp, bool = std::__is_integer<_Tp>::__value>
     struct __promote
     { typedef double __type; };
@@ -1863,19 +1880,19 @@ namespace __gnu_cxx
 
 
 }
-# 63 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\stl_algobase.h" 2 3
-# 1 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\ext\\numeric_traits.h" 1 3
-# 32 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\ext\\numeric_traits.h" 3
+# 63 "/usr/include/c++/4.8/bits/stl_algobase.h" 2 3
+# 1 "/usr/include/c++/4.8/ext/numeric_traits.h" 1 3
+# 32 "/usr/include/c++/4.8/ext/numeric_traits.h" 3
        
-# 33 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\ext\\numeric_traits.h" 3
+# 33 "/usr/include/c++/4.8/ext/numeric_traits.h" 3
 
 
 
 
-namespace __gnu_cxx
+namespace __gnu_cxx __attribute__ ((__visibility__ ("default")))
 {
 
-# 54 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\ext\\numeric_traits.h" 3
+# 54 "/usr/include/c++/4.8/ext/numeric_traits.h" 3
   template<typename _Value>
     struct __numeric_traits_integer
     {
@@ -1900,7 +1917,7 @@ namespace __gnu_cxx
 
   template<typename _Value>
     const int __numeric_traits_integer<_Value>::__digits;
-# 99 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\ext\\numeric_traits.h" 3
+# 99 "/usr/include/c++/4.8/ext/numeric_traits.h" 3
   template<typename _Value>
     struct __numeric_traits_floating
     {
@@ -1934,18 +1951,18 @@ namespace __gnu_cxx
 
 
 }
-# 64 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\stl_algobase.h" 2 3
-# 1 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\stl_pair.h" 1 3
-# 59 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\stl_pair.h" 3
-# 1 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\move.h" 1 3
-# 34 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\move.h" 3
-# 1 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\concept_check.h" 1 3
-# 33 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\concept_check.h" 3
+# 64 "/usr/include/c++/4.8/bits/stl_algobase.h" 2 3
+# 1 "/usr/include/c++/4.8/bits/stl_pair.h" 1 3
+# 59 "/usr/include/c++/4.8/bits/stl_pair.h" 3
+# 1 "/usr/include/c++/4.8/bits/move.h" 1 3
+# 34 "/usr/include/c++/4.8/bits/move.h" 3
+# 1 "/usr/include/c++/4.8/bits/concept_check.h" 1 3
+# 33 "/usr/include/c++/4.8/bits/concept_check.h" 3
        
-# 34 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\concept_check.h" 3
-# 35 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\move.h" 2 3
+# 34 "/usr/include/c++/4.8/bits/concept_check.h" 3
+# 35 "/usr/include/c++/4.8/bits/move.h" 2 3
 
-namespace std
+namespace std __attribute__ ((__visibility__ ("default")))
 {
 
 
@@ -1964,11 +1981,11 @@ namespace std
 
 
 }
-# 159 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\move.h" 3
-namespace std
+# 149 "/usr/include/c++/4.8/bits/move.h" 3
+namespace std __attribute__ ((__visibility__ ("default")))
 {
 
-# 174 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\move.h" 3
+# 164 "/usr/include/c++/4.8/bits/move.h" 3
   template<typename _Tp>
     inline void
     swap(_Tp& __a, _Tp& __b)
@@ -2002,16 +2019,16 @@ namespace std
 
 
 }
-# 60 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\stl_pair.h" 2 3
+# 60 "/usr/include/c++/4.8/bits/stl_pair.h" 2 3
 
 
 
 
 
-namespace std
+namespace std __attribute__ ((__visibility__ ("default")))
 {
 
-# 95 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\stl_pair.h" 3
+# 95 "/usr/include/c++/4.8/bits/stl_pair.h" 3
   template<class _T1, class _T2>
     struct pair
     {
@@ -2037,7 +2054,7 @@ namespace std
       template<class _U1, class _U2>
  pair(const pair<_U1, _U2>& __p)
  : first(__p.first), second(__p.second) { }
-# 209 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\stl_pair.h" 3
+# 209 "/usr/include/c++/4.8/bits/stl_pair.h" 3
     };
 
 
@@ -2076,7 +2093,7 @@ namespace std
     inline bool
     operator>=(const pair<_T1, _T2>& __x, const pair<_T1, _T2>& __y)
     { return !(__x < __y); }
-# 284 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\stl_pair.h" 3
+# 284 "/usr/include/c++/4.8/bits/stl_pair.h" 3
   template<class _T1, class _T2>
     inline pair<_T1, _T2>
     make_pair(_T1 __x, _T2 __y)
@@ -2087,11 +2104,11 @@ namespace std
 
 
 }
-# 65 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\stl_algobase.h" 2 3
-# 1 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\stl_iterator_base_types.h" 1 3
-# 62 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\stl_iterator_base_types.h" 3
+# 65 "/usr/include/c++/4.8/bits/stl_algobase.h" 2 3
+# 1 "/usr/include/c++/4.8/bits/stl_iterator_base_types.h" 1 3
+# 62 "/usr/include/c++/4.8/bits/stl_iterator_base_types.h" 3
        
-# 63 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\stl_iterator_base_types.h" 3
+# 63 "/usr/include/c++/4.8/bits/stl_iterator_base_types.h" 3
 
 
 
@@ -2099,10 +2116,10 @@ namespace std
 
 
 
-namespace std
+namespace std __attribute__ ((__visibility__ ("default")))
 {
 
-# 89 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\stl_iterator_base_types.h" 3
+# 89 "/usr/include/c++/4.8/bits/stl_iterator_base_types.h" 3
   struct input_iterator_tag { };
 
 
@@ -2118,7 +2135,7 @@ namespace std
 
 
   struct random_access_iterator_tag : public bidirectional_iterator_tag { };
-# 116 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\stl_iterator_base_types.h" 3
+# 116 "/usr/include/c++/4.8/bits/stl_iterator_base_types.h" 3
   template<typename _Category, typename _Tp, typename _Distance = ptrdiff_t,
            typename _Pointer = _Tp*, typename _Reference = _Tp&>
     struct iterator
@@ -2134,7 +2151,7 @@ namespace std
 
       typedef _Reference reference;
     };
-# 165 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\stl_iterator_base_types.h" 3
+# 162 "/usr/include/c++/4.8/bits/stl_iterator_base_types.h" 3
   template<typename _Iterator>
     struct iterator_traits
     {
@@ -2196,18 +2213,18 @@ namespace std
       static iterator_type _S_base(_Iterator __it)
       { return __it.base(); }
     };
-# 235 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\stl_iterator_base_types.h" 3
+# 232 "/usr/include/c++/4.8/bits/stl_iterator_base_types.h" 3
 
 }
-# 66 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\stl_algobase.h" 2 3
-# 1 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\stl_iterator_base_funcs.h" 1 3
-# 62 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\stl_iterator_base_funcs.h" 3
+# 66 "/usr/include/c++/4.8/bits/stl_algobase.h" 2 3
+# 1 "/usr/include/c++/4.8/bits/stl_iterator_base_funcs.h" 1 3
+# 62 "/usr/include/c++/4.8/bits/stl_iterator_base_funcs.h" 3
        
-# 63 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\stl_iterator_base_funcs.h" 3
+# 63 "/usr/include/c++/4.8/bits/stl_iterator_base_funcs.h" 3
 
 
-# 1 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\debug\\debug.h" 1 3
-# 46 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\debug\\debug.h" 3
+# 1 "/usr/include/c++/4.8/debug/debug.h" 1 3
+# 46 "/usr/include/c++/4.8/debug/debug.h" 3
 namespace std
 {
   namespace __debug { }
@@ -2220,9 +2237,9 @@ namespace __gnu_debug
 {
   using namespace std::__debug;
 }
-# 66 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\stl_iterator_base_funcs.h" 2 3
+# 66 "/usr/include/c++/4.8/bits/stl_iterator_base_funcs.h" 2 3
 
-namespace std
+namespace std __attribute__ ((__visibility__ ("default")))
 {
 
 
@@ -2253,7 +2270,7 @@ namespace std
 
       return __last - __first;
     }
-# 112 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\stl_iterator_base_funcs.h" 3
+# 112 "/usr/include/c++/4.8/bits/stl_iterator_base_funcs.h" 3
   template<typename _InputIterator>
     inline typename iterator_traits<_InputIterator>::difference_type
     distance(_InputIterator __first, _InputIterator __last)
@@ -2300,7 +2317,7 @@ namespace std
 
       __i += __n;
     }
-# 171 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\stl_iterator_base_funcs.h" 3
+# 171 "/usr/include/c++/4.8/bits/stl_iterator_base_funcs.h" 3
   template<typename _InputIterator, typename _Distance>
     inline void
     advance(_InputIterator& __i, _Distance __n)
@@ -2309,19 +2326,16 @@ namespace std
       typename iterator_traits<_InputIterator>::difference_type __d = __n;
       std::__advance(__i, __d, std::__iterator_category(__i));
     }
-# 202 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\stl_iterator_base_funcs.h" 3
+# 202 "/usr/include/c++/4.8/bits/stl_iterator_base_funcs.h" 3
 
 }
-# 67 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\stl_algobase.h" 2 3
-# 1 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\stl_iterator.h" 1 3
-# 66 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\stl_iterator.h" 3
-# 1 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\ptr_traits.h" 1 3
-# 67 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\stl_iterator.h" 2 3
-
-namespace std
+# 67 "/usr/include/c++/4.8/bits/stl_algobase.h" 2 3
+# 1 "/usr/include/c++/4.8/bits/stl_iterator.h" 1 3
+# 67 "/usr/include/c++/4.8/bits/stl_iterator.h" 3
+namespace std __attribute__ ((__visibility__ ("default")))
 {
 
-# 96 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\stl_iterator.h" 3
+# 95 "/usr/include/c++/4.8/bits/stl_iterator.h" 3
   template<typename _Iterator>
     class reverse_iterator
     : public iterator<typename iterator_traits<_Iterator>::iterator_category,
@@ -2375,7 +2389,7 @@ namespace std
       iterator_type
       base() const
       { return current; }
-# 160 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\stl_iterator.h" 3
+# 159 "/usr/include/c++/4.8/bits/stl_iterator.h" 3
       reference
       operator*() const
       {
@@ -2495,7 +2509,7 @@ namespace std
       operator[](difference_type __n) const
       { return *(*this + __n); }
     };
-# 290 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\stl_iterator.h" 3
+# 289 "/usr/include/c++/4.8/bits/stl_iterator.h" 3
   template<typename _Iterator>
     inline bool
     operator==(const reverse_iterator<_Iterator>& __x,
@@ -2595,7 +2609,7 @@ namespace std
        const reverse_iterator<_IteratorR>& __y)
 
     { return __y.base() - __x.base(); }
-# 414 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\stl_iterator.h" 3
+# 401 "/usr/include/c++/4.8/bits/stl_iterator.h" 3
   template<typename _Container>
     class back_insert_iterator
     : public iterator<output_iterator_tag, void, void, void, void>
@@ -2610,14 +2624,14 @@ namespace std
 
       explicit
       back_insert_iterator(_Container& __x) : container(&__x) { }
-# 441 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\stl_iterator.h" 3
+# 428 "/usr/include/c++/4.8/bits/stl_iterator.h" 3
       back_insert_iterator&
       operator=(typename _Container::const_reference __value)
       {
  container->push_back(__value);
  return *this;
       }
-# 464 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\stl_iterator.h" 3
+# 451 "/usr/include/c++/4.8/bits/stl_iterator.h" 3
       back_insert_iterator&
       operator*()
       { return *this; }
@@ -2632,12 +2646,12 @@ namespace std
       operator++(int)
       { return *this; }
     };
-# 490 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\stl_iterator.h" 3
+# 477 "/usr/include/c++/4.8/bits/stl_iterator.h" 3
   template<typename _Container>
     inline back_insert_iterator<_Container>
     back_inserter(_Container& __x)
     { return back_insert_iterator<_Container>(__x); }
-# 505 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\stl_iterator.h" 3
+# 492 "/usr/include/c++/4.8/bits/stl_iterator.h" 3
   template<typename _Container>
     class front_insert_iterator
     : public iterator<output_iterator_tag, void, void, void, void>
@@ -2651,14 +2665,14 @@ namespace std
 
 
       explicit front_insert_iterator(_Container& __x) : container(&__x) { }
-# 531 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\stl_iterator.h" 3
+# 518 "/usr/include/c++/4.8/bits/stl_iterator.h" 3
       front_insert_iterator&
       operator=(typename _Container::const_reference __value)
       {
  container->push_front(__value);
  return *this;
       }
-# 554 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\stl_iterator.h" 3
+# 541 "/usr/include/c++/4.8/bits/stl_iterator.h" 3
       front_insert_iterator&
       operator*()
       { return *this; }
@@ -2673,12 +2687,12 @@ namespace std
       operator++(int)
       { return *this; }
     };
-# 580 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\stl_iterator.h" 3
+# 567 "/usr/include/c++/4.8/bits/stl_iterator.h" 3
   template<typename _Container>
     inline front_insert_iterator<_Container>
     front_inserter(_Container& __x)
     { return front_insert_iterator<_Container>(__x); }
-# 599 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\stl_iterator.h" 3
+# 586 "/usr/include/c++/4.8/bits/stl_iterator.h" 3
   template<typename _Container>
     class insert_iterator
     : public iterator<output_iterator_tag, void, void, void, void>
@@ -2697,7 +2711,7 @@ namespace std
 
       insert_iterator(_Container& __x, typename _Container::iterator __i)
       : container(&__x), iter(__i) {}
-# 642 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\stl_iterator.h" 3
+# 629 "/usr/include/c++/4.8/bits/stl_iterator.h" 3
       insert_iterator&
       operator=(typename _Container::const_reference __value)
       {
@@ -2705,7 +2719,7 @@ namespace std
  ++iter;
  return *this;
       }
-# 668 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\stl_iterator.h" 3
+# 655 "/usr/include/c++/4.8/bits/stl_iterator.h" 3
       insert_iterator&
       operator*()
       { return *this; }
@@ -2720,7 +2734,7 @@ namespace std
       operator++(int)
       { return *this; }
     };
-# 694 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\stl_iterator.h" 3
+# 681 "/usr/include/c++/4.8/bits/stl_iterator.h" 3
   template<typename _Container, typename _Iterator>
     inline insert_iterator<_Container>
     inserter(_Container& __x, _Iterator __i)
@@ -2734,10 +2748,10 @@ namespace std
 
 }
 
-namespace __gnu_cxx
+namespace __gnu_cxx __attribute__ ((__visibility__ ("default")))
 {
 
-# 718 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\stl_iterator.h" 3
+# 705 "/usr/include/c++/4.8/bits/stl_iterator.h" 3
   using std::iterator_traits;
   using std::iterator;
   template<typename _Iterator, typename _Container>
@@ -2756,12 +2770,10 @@ namespace __gnu_cxx
       typedef typename __traits_type::reference reference;
       typedef typename __traits_type::pointer pointer;
 
-      __normal_iterator()
-      : _M_current(_Iterator()) { }
+      __normal_iterator() : _M_current(_Iterator()) { }
 
       explicit
-      __normal_iterator(const _Iterator& __i)
-      : _M_current(__i) { }
+      __normal_iterator(const _Iterator& __i) : _M_current(__i) { }
 
 
       template<typename _Iter>
@@ -2805,56 +2817,52 @@ namespace __gnu_cxx
 
 
       reference
-      operator[](difference_type __n) const
+      operator[](const difference_type& __n) const
       { return _M_current[__n]; }
 
       __normal_iterator&
-      operator+=(difference_type __n)
+      operator+=(const difference_type& __n)
       { _M_current += __n; return *this; }
 
       __normal_iterator
-      operator+(difference_type __n) const
+      operator+(const difference_type& __n) const
       { return __normal_iterator(_M_current + __n); }
 
       __normal_iterator&
-      operator-=(difference_type __n)
+      operator-=(const difference_type& __n)
       { _M_current -= __n; return *this; }
 
       __normal_iterator
-      operator-(difference_type __n) const
+      operator-(const difference_type& __n) const
       { return __normal_iterator(_M_current - __n); }
 
       const _Iterator&
       base() const
       { return _M_current; }
     };
-# 818 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\stl_iterator.h" 3
+# 803 "/usr/include/c++/4.8/bits/stl_iterator.h" 3
   template<typename _IteratorL, typename _IteratorR, typename _Container>
     inline bool
     operator==(const __normal_iterator<_IteratorL, _Container>& __lhs,
         const __normal_iterator<_IteratorR, _Container>& __rhs)
-   
     { return __lhs.base() == __rhs.base(); }
 
   template<typename _Iterator, typename _Container>
     inline bool
     operator==(const __normal_iterator<_Iterator, _Container>& __lhs,
         const __normal_iterator<_Iterator, _Container>& __rhs)
-   
     { return __lhs.base() == __rhs.base(); }
 
   template<typename _IteratorL, typename _IteratorR, typename _Container>
     inline bool
     operator!=(const __normal_iterator<_IteratorL, _Container>& __lhs,
         const __normal_iterator<_IteratorR, _Container>& __rhs)
-   
     { return __lhs.base() != __rhs.base(); }
 
   template<typename _Iterator, typename _Container>
     inline bool
     operator!=(const __normal_iterator<_Iterator, _Container>& __lhs,
         const __normal_iterator<_Iterator, _Container>& __rhs)
-   
     { return __lhs.base() != __rhs.base(); }
 
 
@@ -2862,56 +2870,48 @@ namespace __gnu_cxx
     inline bool
     operator<(const __normal_iterator<_IteratorL, _Container>& __lhs,
        const __normal_iterator<_IteratorR, _Container>& __rhs)
-   
     { return __lhs.base() < __rhs.base(); }
 
   template<typename _Iterator, typename _Container>
     inline bool
     operator<(const __normal_iterator<_Iterator, _Container>& __lhs,
        const __normal_iterator<_Iterator, _Container>& __rhs)
-   
     { return __lhs.base() < __rhs.base(); }
 
   template<typename _IteratorL, typename _IteratorR, typename _Container>
     inline bool
     operator>(const __normal_iterator<_IteratorL, _Container>& __lhs,
        const __normal_iterator<_IteratorR, _Container>& __rhs)
-   
     { return __lhs.base() > __rhs.base(); }
 
   template<typename _Iterator, typename _Container>
     inline bool
     operator>(const __normal_iterator<_Iterator, _Container>& __lhs,
        const __normal_iterator<_Iterator, _Container>& __rhs)
-   
     { return __lhs.base() > __rhs.base(); }
 
   template<typename _IteratorL, typename _IteratorR, typename _Container>
     inline bool
     operator<=(const __normal_iterator<_IteratorL, _Container>& __lhs,
         const __normal_iterator<_IteratorR, _Container>& __rhs)
-   
     { return __lhs.base() <= __rhs.base(); }
 
   template<typename _Iterator, typename _Container>
     inline bool
     operator<=(const __normal_iterator<_Iterator, _Container>& __lhs,
         const __normal_iterator<_Iterator, _Container>& __rhs)
-   
     { return __lhs.base() <= __rhs.base(); }
 
   template<typename _IteratorL, typename _IteratorR, typename _Container>
     inline bool
     operator>=(const __normal_iterator<_IteratorL, _Container>& __lhs,
         const __normal_iterator<_IteratorR, _Container>& __rhs)
-   
     { return __lhs.base() >= __rhs.base(); }
 
   template<typename _Iterator, typename _Container>
     inline bool
     operator>=(const __normal_iterator<_Iterator, _Container>& __lhs,
         const __normal_iterator<_Iterator, _Container>& __rhs)
-   
     { return __lhs.base() >= __rhs.base(); }
 
 
@@ -2936,300 +2936,22 @@ namespace __gnu_cxx
     inline typename __normal_iterator<_Iterator, _Container>::difference_type
     operator-(const __normal_iterator<_Iterator, _Container>& __lhs,
        const __normal_iterator<_Iterator, _Container>& __rhs)
-   
     { return __lhs.base() - __rhs.base(); }
 
   template<typename _Iterator, typename _Container>
     inline __normal_iterator<_Iterator, _Container>
     operator+(typename __normal_iterator<_Iterator, _Container>::difference_type
        __n, const __normal_iterator<_Iterator, _Container>& __i)
-   
     { return __normal_iterator<_Iterator, _Container>(__i.base() + __n); }
 
 
 }
-# 68 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\stl_algobase.h" 2 3
+# 68 "/usr/include/c++/4.8/bits/stl_algobase.h" 2 3
 
 
 
-# 1 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\predefined_ops.h" 1 3
-# 33 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\predefined_ops.h" 3
-namespace __gnu_cxx
-{
-namespace __ops
-{
-  struct _Iter_less_iter
-  {
-    template<typename _Iterator1, typename _Iterator2>
-     
-      bool
-      operator()(_Iterator1 __it1, _Iterator2 __it2) const
-      { return *__it1 < *__it2; }
-  };
- 
-  inline _Iter_less_iter
-  __iter_less_iter()
-  { return _Iter_less_iter(); }
 
-  struct _Iter_less_val
-  {
-    template<typename _Iterator, typename _Value>
-      bool
-      operator()(_Iterator __it, _Value& __val) const
-      { return *__it < __val; }
-    };
-
-  inline _Iter_less_val
-  __iter_less_val()
-  { return _Iter_less_val(); }
-
-  inline _Iter_less_val
-  __iter_comp_val(_Iter_less_iter)
-  { return _Iter_less_val(); }
-
-  struct _Val_less_iter
-  {
-    template<typename _Value, typename _Iterator>
-      bool
-      operator()(_Value& __val, _Iterator __it) const
-      { return __val < *__it; }
-    };
-
-  inline _Val_less_iter
-  __val_less_iter()
-  { return _Val_less_iter(); }
-
-  inline _Val_less_iter
-  __val_comp_iter(_Iter_less_iter)
-  { return _Val_less_iter(); }
-
-  struct _Iter_equal_to_iter
-  {
-    template<typename _Iterator1, typename _Iterator2>
-      bool
-      operator()(_Iterator1 __it1, _Iterator2 __it2) const
-      { return *__it1 == *__it2; }
-    };
-
-  inline _Iter_equal_to_iter
-  __iter_equal_to_iter()
-  { return _Iter_equal_to_iter(); }
-
-  struct _Iter_equal_to_val
-  {
-    template<typename _Iterator, typename _Value>
-      bool
-      operator()(_Iterator __it, _Value& __val) const
-      { return *__it == __val; }
-    };
-
-  inline _Iter_equal_to_val
-  __iter_equal_to_val()
-  { return _Iter_equal_to_val(); }
-
-  inline _Iter_equal_to_val
-  __iter_comp_val(_Iter_equal_to_iter)
-  { return _Iter_equal_to_val(); }
-
-  template<typename _Compare>
-    struct _Iter_comp_iter
-    {
-      _Compare _M_comp;
-     
-      _Iter_comp_iter(_Compare __comp)
- : _M_comp(__comp)
-      { }
-
-      template<typename _Iterator1, typename _Iterator2>
-       
-        bool
-        operator()(_Iterator1 __it1, _Iterator2 __it2)
-        { return bool(_M_comp(*__it1, *__it2)); }
-    };
-
-  template<typename _Compare>
-   
-    inline _Iter_comp_iter<_Compare>
-    __iter_comp_iter(_Compare __comp)
-    { return _Iter_comp_iter<_Compare>(__comp); }
-
-  template<typename _Compare>
-    struct _Iter_comp_val
-    {
-      _Compare _M_comp;
-
-      _Iter_comp_val(_Compare __comp)
- : _M_comp(__comp)
-      { }
-
-      template<typename _Iterator, typename _Value>
- bool
- operator()(_Iterator __it, _Value& __val)
- { return bool(_M_comp(*__it, __val)); }
-    };
-
-  template<typename _Compare>
-   inline _Iter_comp_val<_Compare>
-    __iter_comp_val(_Compare __comp)
-    { return _Iter_comp_val<_Compare>(__comp); }
-
-  template<typename _Compare>
-    inline _Iter_comp_val<_Compare>
-    __iter_comp_val(_Iter_comp_iter<_Compare> __comp)
-    { return _Iter_comp_val<_Compare>(__comp._M_comp); }
-
-  template<typename _Compare>
-    struct _Val_comp_iter
-    {
-      _Compare _M_comp;
-
-      _Val_comp_iter(_Compare __comp)
- : _M_comp(__comp)
-      { }
-
-      template<typename _Value, typename _Iterator>
- bool
- operator()(_Value& __val, _Iterator __it)
- { return bool(_M_comp(__val, *__it)); }
-    };
-
-  template<typename _Compare>
-    inline _Val_comp_iter<_Compare>
-    __val_comp_iter(_Compare __comp)
-    { return _Val_comp_iter<_Compare>(__comp); }
-
-  template<typename _Compare>
-    inline _Val_comp_iter<_Compare>
-    __val_comp_iter(_Iter_comp_iter<_Compare> __comp)
-    { return _Val_comp_iter<_Compare>(__comp._M_comp); }
-
-  template<typename _Value>
-    struct _Iter_equals_val
-    {
-      _Value& _M_value;
-
-      _Iter_equals_val(_Value& __value)
- : _M_value(__value)
-      { }
-
-      template<typename _Iterator>
- bool
- operator()(_Iterator __it)
- { return *__it == _M_value; }
-    };
-
-  template<typename _Value>
-    inline _Iter_equals_val<_Value>
-    __iter_equals_val(_Value& __val)
-    { return _Iter_equals_val<_Value>(__val); }
-
-  template<typename _Iterator1>
-    struct _Iter_equals_iter
-    {
-      typename std::iterator_traits<_Iterator1>::reference _M_ref;
-
-      _Iter_equals_iter(_Iterator1 __it1)
- : _M_ref(*__it1)
-      { }
-
-      template<typename _Iterator2>
- bool
- operator()(_Iterator2 __it2)
- { return *__it2 == _M_ref; }
-    };
-
-  template<typename _Iterator>
-    inline _Iter_equals_iter<_Iterator>
-    __iter_comp_iter(_Iter_equal_to_iter, _Iterator __it)
-    { return _Iter_equals_iter<_Iterator>(__it); }
-
-  template<typename _Predicate>
-    struct _Iter_pred
-    {
-      _Predicate _M_pred;
-
-      _Iter_pred(_Predicate __pred)
- : _M_pred(__pred)
-      { }
-
-      template<typename _Iterator>
- bool
- operator()(_Iterator __it)
- { return bool(_M_pred(*__it)); }
-    };
-
-  template<typename _Predicate>
-    inline _Iter_pred<_Predicate>
-    __pred_iter(_Predicate __pred)
-    { return _Iter_pred<_Predicate>(__pred); }
-
-  template<typename _Compare, typename _Value>
-    struct _Iter_comp_to_val
-    {
-      _Compare _M_comp;
-      _Value& _M_value;
-
-      _Iter_comp_to_val(_Compare __comp, _Value& __value)
- : _M_comp(__comp), _M_value(__value)
-      { }
-
-      template<typename _Iterator>
- bool
- operator()(_Iterator __it)
- { return bool(_M_comp(*__it, _M_value)); }
-    };
-
-  template<typename _Compare, typename _Value>
-    _Iter_comp_to_val<_Compare, _Value>
-    __iter_comp_val(_Compare __comp, _Value &__val)
-    { return _Iter_comp_to_val<_Compare, _Value>(__comp, __val); }
-
-  template<typename _Compare, typename _Iterator1>
-    struct _Iter_comp_to_iter
-    {
-      _Compare _M_comp;
-      typename std::iterator_traits<_Iterator1>::reference _M_ref;
-
-      _Iter_comp_to_iter(_Compare __comp, _Iterator1 __it1)
- : _M_comp(__comp), _M_ref(*__it1)
-      { }
-
-      template<typename _Iterator2>
- bool
- operator()(_Iterator2 __it2)
- { return bool(_M_comp(*__it2, _M_ref)); }
-    };
-
-  template<typename _Compare, typename _Iterator>
-    inline _Iter_comp_to_iter<_Compare, _Iterator>
-    __iter_comp_iter(_Iter_comp_iter<_Compare> __comp, _Iterator __it)
-    { return _Iter_comp_to_iter<_Compare, _Iterator>(__comp._M_comp, __it); }
-
-  template<typename _Predicate>
-    struct _Iter_negate
-    {
-      _Predicate _M_pred;
-
-      _Iter_negate(_Predicate __pred)
- : _M_pred(__pred)
-      { }
-
-      template<typename _Iterator>
- bool
- operator()(_Iterator __it)
- { return !bool(_M_pred(*__it)); }
-    };
-
-  template<typename _Predicate>
-    inline _Iter_negate<_Predicate>
-    __negate(_Iter_pred<_Predicate> __pred)
-    { return _Iter_negate<_Predicate>(__pred._M_pred); }
-
-}
-}
-# 72 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\stl_algobase.h" 2 3
-
-namespace std
+namespace std __attribute__ ((__visibility__ ("default")))
 {
 
 
@@ -3262,7 +2984,7 @@ namespace std
           swap(*__a, *__b);
         }
     };
-# 118 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\stl_algobase.h" 3
+# 117 "/usr/include/c++/4.8/bits/stl_algobase.h" 3
   template<typename _ForwardIterator1, typename _ForwardIterator2>
     inline void
     iter_swap(_ForwardIterator1 __a, _ForwardIterator2 __b)
@@ -3296,7 +3018,7 @@ namespace std
 
 
     }
-# 164 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\stl_algobase.h" 3
+# 163 "/usr/include/c++/4.8/bits/stl_algobase.h" 3
   template<typename _ForwardIterator1, typename _ForwardIterator2>
     _ForwardIterator2
     swap_ranges(_ForwardIterator1 __first1, _ForwardIterator1 __last1,
@@ -3313,9 +3035,8 @@ namespace std
  std::iter_swap(__first1, __first2);
       return __first2;
     }
-# 192 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\stl_algobase.h" 3
+# 191 "/usr/include/c++/4.8/bits/stl_algobase.h" 3
   template<typename _Tp>
-   
     inline const _Tp&
     min(const _Tp& __a, const _Tp& __b)
     {
@@ -3326,9 +3047,8 @@ namespace std
  return __b;
       return __a;
     }
-# 216 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\stl_algobase.h" 3
+# 214 "/usr/include/c++/4.8/bits/stl_algobase.h" 3
   template<typename _Tp>
-   
     inline const _Tp&
     max(const _Tp& __a, const _Tp& __b)
     {
@@ -3339,9 +3059,8 @@ namespace std
  return __b;
       return __a;
     }
-# 240 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\stl_algobase.h" 3
+# 237 "/usr/include/c++/4.8/bits/stl_algobase.h" 3
   template<typename _Tp, typename _Compare>
-   
     inline const _Tp&
     min(const _Tp& __a, const _Tp& __b, _Compare __comp)
     {
@@ -3350,9 +3069,8 @@ namespace std
  return __b;
       return __a;
     }
-# 262 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\stl_algobase.h" 3
+# 258 "/usr/include/c++/4.8/bits/stl_algobase.h" 3
   template<typename _Tp, typename _Compare>
-   
     inline const _Tp&
     max(const _Tp& __a, const _Tp& __b, _Compare __comp)
     {
@@ -3403,7 +3121,7 @@ namespace std
    return __result;
  }
     };
-# 330 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\stl_algobase.h" 3
+# 325 "/usr/include/c++/4.8/bits/stl_algobase.h" 3
   template<>
     struct __copy_move<false, false, random_access_iterator_tag>
     {
@@ -3421,7 +3139,7 @@ namespace std
    return __result;
  }
     };
-# 368 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\stl_algobase.h" 3
+# 363 "/usr/include/c++/4.8/bits/stl_algobase.h" 3
   template<bool _IsMove>
     struct __copy_move<_IsMove, true, random_access_iterator_tag>
     {
@@ -3429,11 +3147,6 @@ namespace std
         static _Tp*
         __copy_m(const _Tp* __first, const _Tp* __last, _Tp* __result)
         {
-
-
-
-
-
    const ptrdiff_t _Num = __last - __first;
    if (_Num)
      __builtin_memmove(__result, __first, sizeof(_Tp) * _Num);
@@ -3494,7 +3207,7 @@ namespace std
           std::__niter_base(__last),
           std::__niter_base(__result)));
     }
-# 458 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\stl_algobase.h" 3
+# 448 "/usr/include/c++/4.8/bits/stl_algobase.h" 3
   template<typename _II, typename _OI>
     inline _OI
     copy(_II __first, _II __last, _OI __result)
@@ -3509,7 +3222,7 @@ namespace std
        (std::__miter_base(__first), std::__miter_base(__last),
         __result));
     }
-# 510 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\stl_algobase.h" 3
+# 500 "/usr/include/c++/4.8/bits/stl_algobase.h" 3
   template<bool, bool, typename>
     struct __copy_move_backward
     {
@@ -3522,7 +3235,7 @@ namespace std
    return __result;
  }
     };
-# 538 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\stl_algobase.h" 3
+# 528 "/usr/include/c++/4.8/bits/stl_algobase.h" 3
   template<>
     struct __copy_move_backward<false, false, random_access_iterator_tag>
     {
@@ -3536,7 +3249,7 @@ namespace std
    return __result;
  }
     };
-# 568 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\stl_algobase.h" 3
+# 558 "/usr/include/c++/4.8/bits/stl_algobase.h" 3
   template<bool _IsMove>
     struct __copy_move_backward<_IsMove, true, random_access_iterator_tag>
     {
@@ -3544,11 +3257,6 @@ namespace std
         static _Tp*
         __copy_move_b(const _Tp* __first, const _Tp* __last, _Tp* __result)
         {
-
-
-
-
-
    const ptrdiff_t _Num = __last - __first;
    if (_Num)
      __builtin_memmove(__result - _Num, __first, sizeof(_Tp) * _Num);
@@ -3582,7 +3290,7 @@ namespace std
     (std::__niter_base(__first), std::__niter_base(__last),
      std::__niter_base(__result)));
     }
-# 632 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\stl_algobase.h" 3
+# 617 "/usr/include/c++/4.8/bits/stl_algobase.h" 3
   template<typename _BI1, typename _BI2>
     inline _BI2
     copy_backward(_BI1 __first, _BI1 __last, _BI2 __result)
@@ -3599,7 +3307,7 @@ namespace std
        (std::__miter_base(__first), std::__miter_base(__last),
         __result));
     }
-# 690 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\stl_algobase.h" 3
+# 675 "/usr/include/c++/4.8/bits/stl_algobase.h" 3
   template<typename _ForwardIterator, typename _Tp>
     inline typename
     __gnu_cxx::__enable_if<!__is_scalar<_Tp>::__value, void>::__type
@@ -3628,10 +3336,10 @@ namespace std
     __fill_a(_Tp* __first, _Tp* __last, const _Tp& __c)
     {
       const _Tp __tmp = __c;
-      if (const size_t __len = __last - __first)
- __builtin_memset(__first, static_cast<unsigned char>(__tmp), __len);
+      __builtin_memset(__first, static_cast<unsigned char>(__tmp),
+         __last - __first);
     }
-# 734 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\stl_algobase.h" 3
+# 719 "/usr/include/c++/4.8/bits/stl_algobase.h" 3
   template<typename _ForwardIterator, typename _Tp>
     inline void
     fill(_ForwardIterator __first, _ForwardIterator __last, const _Tp& __value)
@@ -3676,7 +3384,7 @@ namespace std
       std::__fill_a(__first, __first + __n, __c);
       return __first + __n;
     }
-# 794 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\stl_algobase.h" 3
+# 779 "/usr/include/c++/4.8/bits/stl_algobase.h" 3
   template<typename _OI, typename _Size, typename _Tp>
     inline _OI
     fill_n(_OI __first, _Size __n, const _Tp& __value)
@@ -3708,9 +3416,8 @@ namespace std
         static bool
         equal(const _Tp* __first1, const _Tp* __last1, const _Tp* __first2)
         {
-   if (const size_t __len = (__last1 - __first1))
-     return !__builtin_memcmp(__first1, __first2, sizeof(_Tp) * __len);
-   return true;
+   return !__builtin_memcmp(__first1, __first2, sizeof(_Tp)
+       * (__last1 - __first1));
  }
     };
 
@@ -3728,6 +3435,7 @@ namespace std
 
       return std::__equal<__simple>::equal(__first1, __last1, __first2);
     }
+
 
   template<typename, typename>
     struct __lc_rai
@@ -3764,28 +3472,6 @@ namespace std
         { return true; }
     };
 
-  template<typename _II1, typename _II2, typename _Compare>
-    bool
-    __lexicographical_compare_impl(_II1 __first1, _II1 __last1,
-       _II2 __first2, _II2 __last2,
-       _Compare __comp)
-    {
-      typedef typename iterator_traits<_II1>::iterator_category _Category1;
-      typedef typename iterator_traits<_II2>::iterator_category _Category2;
-      typedef std::__lc_rai<_Category1, _Category2> __rai_type;
-
-      __last1 = __rai_type::__newlast1(__first1, __last1, __first2, __last2);
-      for (; __first1 != __last1 && __rai_type::__cnd2(__first2, __last2);
-    ++__first1, ++__first2)
- {
-   if (__comp(__first1, __first2))
-     return true;
-   if (__comp(__first2, __first1))
-     return false;
- }
-      return __first1 == __last1 && __first2 != __last2;
-    }
-
   template<bool _BoolType>
     struct __lexicographical_compare
     {
@@ -3799,9 +3485,21 @@ namespace std
       __lexicographical_compare<_BoolType>::
       __lc(_II1 __first1, _II1 __last1, _II2 __first2, _II2 __last2)
       {
- return std::__lexicographical_compare_impl(__first1, __last1,
-         __first2, __last2,
-     __gnu_cxx::__ops::__iter_less_iter());
+ typedef typename iterator_traits<_II1>::iterator_category _Category1;
+ typedef typename iterator_traits<_II2>::iterator_category _Category2;
+ typedef std::__lc_rai<_Category1, _Category2> __rai_type;
+
+ __last1 = __rai_type::__newlast1(__first1, __last1,
+      __first2, __last2);
+ for (; __first1 != __last1 && __rai_type::__cnd2(__first2, __last2);
+      ++__first1, ++__first2)
+   {
+     if (*__first1 < *__first2)
+       return true;
+     if (*__first2 < *__first1)
+       return false;
+   }
+ return __first1 == __last1 && __first2 != __last2;
       }
 
   template<>
@@ -3814,10 +3512,9 @@ namespace std
  {
    const size_t __len1 = __last1 - __first1;
    const size_t __len2 = __last2 - __first2;
-   if (const size_t __len = std::min(__len1, __len2))
-     if (int __result = __builtin_memcmp(__first1, __first2, __len))
-       return __result < 0;
-   return __len1 < __len2;
+   const int __result = __builtin_memcmp(__first1, __first2,
+      std::min(__len1, __len2));
+   return __result != 0 ? __result < 0 : __len1 < __len2;
  }
     };
 
@@ -3838,14 +3535,23 @@ namespace std
       return std::__lexicographical_compare<__simple>::__lc(__first1, __last1,
            __first2, __last2);
     }
-
-  template<typename _ForwardIterator, typename _Tp, typename _Compare>
+# 941 "/usr/include/c++/4.8/bits/stl_algobase.h" 3
+  template<typename _ForwardIterator, typename _Tp>
     _ForwardIterator
-    __lower_bound(_ForwardIterator __first, _ForwardIterator __last,
-    const _Tp& __val, _Compare __comp)
+    lower_bound(_ForwardIterator __first, _ForwardIterator __last,
+  const _Tp& __val)
     {
+
+
+
+
       typedef typename iterator_traits<_ForwardIterator>::difference_type
  _DistanceType;
+
+
+     
+     
+      ;
 
       _DistanceType __len = std::distance(__first, __last);
 
@@ -3854,7 +3560,7 @@ namespace std
    _DistanceType __half = __len >> 1;
    _ForwardIterator __middle = __first;
    std::advance(__middle, __half);
-   if (__comp(__middle, __val))
+   if (*__middle < __val)
      {
        __first = __middle;
        ++__first;
@@ -3864,21 +3570,6 @@ namespace std
      __len = __half;
  }
       return __first;
-    }
-# 994 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\stl_algobase.h" 3
-  template<typename _ForwardIterator, typename _Tp>
-    inline _ForwardIterator
-    lower_bound(_ForwardIterator __first, _ForwardIterator __last,
-  const _Tp& __val)
-    {
-
-     
-     
-
-      ;
-
-      return std::__lower_bound(__first, __last, __val,
-    __gnu_cxx::__ops::__iter_less_val());
     }
 
 
@@ -3910,7 +3601,7 @@ namespace std
 
 
 
-# 1051 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\stl_algobase.h" 3
+# 1019 "/usr/include/c++/4.8/bits/stl_algobase.h" 3
   template<typename _II1, typename _II2>
     inline bool
     equal(_II1 __first1, _II1 __last1, _II2 __first2)
@@ -3927,7 +3618,7 @@ namespace std
          std::__niter_base(__last1),
          std::__niter_base(__first2));
     }
-# 1083 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\stl_algobase.h" 3
+# 1051 "/usr/include/c++/4.8/bits/stl_algobase.h" 3
   template<typename _IIter1, typename _IIter2, typename _BinaryPredicate>
     inline bool
     equal(_IIter1 __first1, _IIter1 __last1,
@@ -3943,7 +3634,7 @@ namespace std
    return false;
       return true;
     }
-# 1211 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\stl_algobase.h" 3
+# 1082 "/usr/include/c++/4.8/bits/stl_algobase.h" 3
   template<typename _II1, typename _II2>
     inline bool
     lexicographical_compare(_II1 __first1, _II1 __last1,
@@ -3966,39 +3657,36 @@ namespace std
       std::__niter_base(__first2),
       std::__niter_base(__last2));
     }
-# 1247 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\stl_algobase.h" 3
+# 1118 "/usr/include/c++/4.8/bits/stl_algobase.h" 3
   template<typename _II1, typename _II2, typename _Compare>
-    inline bool
+    bool
     lexicographical_compare(_II1 __first1, _II1 __last1,
        _II2 __first2, _II2 __last2, _Compare __comp)
     {
+      typedef typename iterator_traits<_II1>::iterator_category _Category1;
+      typedef typename iterator_traits<_II2>::iterator_category _Category2;
+      typedef std::__lc_rai<_Category1, _Category2> __rai_type;
+
 
      
      
       ;
       ;
 
-      return std::__lexicographical_compare_impl
- (__first1, __last1, __first2, __last2,
-  __gnu_cxx::__ops::__iter_comp_iter(__comp));
+      __last1 = __rai_type::__newlast1(__first1, __last1, __first2, __last2);
+      for (; __first1 != __last1 && __rai_type::__cnd2(__first2, __last2);
+    ++__first1, ++__first2)
+ {
+   if (__comp(*__first1, *__first2))
+     return true;
+   if (__comp(*__first2, *__first1))
+     return false;
+ }
+      return __first1 == __last1 && __first2 != __last2;
     }
-
-  template<typename _InputIterator1, typename _InputIterator2,
-    typename _BinaryPredicate>
-    pair<_InputIterator1, _InputIterator2>
-    __mismatch(_InputIterator1 __first1, _InputIterator1 __last1,
-        _InputIterator2 __first2, _BinaryPredicate __binary_pred)
-    {
-      while (__first1 != __last1 && __binary_pred(__first1, __first2))
-        {
-   ++__first1;
-   ++__first2;
-        }
-      return pair<_InputIterator1, _InputIterator2>(__first1, __first2);
-    }
-# 1290 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\stl_algobase.h" 3
+# 1158 "/usr/include/c++/4.8/bits/stl_algobase.h" 3
   template<typename _InputIterator1, typename _InputIterator2>
-    inline pair<_InputIterator1, _InputIterator2>
+    pair<_InputIterator1, _InputIterator2>
     mismatch(_InputIterator1 __first1, _InputIterator1 __last1,
       _InputIterator2 __first2)
     {
@@ -4010,13 +3698,17 @@ namespace std
 
       ;
 
-      return std::__mismatch(__first1, __last1, __first2,
-        __gnu_cxx::__ops::__iter_equal_to_iter());
+      while (__first1 != __last1 && *__first1 == *__first2)
+        {
+   ++__first1;
+   ++__first2;
+        }
+      return pair<_InputIterator1, _InputIterator2>(__first1, __first2);
     }
-# 1323 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\stl_algobase.h" 3
+# 1195 "/usr/include/c++/4.8/bits/stl_algobase.h" 3
   template<typename _InputIterator1, typename _InputIterator2,
     typename _BinaryPredicate>
-    inline pair<_InputIterator1, _InputIterator2>
+    pair<_InputIterator1, _InputIterator2>
     mismatch(_InputIterator1 __first1, _InputIterator1 __last1,
       _InputIterator2 __first2, _BinaryPredicate __binary_pred)
     {
@@ -4025,24 +3717,34 @@ namespace std
      
       ;
 
-      return std::__mismatch(__first1, __last1, __first2,
- __gnu_cxx::__ops::__iter_comp_iter(__binary_pred));
+      while (__first1 != __last1 && bool(__binary_pred(*__first1, *__first2)))
+        {
+   ++__first1;
+   ++__first2;
+        }
+      return pair<_InputIterator1, _InputIterator2>(__first1, __first2);
     }
-# 1423 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\stl_algobase.h" 3
+
 
 }
-# 40 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\char_traits.h" 2 3
+# 40 "/usr/include/c++/4.8/bits/char_traits.h" 2 3
 
-# 1 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\cwchar" 1 3
-# 39 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\cwchar" 3
+# 1 "/usr/include/c++/4.8/cwchar" 1 3
+# 39 "/usr/include/c++/4.8/cwchar" 3
        
-# 40 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\cwchar" 3
-# 42 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\char_traits.h" 2 3
+# 40 "/usr/include/c++/4.8/cwchar" 3
 
-namespace __gnu_cxx
+
+
+
+# 1 "/usr/include/wchar.h" 1 3 4
+# 45 "/usr/include/c++/4.8/cwchar" 2 3
+# 42 "/usr/include/c++/4.8/bits/char_traits.h" 2 3
+
+namespace __gnu_cxx __attribute__ ((__visibility__ ("default")))
 {
 
-# 57 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\char_traits.h" 3
+# 57 "/usr/include/c++/4.8/bits/char_traits.h" 3
   template<typename _CharT>
     struct _Char_types
     {
@@ -4051,7 +3753,7 @@ namespace __gnu_cxx
       typedef std::streamoff off_type;
       typedef std::mbstate_t state_type;
     };
-# 82 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\char_traits.h" 3
+# 82 "/usr/include/c++/4.8/bits/char_traits.h" 3
   template<typename _CharT>
     struct char_traits
     {
@@ -4179,10 +3881,10 @@ namespace __gnu_cxx
 
 }
 
-namespace std
+namespace std __attribute__ ((__visibility__ ("default")))
 {
 
-# 226 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\char_traits.h" 3
+# 226 "/usr/include/c++/4.8/bits/char_traits.h" 3
   template<class _CharT>
     struct char_traits : public __gnu_cxx::char_traits<_CharT>
     { };
@@ -4208,19 +3910,11 @@ namespace std
 
       static bool
       lt(const char_type& __c1, const char_type& __c2)
-      {
-
- return (static_cast<unsigned char>(__c1)
-  < static_cast<unsigned char>(__c2));
-      }
+      { return __c1 < __c2; }
 
       static int
       compare(const char_type* __s1, const char_type* __s2, size_t __n)
-      {
- if (__n == 0)
-   return 0;
- return __builtin_memcmp(__s1, __s2, __n);
-      }
+      { return __builtin_memcmp(__s1, __s2, __n); }
 
       static size_t
       length(const char_type* __s)
@@ -4228,35 +3922,19 @@ namespace std
 
       static const char_type*
       find(const char_type* __s, size_t __n, const char_type& __a)
-      {
- if (__n == 0)
-   return 0;
- return static_cast<const char_type*>(__builtin_memchr(__s, __a, __n));
-      }
+      { return static_cast<const char_type*>(__builtin_memchr(__s, __a, __n)); }
 
       static char_type*
       move(char_type* __s1, const char_type* __s2, size_t __n)
-      {
- if (__n == 0)
-   return __s1;
- return static_cast<char_type*>(__builtin_memmove(__s1, __s2, __n));
-      }
+      { return static_cast<char_type*>(__builtin_memmove(__s1, __s2, __n)); }
 
       static char_type*
       copy(char_type* __s1, const char_type* __s2, size_t __n)
-      {
- if (__n == 0)
-   return __s1;
- return static_cast<char_type*>(__builtin_memcpy(__s1, __s2, __n));
-      }
+      { return static_cast<char_type*>(__builtin_memcpy(__s1, __s2, __n)); }
 
       static char_type*
       assign(char_type* __s, size_t __n, char_type __a)
-      {
- if (__n == 0)
-   return __s;
- return static_cast<char_type*>(__builtin_memset(__s, __a, __n));
-      }
+      { return static_cast<char_type*>(__builtin_memset(__s, __a, __n)); }
 
       static char_type
       to_char_type(const int_type& __c)
@@ -4307,11 +3985,7 @@ namespace std
 
       static int
       compare(const char_type* __s1, const char_type* __s2, size_t __n)
-      {
- if (__n == 0)
-   return 0;
- return wmemcmp(__s1, __s2, __n);
-      }
+      { return wmemcmp(__s1, __s2, __n); }
 
       static size_t
       length(const char_type* __s)
@@ -4319,35 +3993,19 @@ namespace std
 
       static const char_type*
       find(const char_type* __s, size_t __n, const char_type& __a)
-      {
- if (__n == 0)
-   return 0;
- return wmemchr(__s, __a, __n);
-      }
+      { return wmemchr(__s, __a, __n); }
 
       static char_type*
       move(char_type* __s1, const char_type* __s2, size_t __n)
-      {
- if (__n == 0)
-   return __s1;
- return wmemmove(__s1, __s2, __n);
-      }
+      { return wmemmove(__s1, __s2, __n); }
 
       static char_type*
       copy(char_type* __s1, const char_type* __s2, size_t __n)
-      {
- if (__n == 0)
-   return __s1;
- return wmemcpy(__s1, __s2, __n);
-      }
+      { return wmemcpy(__s1, __s2, __n); }
 
       static char_type*
       assign(char_type* __s, size_t __n, char_type __a)
-      {
- if (__n == 0)
-   return __s;
- return wmemset(__s, __a, __n);
-      }
+      { return wmemset(__s, __a, __n); }
 
       static char_type
       to_char_type(const int_type& __c)
@@ -4363,7 +4021,7 @@ namespace std
 
       static int_type
       eof()
-      { return static_cast<int_type>((wchar_t)(0xffff)); }
+      { return static_cast<int_type>((0xffffffffu)); }
 
       static int_type
       not_eof(const int_type& __c)
@@ -4373,38 +4031,53 @@ namespace std
 
 
 }
-# 41 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\ios" 2 3
-# 1 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\localefwd.h" 1 3
-# 37 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\localefwd.h" 3
+# 41 "/usr/include/c++/4.8/ios" 2 3
+# 1 "/usr/include/c++/4.8/bits/localefwd.h" 1 3
+# 37 "/usr/include/c++/4.8/bits/localefwd.h" 3
        
-# 38 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\localefwd.h" 3
+# 38 "/usr/include/c++/4.8/bits/localefwd.h" 3
 
 
-# 1 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\mingw32\\bits\\c++locale.h" 1 3
-# 39 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\mingw32\\bits\\c++locale.h" 3
+# 1 "/usr/include/i386-linux-gnu/c++/4.8/bits/c++locale.h" 1 3
+# 39 "/usr/include/i386-linux-gnu/c++/4.8/bits/c++locale.h" 3
        
-# 40 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\mingw32\\bits\\c++locale.h" 3
+# 40 "/usr/include/i386-linux-gnu/c++/4.8/bits/c++locale.h" 3
 
-# 1 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\clocale" 1 3
-# 39 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\clocale" 3
+# 1 "/usr/include/c++/4.8/clocale" 1 3
+# 39 "/usr/include/c++/4.8/clocale" 3
        
-# 40 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\clocale" 3
+# 40 "/usr/include/c++/4.8/clocale" 3
 
 
-# 1 "d:\\mingw\\include\\locale.h" 1 3
-# 34 "d:\\mingw\\include\\locale.h" 3
-       
-# 35 "d:\\mingw\\include\\locale.h" 3
-# 97 "d:\\mingw\\include\\locale.h" 3
-# 1 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\stddef.h" 1 3 4
-# 98 "d:\\mingw\\include\\locale.h" 2 3
+# 1 "/usr/include/locale.h" 1 3 4
+# 28 "/usr/include/locale.h" 3 4
+# 1 "/usr/lib/gcc/i686-linux-gnu/4.8/include/stddef.h" 1 3 4
+# 29 "/usr/include/locale.h" 2 3 4
+# 1 "/usr/include/i386-linux-gnu/bits/locale.h" 1 3 4
+# 30 "/usr/include/locale.h" 2 3 4
+
+extern "C" {
+# 50 "/usr/include/locale.h" 3 4
+
+
 
 struct lconv
 {
-# 110 "d:\\mingw\\include\\locale.h" 3
+
+
   char *decimal_point;
   char *thousands_sep;
+
+
+
+
+
   char *grouping;
+
+
+
+
+
   char *int_curr_symbol;
   char *currency_symbol;
   char *mon_decimal_point;
@@ -4414,28 +4087,66 @@ struct lconv
   char *negative_sign;
   char int_frac_digits;
   char frac_digits;
+
   char p_cs_precedes;
+
   char p_sep_by_space;
+
   char n_cs_precedes;
+
   char n_sep_by_space;
+
+
+
+
+
+
   char p_sign_posn;
   char n_sign_posn;
+
+
+  char int_p_cs_precedes;
+
+  char int_p_sep_by_space;
+
+  char int_n_cs_precedes;
+
+  char int_n_sep_by_space;
+
+
+
+
+
+
+  char int_p_sign_posn;
+  char int_n_sign_posn;
+# 120 "/usr/include/locale.h" 3 4
 };
 
 
 
+extern char *setlocale (int __category, const char *__locale) throw ();
+
+
+extern struct lconv *localeconv (void) throw ();
+
+
+# 151 "/usr/include/locale.h" 3 4
+extern __locale_t newlocale (int __category_mask, const char *__locale,
+        __locale_t __base) throw ();
+# 186 "/usr/include/locale.h" 3 4
+extern __locale_t duplocale (__locale_t __dataset) throw ();
 
 
 
-extern "C" {
+extern void freelocale (__locale_t __dataset) throw ();
 
 
 
 
 
 
- __attribute__((__cdecl__)) __attribute__((__nothrow__)) char *setlocale (int, const char *);
- __attribute__((__cdecl__)) __attribute__((__nothrow__)) struct lconv *localeconv (void);
+extern __locale_t uselocale (__locale_t __dataset) throw ();
 
 
 
@@ -4443,144 +4154,337 @@ extern "C" {
 
 
 
- __attribute__((__cdecl__)) __attribute__((__nothrow__)) wchar_t *_wsetlocale (int, const wchar_t *);
-# 178 "d:\\mingw\\include\\locale.h" 3
 }
-# 43 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\clocale" 2 3
-# 51 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\clocale" 3
+# 43 "/usr/include/c++/4.8/clocale" 2 3
+# 51 "/usr/include/c++/4.8/clocale" 3
 namespace std
 {
   using ::lconv;
   using ::setlocale;
   using ::localeconv;
 }
-# 42 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\mingw32\\bits\\c++locale.h" 2 3
+# 42 "/usr/include/i386-linux-gnu/c++/4.8/bits/c++locale.h" 2 3
 
 
 
-namespace std
+
+
+
+namespace __gnu_cxx __attribute__ ((__visibility__ ("default")))
 {
 
 
-  typedef int* __c_locale;
+  extern "C" __typeof(uselocale) __uselocale;
+
+
+}
+
+
+namespace std __attribute__ ((__visibility__ ("default")))
+{
+
+
+  typedef __locale_t __c_locale;
 
 
 
 
 
   inline int
-  __convert_from_v(const __c_locale&, char* __out,
-     const int __size __attribute__((__unused__)),
+  __convert_from_v(const __c_locale& __cloc __attribute__ ((__unused__)),
+     char* __out,
+     const int __size __attribute__ ((__unused__)),
      const char* __fmt, ...)
   {
-    char* __old = std::setlocale(4, 0);
-    char* __sav = 0;
-    if (__builtin_strcmp(__old, "C"))
-      {
- const size_t __len = __builtin_strlen(__old) + 1;
- __sav = new char[__len];
- __builtin_memcpy(__sav, __old, __len);
- std::setlocale(4, "C");
-      }
 
+    __c_locale __old = __gnu_cxx::__uselocale(__cloc);
+# 88 "/usr/include/i386-linux-gnu/c++/4.8/bits/c++locale.h" 3
     __builtin_va_list __args;
     __builtin_va_start(__args, __fmt);
 
 
+    const int __ret = __builtin_vsnprintf(__out, __size, __fmt, __args);
 
 
-    const int __ret = __builtin_vsprintf(__out, __fmt, __args);
 
 
     __builtin_va_end(__args);
 
-    if (__sav)
-      {
- std::setlocale(4, __sav);
- delete [] __sav;
-      }
+
+    __gnu_cxx::__uselocale(__old);
+
+
+
+
+
+
+
     return __ret;
   }
 
 
 }
-# 41 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\localefwd.h" 2 3
+# 41 "/usr/include/c++/4.8/bits/localefwd.h" 2 3
 
-# 1 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\cctype" 1 3
-# 39 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\cctype" 3
+# 1 "/usr/include/c++/4.8/cctype" 1 3
+# 39 "/usr/include/c++/4.8/cctype" 3
        
-# 40 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\cctype" 3
+# 40 "/usr/include/c++/4.8/cctype" 3
 
 
-# 1 "d:\\mingw\\include\\ctype.h" 1 3
-# 33 "d:\\mingw\\include\\ctype.h" 3
-       
-# 34 "d:\\mingw\\include\\ctype.h" 3
-# 59 "d:\\mingw\\include\\ctype.h" 3
-# 1 "d:\\mingw\\include\\wctype.h" 1 3
-# 60 "d:\\mingw\\include\\ctype.h" 2 3
-# 68 "d:\\mingw\\include\\ctype.h" 3
+# 1 "/usr/include/ctype.h" 1 3 4
+# 26 "/usr/include/ctype.h" 3 4
+# 1 "/usr/include/i386-linux-gnu/bits/types.h" 1 3 4
+# 27 "/usr/include/i386-linux-gnu/bits/types.h" 3 4
+# 1 "/usr/include/i386-linux-gnu/bits/wordsize.h" 1 3 4
+# 28 "/usr/include/i386-linux-gnu/bits/types.h" 2 3 4
+
+
+typedef unsigned char __u_char;
+typedef unsigned short int __u_short;
+typedef unsigned int __u_int;
+typedef unsigned long int __u_long;
+
+
+typedef signed char __int8_t;
+typedef unsigned char __uint8_t;
+typedef signed short int __int16_t;
+typedef unsigned short int __uint16_t;
+typedef signed int __int32_t;
+typedef unsigned int __uint32_t;
+
+
+
+
+__extension__ typedef signed long long int __int64_t;
+__extension__ typedef unsigned long long int __uint64_t;
+
+
+
+
+
+
+
+__extension__ typedef long long int __quad_t;
+__extension__ typedef unsigned long long int __u_quad_t;
+# 121 "/usr/include/i386-linux-gnu/bits/types.h" 3 4
+# 1 "/usr/include/i386-linux-gnu/bits/typesizes.h" 1 3 4
+# 122 "/usr/include/i386-linux-gnu/bits/types.h" 2 3 4
+
+
+__extension__ typedef __u_quad_t __dev_t;
+__extension__ typedef unsigned int __uid_t;
+__extension__ typedef unsigned int __gid_t;
+__extension__ typedef unsigned long int __ino_t;
+__extension__ typedef __u_quad_t __ino64_t;
+__extension__ typedef unsigned int __mode_t;
+__extension__ typedef unsigned int __nlink_t;
+__extension__ typedef long int __off_t;
+__extension__ typedef __quad_t __off64_t;
+__extension__ typedef int __pid_t;
+__extension__ typedef struct { int __val[2]; } __fsid_t;
+__extension__ typedef long int __clock_t;
+__extension__ typedef unsigned long int __rlim_t;
+__extension__ typedef __u_quad_t __rlim64_t;
+__extension__ typedef unsigned int __id_t;
+__extension__ typedef long int __time_t;
+__extension__ typedef unsigned int __useconds_t;
+__extension__ typedef long int __suseconds_t;
+
+__extension__ typedef int __daddr_t;
+__extension__ typedef int __key_t;
+
+
+__extension__ typedef int __clockid_t;
+
+
+__extension__ typedef void * __timer_t;
+
+
+__extension__ typedef long int __blksize_t;
+
+
+
+
+__extension__ typedef long int __blkcnt_t;
+__extension__ typedef __quad_t __blkcnt64_t;
+
+
+__extension__ typedef unsigned long int __fsblkcnt_t;
+__extension__ typedef __u_quad_t __fsblkcnt64_t;
+
+
+__extension__ typedef unsigned long int __fsfilcnt_t;
+__extension__ typedef __u_quad_t __fsfilcnt64_t;
+
+
+__extension__ typedef int __fsword_t;
+
+__extension__ typedef int __ssize_t;
+
+
+__extension__ typedef long int __syscall_slong_t;
+
+__extension__ typedef unsigned long int __syscall_ulong_t;
+
+
+
+typedef __off64_t __loff_t;
+typedef __quad_t *__qaddr_t;
+typedef char *__caddr_t;
+
+
+__extension__ typedef int __intptr_t;
+
+
+__extension__ typedef unsigned int __socklen_t;
+# 27 "/usr/include/ctype.h" 2 3 4
+
 extern "C" {
-
- __attribute__((__cdecl__)) __attribute__((__nothrow__)) int isalnum(int);
- __attribute__((__cdecl__)) __attribute__((__nothrow__)) int isalpha(int);
- __attribute__((__cdecl__)) __attribute__((__nothrow__)) int iscntrl(int);
- __attribute__((__cdecl__)) __attribute__((__nothrow__)) int isdigit(int);
- __attribute__((__cdecl__)) __attribute__((__nothrow__)) int isgraph(int);
- __attribute__((__cdecl__)) __attribute__((__nothrow__)) int islower(int);
- __attribute__((__cdecl__)) __attribute__((__nothrow__)) int isleadbyte (int);
- __attribute__((__cdecl__)) __attribute__((__nothrow__)) int isprint(int);
- __attribute__((__cdecl__)) __attribute__((__nothrow__)) int ispunct(int);
- __attribute__((__cdecl__)) __attribute__((__nothrow__)) int isspace(int);
- __attribute__((__cdecl__)) __attribute__((__nothrow__)) int isupper(int);
- __attribute__((__cdecl__)) __attribute__((__nothrow__)) int isxdigit(int);
-
-
-__attribute__((__cdecl__)) __attribute__((__nothrow__)) int isblank (int);
-
-
-
- __attribute__((__cdecl__)) __attribute__((__nothrow__)) int _isctype (int, int);
+# 39 "/usr/include/ctype.h" 3 4
+# 1 "/usr/include/endian.h" 1 3 4
+# 36 "/usr/include/endian.h" 3 4
+# 1 "/usr/include/i386-linux-gnu/bits/endian.h" 1 3 4
+# 37 "/usr/include/endian.h" 2 3 4
+# 60 "/usr/include/endian.h" 3 4
+# 1 "/usr/include/i386-linux-gnu/bits/byteswap.h" 1 3 4
+# 28 "/usr/include/i386-linux-gnu/bits/byteswap.h" 3 4
+# 1 "/usr/include/i386-linux-gnu/bits/wordsize.h" 1 3 4
+# 29 "/usr/include/i386-linux-gnu/bits/byteswap.h" 2 3 4
 
 
 
 
 
 
- __attribute__((__cdecl__)) __attribute__((__nothrow__)) int tolower (int);
- __attribute__((__cdecl__)) __attribute__((__nothrow__)) int toupper (int);
-# 108 "d:\\mingw\\include\\ctype.h" 3
- __attribute__((__cdecl__)) __attribute__((__nothrow__)) int _tolower (int);
- __attribute__((__cdecl__)) __attribute__((__nothrow__)) int _toupper (int);
-# 119 "d:\\mingw\\include\\ctype.h" 3
-    extern __attribute__((__dllimport__)) int __mb_cur_max;
-# 140 "d:\\mingw\\include\\ctype.h" 3
-  extern __attribute__((__dllimport__)) unsigned short _ctype[];
-
-
-
-  extern __attribute__((__dllimport__)) unsigned short *_pctype;
-# 240 "d:\\mingw\\include\\ctype.h" 3
-inline __attribute__((__cdecl__)) __attribute__((__nothrow__)) int isleadbyte (int c)
-{ return (_pctype[(unsigned char)(c)] & 0x8000); }
-
-
-__attribute__((__cdecl__)) __attribute__((__nothrow__)) int __isascii (int);
-__attribute__((__cdecl__)) __attribute__((__nothrow__)) int __toascii (int);
-__attribute__((__cdecl__)) __attribute__((__nothrow__)) int __iscsymf (int);
-__attribute__((__cdecl__)) __attribute__((__nothrow__)) int __iscsym (int);
-# 267 "d:\\mingw\\include\\ctype.h" 3
-__attribute__((__cdecl__)) __attribute__((__nothrow__)) int isascii (int);
-__attribute__((__cdecl__)) __attribute__((__nothrow__)) int toascii (int);
-__attribute__((__cdecl__)) __attribute__((__nothrow__)) int iscsymf (int);
-__attribute__((__cdecl__)) __attribute__((__nothrow__)) int iscsym (int);
-
-
-
-
+# 1 "/usr/include/i386-linux-gnu/bits/byteswap-16.h" 1 3 4
+# 36 "/usr/include/i386-linux-gnu/bits/byteswap.h" 2 3 4
+# 44 "/usr/include/i386-linux-gnu/bits/byteswap.h" 3 4
+static __inline unsigned int
+__bswap_32 (unsigned int __bsx)
+{
+  return __builtin_bswap32 (__bsx);
 }
-# 43 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\cctype" 2 3
-# 62 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\cctype" 3
+# 108 "/usr/include/i386-linux-gnu/bits/byteswap.h" 3 4
+static __inline __uint64_t
+__bswap_64 (__uint64_t __bsx)
+{
+  return __builtin_bswap64 (__bsx);
+}
+# 61 "/usr/include/endian.h" 2 3 4
+# 40 "/usr/include/ctype.h" 2 3 4
+
+
+
+
+
+
+enum
+{
+  _ISupper = ((0) < 8 ? ((1 << (0)) << 8) : ((1 << (0)) >> 8)),
+  _ISlower = ((1) < 8 ? ((1 << (1)) << 8) : ((1 << (1)) >> 8)),
+  _ISalpha = ((2) < 8 ? ((1 << (2)) << 8) : ((1 << (2)) >> 8)),
+  _ISdigit = ((3) < 8 ? ((1 << (3)) << 8) : ((1 << (3)) >> 8)),
+  _ISxdigit = ((4) < 8 ? ((1 << (4)) << 8) : ((1 << (4)) >> 8)),
+  _ISspace = ((5) < 8 ? ((1 << (5)) << 8) : ((1 << (5)) >> 8)),
+  _ISprint = ((6) < 8 ? ((1 << (6)) << 8) : ((1 << (6)) >> 8)),
+  _ISgraph = ((7) < 8 ? ((1 << (7)) << 8) : ((1 << (7)) >> 8)),
+  _ISblank = ((8) < 8 ? ((1 << (8)) << 8) : ((1 << (8)) >> 8)),
+  _IScntrl = ((9) < 8 ? ((1 << (9)) << 8) : ((1 << (9)) >> 8)),
+  _ISpunct = ((10) < 8 ? ((1 << (10)) << 8) : ((1 << (10)) >> 8)),
+  _ISalnum = ((11) < 8 ? ((1 << (11)) << 8) : ((1 << (11)) >> 8))
+};
+# 79 "/usr/include/ctype.h" 3 4
+extern const unsigned short int **__ctype_b_loc (void)
+     throw () __attribute__ ((__const__));
+extern const __int32_t **__ctype_tolower_loc (void)
+     throw () __attribute__ ((__const__));
+extern const __int32_t **__ctype_toupper_loc (void)
+     throw () __attribute__ ((__const__));
+# 104 "/usr/include/ctype.h" 3 4
+
+
+
+
+
+
+extern int isalnum (int) throw ();
+extern int isalpha (int) throw ();
+extern int iscntrl (int) throw ();
+extern int isdigit (int) throw ();
+extern int islower (int) throw ();
+extern int isgraph (int) throw ();
+extern int isprint (int) throw ();
+extern int ispunct (int) throw ();
+extern int isspace (int) throw ();
+extern int isupper (int) throw ();
+extern int isxdigit (int) throw ();
+
+
+
+extern int tolower (int __c) throw ();
+
+
+extern int toupper (int __c) throw ();
+
+
+
+
+
+
+
+
+extern int isblank (int) throw ();
+
+
+
+
+
+
+extern int isctype (int __c, int __mask) throw ();
+
+
+
+
+
+
+extern int isascii (int __c) throw ();
+
+
+
+extern int toascii (int __c) throw ();
+
+
+
+extern int _toupper (int) throw ();
+extern int _tolower (int) throw ();
+# 271 "/usr/include/ctype.h" 3 4
+extern int isalnum_l (int, __locale_t) throw ();
+extern int isalpha_l (int, __locale_t) throw ();
+extern int iscntrl_l (int, __locale_t) throw ();
+extern int isdigit_l (int, __locale_t) throw ();
+extern int islower_l (int, __locale_t) throw ();
+extern int isgraph_l (int, __locale_t) throw ();
+extern int isprint_l (int, __locale_t) throw ();
+extern int ispunct_l (int, __locale_t) throw ();
+extern int isspace_l (int, __locale_t) throw ();
+extern int isupper_l (int, __locale_t) throw ();
+extern int isxdigit_l (int, __locale_t) throw ();
+
+extern int isblank_l (int, __locale_t) throw ();
+
+
+
+extern int __tolower_l (int __c, __locale_t __l) throw ();
+extern int tolower_l (int __c, __locale_t __l) throw ();
+
+
+extern int __toupper_l (int __c, __locale_t __l) throw ();
+extern int toupper_l (int __c, __locale_t __l) throw ();
+# 347 "/usr/include/ctype.h" 3 4
+}
+# 43 "/usr/include/c++/4.8/cctype" 2 3
+# 62 "/usr/include/c++/4.8/cctype" 3
 namespace std
 {
   using ::isalnum;
@@ -4597,12 +4501,12 @@ namespace std
   using ::tolower;
   using ::toupper;
 }
-# 43 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\localefwd.h" 2 3
+# 43 "/usr/include/c++/4.8/bits/localefwd.h" 2 3
 
-namespace std
+namespace std __attribute__ ((__visibility__ ("default")))
 {
 
-# 55 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\localefwd.h" 3
+# 55 "/usr/include/c++/4.8/bits/localefwd.h" 3
   class locale;
 
   template<typename _Facet>
@@ -4658,12 +4562,6 @@ namespace std
     bool
     isgraph(_CharT, const locale&);
 
-
-
-
-
-
-
   template<typename _CharT>
     _CharT
     toupper(_CharT, const locale&);
@@ -4701,27 +4599,21 @@ namespace std
   template<typename _CharT, typename _OutIter = ostreambuf_iterator<_CharT> >
     class num_put;
 
-namespace __cxx11 {
   template<typename _CharT> class numpunct;
   template<typename _CharT> class numpunct_byname;
-}
 
-namespace __cxx11 {
 
   template<typename _CharT>
     class collate;
-  template<typename _CharT>
-    class collate_byname;
-}
+  template<typename _CharT> class
+    collate_byname;
 
 
   class time_base;
-namespace __cxx11 {
   template<typename _CharT, typename _InIter = istreambuf_iterator<_CharT> >
     class time_get;
   template<typename _CharT, typename _InIter = istreambuf_iterator<_CharT> >
     class time_get_byname;
-}
   template<typename _CharT, typename _OutIter = ostreambuf_iterator<_CharT> >
     class time_put;
   template<typename _CharT, typename _OutIter = ostreambuf_iterator<_CharT> >
@@ -4729,124 +4621,1534 @@ namespace __cxx11 {
 
 
   class money_base;
-namespace __cxx11 {
+
   template<typename _CharT, typename _InIter = istreambuf_iterator<_CharT> >
     class money_get;
   template<typename _CharT, typename _OutIter = ostreambuf_iterator<_CharT> >
     class money_put;
-}
-namespace __cxx11 {
+
   template<typename _CharT, bool _Intl = false>
     class moneypunct;
   template<typename _CharT, bool _Intl = false>
     class moneypunct_byname;
-}
 
 
   class messages_base;
-namespace __cxx11 {
   template<typename _CharT>
     class messages;
   template<typename _CharT>
     class messages_byname;
-}
 
 
 }
-# 42 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\ios" 2 3
-# 1 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\ios_base.h" 1 3
-# 37 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\ios_base.h" 3
+# 42 "/usr/include/c++/4.8/ios" 2 3
+# 1 "/usr/include/c++/4.8/bits/ios_base.h" 1 3
+# 37 "/usr/include/c++/4.8/bits/ios_base.h" 3
        
-# 38 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\ios_base.h" 3
+# 38 "/usr/include/c++/4.8/bits/ios_base.h" 3
 
-# 1 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\ext\\atomicity.h" 1 3
-# 32 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\ext\\atomicity.h" 3
+# 1 "/usr/include/c++/4.8/ext/atomicity.h" 1 3
+# 32 "/usr/include/c++/4.8/ext/atomicity.h" 3
        
-# 33 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\ext\\atomicity.h" 3
+# 33 "/usr/include/c++/4.8/ext/atomicity.h" 3
 
 
-# 1 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\mingw32\\bits\\gthr.h" 1 3
-# 30 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\mingw32\\bits\\gthr.h" 3
+# 1 "/usr/include/i386-linux-gnu/c++/4.8/bits/gthr.h" 1 3
+# 30 "/usr/include/i386-linux-gnu/c++/4.8/bits/gthr.h" 3
 #pragma GCC visibility push(default)
-# 148 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\mingw32\\bits\\gthr.h" 3
-# 1 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\mingw32\\bits\\gthr-default.h" 1 3
-# 69 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\mingw32\\bits\\gthr-default.h" 3
-# 1 "d:\\mingw\\include\\errno.h" 1 3
-# 103 "d:\\mingw\\include\\errno.h" 3
+# 148 "/usr/include/i386-linux-gnu/c++/4.8/bits/gthr.h" 3
+# 1 "/usr/include/i386-linux-gnu/c++/4.8/bits/gthr-default.h" 1 3
+# 35 "/usr/include/i386-linux-gnu/c++/4.8/bits/gthr-default.h" 3
+# 1 "/usr/include/pthread.h" 1 3 4
+# 23 "/usr/include/pthread.h" 3 4
+# 1 "/usr/include/sched.h" 1 3 4
+# 28 "/usr/include/sched.h" 3 4
+# 1 "/usr/lib/gcc/i686-linux-gnu/4.8/include/stddef.h" 1 3 4
+# 29 "/usr/include/sched.h" 2 3 4
+
+
+
+# 1 "/usr/include/time.h" 1 3 4
+# 73 "/usr/include/time.h" 3 4
+
+
+typedef __time_t time_t;
+
+
+
+# 120 "/usr/include/time.h" 3 4
+struct timespec
+  {
+    __time_t tv_sec;
+    __syscall_slong_t tv_nsec;
+  };
+# 33 "/usr/include/sched.h" 2 3 4
+
+
+typedef __pid_t pid_t;
+
+
+
+
+
+# 1 "/usr/include/i386-linux-gnu/bits/sched.h" 1 3 4
+# 72 "/usr/include/i386-linux-gnu/bits/sched.h" 3 4
+struct sched_param
+  {
+    int __sched_priority;
+  };
+
 extern "C" {
-# 112 "d:\\mingw\\include\\errno.h" 3
- int* __attribute__((__cdecl__)) __attribute__((__nothrow__)) _errno(void);
+
+
+
+extern int clone (int (*__fn) (void *__arg), void *__child_stack,
+    int __flags, void *__arg, ...) throw ();
+
+
+extern int unshare (int __flags) throw ();
+
+
+extern int sched_getcpu (void) throw ();
+
+
+extern int setns (int __fd, int __nstype) throw ();
 
 
 
 }
-# 70 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\mingw32\\bits\\gthr-default.h" 2 3
-# 339 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\mingw32\\bits\\gthr-default.h" 3
+
+
+
+
+
+
+
+struct __sched_param
+  {
+    int __sched_priority;
+  };
+# 118 "/usr/include/i386-linux-gnu/bits/sched.h" 3 4
+typedef unsigned long int __cpu_mask;
+
+
+
+
+
+
+typedef struct
+{
+  __cpu_mask __bits[1024 / (8 * sizeof (__cpu_mask))];
+} cpu_set_t;
+# 201 "/usr/include/i386-linux-gnu/bits/sched.h" 3 4
+extern "C" {
+
+extern int __sched_cpucount (size_t __setsize, const cpu_set_t *__setp)
+  throw ();
+extern cpu_set_t *__sched_cpualloc (size_t __count) throw () ;
+extern void __sched_cpufree (cpu_set_t *__set) throw ();
+
+}
+# 42 "/usr/include/sched.h" 2 3 4
+
+
+
+
 extern "C" {
 
 
-typedef unsigned long __gthread_key_t;
+extern int sched_setparam (__pid_t __pid, const struct sched_param *__param)
+     throw ();
 
-typedef struct {
-  int done;
-  long started;
-} __gthread_once_t;
 
-typedef struct {
-  long counter;
-  void *sema;
-} __gthread_mutex_t;
+extern int sched_getparam (__pid_t __pid, struct sched_param *__param) throw ();
 
-typedef struct {
-  long counter;
-  long depth;
-  unsigned long owner;
-  void *sema;
-} __gthread_recursive_mutex_t;
-# 373 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\mingw32\\bits\\gthr-default.h" 3
-extern int _CRT_MT;
-extern int __mingwthr_key_dtor (unsigned long, void (*) (void *));
-# 400 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\mingw32\\bits\\gthr-default.h" 3
+
+extern int sched_setscheduler (__pid_t __pid, int __policy,
+          const struct sched_param *__param) throw ();
+
+
+extern int sched_getscheduler (__pid_t __pid) throw ();
+
+
+extern int sched_yield (void) throw ();
+
+
+extern int sched_get_priority_max (int __algorithm) throw ();
+
+
+extern int sched_get_priority_min (int __algorithm) throw ();
+
+
+extern int sched_rr_get_interval (__pid_t __pid, struct timespec *__t) throw ();
+# 116 "/usr/include/sched.h" 3 4
+extern int sched_setaffinity (__pid_t __pid, size_t __cpusetsize,
+         const cpu_set_t *__cpuset) throw ();
+
+
+extern int sched_getaffinity (__pid_t __pid, size_t __cpusetsize,
+         cpu_set_t *__cpuset) throw ();
+
+
+}
+# 24 "/usr/include/pthread.h" 2 3 4
+# 1 "/usr/include/time.h" 1 3 4
+# 29 "/usr/include/time.h" 3 4
+extern "C" {
+
+
+
+
+
+
+
+# 1 "/usr/lib/gcc/i686-linux-gnu/4.8/include/stddef.h" 1 3 4
+# 38 "/usr/include/time.h" 2 3 4
+
+
+
+# 1 "/usr/include/i386-linux-gnu/bits/time.h" 1 3 4
+# 30 "/usr/include/i386-linux-gnu/bits/time.h" 3 4
+struct timeval
+  {
+    __time_t tv_sec;
+    __suseconds_t tv_usec;
+  };
+# 86 "/usr/include/i386-linux-gnu/bits/time.h" 3 4
+# 1 "/usr/include/i386-linux-gnu/bits/timex.h" 1 3 4
+# 25 "/usr/include/i386-linux-gnu/bits/timex.h" 3 4
+struct timex
+{
+  unsigned int modes;
+  __syscall_slong_t offset;
+  __syscall_slong_t freq;
+  __syscall_slong_t maxerror;
+  __syscall_slong_t esterror;
+  int status;
+  __syscall_slong_t constant;
+  __syscall_slong_t precision;
+  __syscall_slong_t tolerance;
+  struct timeval time;
+  __syscall_slong_t tick;
+  __syscall_slong_t ppsfreq;
+  __syscall_slong_t jitter;
+  int shift;
+  __syscall_slong_t stabil;
+  __syscall_slong_t jitcnt;
+  __syscall_slong_t calcnt;
+  __syscall_slong_t errcnt;
+  __syscall_slong_t stbcnt;
+
+  int tai;
+
+
+  int :32; int :32; int :32; int :32;
+  int :32; int :32; int :32; int :32;
+  int :32; int :32; int :32;
+};
+# 87 "/usr/include/i386-linux-gnu/bits/time.h" 2 3 4
+
+extern "C" {
+
+
+extern int clock_adjtime (__clockid_t __clock_id, struct timex *__utx) throw ();
+
+}
+# 42 "/usr/include/time.h" 2 3 4
+# 57 "/usr/include/time.h" 3 4
+
+
+typedef __clock_t clock_t;
+
+
+
+# 91 "/usr/include/time.h" 3 4
+typedef __clockid_t clockid_t;
+# 103 "/usr/include/time.h" 3 4
+typedef __timer_t timer_t;
+# 131 "/usr/include/time.h" 3 4
+
+
+struct tm
+{
+  int tm_sec;
+  int tm_min;
+  int tm_hour;
+  int tm_mday;
+  int tm_mon;
+  int tm_year;
+  int tm_wday;
+  int tm_yday;
+  int tm_isdst;
+
+
+  long int tm_gmtoff;
+  const char *tm_zone;
+
+
+
+
+};
+
+
+
+
+
+
+
+
+struct itimerspec
+  {
+    struct timespec it_interval;
+    struct timespec it_value;
+  };
+
+
+struct sigevent;
+# 186 "/usr/include/time.h" 3 4
+
+
+
+extern clock_t clock (void) throw ();
+
+
+extern time_t time (time_t *__timer) throw ();
+
+
+extern double difftime (time_t __time1, time_t __time0)
+     throw () __attribute__ ((__const__));
+
+
+extern time_t mktime (struct tm *__tp) throw ();
+
+
+
+
+
+extern size_t strftime (char *__restrict __s, size_t __maxsize,
+   const char *__restrict __format,
+   const struct tm *__restrict __tp) throw ();
+
+
+
+
+
+extern char *strptime (const char *__restrict __s,
+         const char *__restrict __fmt, struct tm *__tp)
+     throw ();
+
+
+
+
+
+
+
+extern size_t strftime_l (char *__restrict __s, size_t __maxsize,
+     const char *__restrict __format,
+     const struct tm *__restrict __tp,
+     __locale_t __loc) throw ();
+
+
+
+extern char *strptime_l (const char *__restrict __s,
+    const char *__restrict __fmt, struct tm *__tp,
+    __locale_t __loc) throw ();
+
+
+
+
+
+
+extern struct tm *gmtime (const time_t *__timer) throw ();
+
+
+
+extern struct tm *localtime (const time_t *__timer) throw ();
+
+
+
+
+
+extern struct tm *gmtime_r (const time_t *__restrict __timer,
+       struct tm *__restrict __tp) throw ();
+
+
+
+extern struct tm *localtime_r (const time_t *__restrict __timer,
+          struct tm *__restrict __tp) throw ();
+
+
+
+
+
+extern char *asctime (const struct tm *__tp) throw ();
+
+
+extern char *ctime (const time_t *__timer) throw ();
+
+
+
+
+
+
+
+extern char *asctime_r (const struct tm *__restrict __tp,
+   char *__restrict __buf) throw ();
+
+
+extern char *ctime_r (const time_t *__restrict __timer,
+        char *__restrict __buf) throw ();
+
+
+
+
+extern char *__tzname[2];
+extern int __daylight;
+extern long int __timezone;
+
+
+
+
+extern char *tzname[2];
+
+
+
+extern void tzset (void) throw ();
+
+
+
+extern int daylight;
+extern long int timezone;
+
+
+
+
+
+extern int stime (const time_t *__when) throw ();
+# 319 "/usr/include/time.h" 3 4
+extern time_t timegm (struct tm *__tp) throw ();
+
+
+extern time_t timelocal (struct tm *__tp) throw ();
+
+
+extern int dysize (int __year) throw () __attribute__ ((__const__));
+# 334 "/usr/include/time.h" 3 4
+extern int nanosleep (const struct timespec *__requested_time,
+        struct timespec *__remaining);
+
+
+
+extern int clock_getres (clockid_t __clock_id, struct timespec *__res) throw ();
+
+
+extern int clock_gettime (clockid_t __clock_id, struct timespec *__tp) throw ();
+
+
+extern int clock_settime (clockid_t __clock_id, const struct timespec *__tp)
+     throw ();
+
+
+
+
+
+
+extern int clock_nanosleep (clockid_t __clock_id, int __flags,
+       const struct timespec *__req,
+       struct timespec *__rem);
+
+
+extern int clock_getcpuclockid (pid_t __pid, clockid_t *__clock_id) throw ();
+
+
+
+
+extern int timer_create (clockid_t __clock_id,
+    struct sigevent *__restrict __evp,
+    timer_t *__restrict __timerid) throw ();
+
+
+extern int timer_delete (timer_t __timerid) throw ();
+
+
+extern int timer_settime (timer_t __timerid, int __flags,
+     const struct itimerspec *__restrict __value,
+     struct itimerspec *__restrict __ovalue) throw ();
+
+
+extern int timer_gettime (timer_t __timerid, struct itimerspec *__value)
+     throw ();
+
+
+extern int timer_getoverrun (timer_t __timerid) throw ();
+
+
+
+
+
+extern int timespec_get (struct timespec *__ts, int __base)
+     throw () __attribute__ ((__nonnull__ (1)));
+# 403 "/usr/include/time.h" 3 4
+extern int getdate_err;
+# 412 "/usr/include/time.h" 3 4
+extern struct tm *getdate (const char *__string);
+# 426 "/usr/include/time.h" 3 4
+extern int getdate_r (const char *__restrict __string,
+        struct tm *__restrict __resbufp);
+
+
+}
+# 25 "/usr/include/pthread.h" 2 3 4
+
+# 1 "/usr/include/i386-linux-gnu/bits/pthreadtypes.h" 1 3 4
+# 21 "/usr/include/i386-linux-gnu/bits/pthreadtypes.h" 3 4
+# 1 "/usr/include/i386-linux-gnu/bits/wordsize.h" 1 3 4
+# 22 "/usr/include/i386-linux-gnu/bits/pthreadtypes.h" 2 3 4
+# 60 "/usr/include/i386-linux-gnu/bits/pthreadtypes.h" 3 4
+typedef unsigned long int pthread_t;
+
+
+union pthread_attr_t
+{
+  char __size[36];
+  long int __align;
+};
+
+typedef union pthread_attr_t pthread_attr_t;
+# 81 "/usr/include/i386-linux-gnu/bits/pthreadtypes.h" 3 4
+typedef struct __pthread_internal_slist
+{
+  struct __pthread_internal_slist *__next;
+} __pthread_slist_t;
+
+
+
+
+
+typedef union
+{
+  struct __pthread_mutex_s
+  {
+    int __lock;
+    unsigned int __count;
+    int __owner;
+
+
+
+
+
+    int __kind;
+
+
+
+
+
+
+
+    unsigned int __nusers;
+    __extension__ union
+    {
+      struct
+      {
+ short __espins;
+ short __elision;
+
+
+
+      } d;
+      __pthread_slist_t __list;
+    };
+
+  } __data;
+  char __size[24];
+  long int __align;
+} pthread_mutex_t;
+
+typedef union
+{
+  char __size[4];
+  int __align;
+} pthread_mutexattr_t;
+
+
+
+
+typedef union
+{
+  struct
+  {
+    int __lock;
+    unsigned int __futex;
+    __extension__ unsigned long long int __total_seq;
+    __extension__ unsigned long long int __wakeup_seq;
+    __extension__ unsigned long long int __woken_seq;
+    void *__mutex;
+    unsigned int __nwaiters;
+    unsigned int __broadcast_seq;
+  } __data;
+  char __size[48];
+  __extension__ long long int __align;
+} pthread_cond_t;
+
+typedef union
+{
+  char __size[4];
+  int __align;
+} pthread_condattr_t;
+
+
+
+typedef unsigned int pthread_key_t;
+
+
+
+typedef int pthread_once_t;
+
+
+
+
+
+typedef union
+{
+# 194 "/usr/include/i386-linux-gnu/bits/pthreadtypes.h" 3 4
+  struct
+  {
+    int __lock;
+    unsigned int __nr_readers;
+    unsigned int __readers_wakeup;
+    unsigned int __writer_wakeup;
+    unsigned int __nr_readers_queued;
+    unsigned int __nr_writers_queued;
+
+
+    unsigned char __flags;
+    unsigned char __shared;
+    unsigned char __pad1;
+    unsigned char __pad2;
+    int __writer;
+  } __data;
+
+  char __size[32];
+  long int __align;
+} pthread_rwlock_t;
+
+typedef union
+{
+  char __size[8];
+  long int __align;
+} pthread_rwlockattr_t;
+
+
+
+
+
+typedef volatile int pthread_spinlock_t;
+
+
+
+
+typedef union
+{
+  char __size[20];
+  long int __align;
+} pthread_barrier_t;
+
+typedef union
+{
+  char __size[4];
+  int __align;
+} pthread_barrierattr_t;
+# 27 "/usr/include/pthread.h" 2 3 4
+# 1 "/usr/include/i386-linux-gnu/bits/setjmp.h" 1 3 4
+# 26 "/usr/include/i386-linux-gnu/bits/setjmp.h" 3 4
+# 1 "/usr/include/i386-linux-gnu/bits/wordsize.h" 1 3 4
+# 27 "/usr/include/i386-linux-gnu/bits/setjmp.h" 2 3 4
+# 35 "/usr/include/i386-linux-gnu/bits/setjmp.h" 3 4
+typedef int __jmp_buf[6];
+# 28 "/usr/include/pthread.h" 2 3 4
+# 1 "/usr/include/i386-linux-gnu/bits/wordsize.h" 1 3 4
+# 29 "/usr/include/pthread.h" 2 3 4
+
+
+
+enum
+{
+  PTHREAD_CREATE_JOINABLE,
+
+  PTHREAD_CREATE_DETACHED
+
+};
+
+
+
+enum
+{
+  PTHREAD_MUTEX_TIMED_NP,
+  PTHREAD_MUTEX_RECURSIVE_NP,
+  PTHREAD_MUTEX_ERRORCHECK_NP,
+  PTHREAD_MUTEX_ADAPTIVE_NP
+
+  ,
+  PTHREAD_MUTEX_NORMAL = PTHREAD_MUTEX_TIMED_NP,
+  PTHREAD_MUTEX_RECURSIVE = PTHREAD_MUTEX_RECURSIVE_NP,
+  PTHREAD_MUTEX_ERRORCHECK = PTHREAD_MUTEX_ERRORCHECK_NP,
+  PTHREAD_MUTEX_DEFAULT = PTHREAD_MUTEX_NORMAL
+
+
+
+  , PTHREAD_MUTEX_FAST_NP = PTHREAD_MUTEX_TIMED_NP
+
+};
+
+
+
+
+enum
+{
+  PTHREAD_MUTEX_STALLED,
+  PTHREAD_MUTEX_STALLED_NP = PTHREAD_MUTEX_STALLED,
+  PTHREAD_MUTEX_ROBUST,
+  PTHREAD_MUTEX_ROBUST_NP = PTHREAD_MUTEX_ROBUST
+};
+
+
+
+
+
+enum
+{
+  PTHREAD_PRIO_NONE,
+  PTHREAD_PRIO_INHERIT,
+  PTHREAD_PRIO_PROTECT
+};
+# 125 "/usr/include/pthread.h" 3 4
+enum
+{
+  PTHREAD_RWLOCK_PREFER_READER_NP,
+  PTHREAD_RWLOCK_PREFER_WRITER_NP,
+  PTHREAD_RWLOCK_PREFER_WRITER_NONRECURSIVE_NP,
+  PTHREAD_RWLOCK_DEFAULT_NP = PTHREAD_RWLOCK_PREFER_READER_NP
+};
+# 166 "/usr/include/pthread.h" 3 4
+enum
+{
+  PTHREAD_INHERIT_SCHED,
+
+  PTHREAD_EXPLICIT_SCHED
+
+};
+
+
+
+enum
+{
+  PTHREAD_SCOPE_SYSTEM,
+
+  PTHREAD_SCOPE_PROCESS
+
+};
+
+
+
+enum
+{
+  PTHREAD_PROCESS_PRIVATE,
+
+  PTHREAD_PROCESS_SHARED
+
+};
+# 201 "/usr/include/pthread.h" 3 4
+struct _pthread_cleanup_buffer
+{
+  void (*__routine) (void *);
+  void *__arg;
+  int __canceltype;
+  struct _pthread_cleanup_buffer *__prev;
+};
+
+
+enum
+{
+  PTHREAD_CANCEL_ENABLE,
+
+  PTHREAD_CANCEL_DISABLE
+
+};
+enum
+{
+  PTHREAD_CANCEL_DEFERRED,
+
+  PTHREAD_CANCEL_ASYNCHRONOUS
+
+};
+# 239 "/usr/include/pthread.h" 3 4
+extern "C" {
+
+
+
+
+extern int pthread_create (pthread_t *__restrict __newthread,
+      const pthread_attr_t *__restrict __attr,
+      void *(*__start_routine) (void *),
+      void *__restrict __arg) throw () __attribute__ ((__nonnull__ (1, 3)));
+
+
+
+
+
+extern void pthread_exit (void *__retval) __attribute__ ((__noreturn__));
+
+
+
+
+
+
+
+extern int pthread_join (pthread_t __th, void **__thread_return);
+
+
+
+
+extern int pthread_tryjoin_np (pthread_t __th, void **__thread_return) throw ();
+
+
+
+
+
+
+
+extern int pthread_timedjoin_np (pthread_t __th, void **__thread_return,
+     const struct timespec *__abstime);
+
+
+
+
+
+
+extern int pthread_detach (pthread_t __th) throw ();
+
+
+
+extern pthread_t pthread_self (void) throw () __attribute__ ((__const__));
+
+
+extern int pthread_equal (pthread_t __thread1, pthread_t __thread2)
+  throw () __attribute__ ((__const__));
+
+
+
+
+
+
+
+extern int pthread_attr_init (pthread_attr_t *__attr) throw () __attribute__ ((__nonnull__ (1)));
+
+
+extern int pthread_attr_destroy (pthread_attr_t *__attr)
+     throw () __attribute__ ((__nonnull__ (1)));
+
+
+extern int pthread_attr_getdetachstate (const pthread_attr_t *__attr,
+     int *__detachstate)
+     throw () __attribute__ ((__nonnull__ (1, 2)));
+
+
+extern int pthread_attr_setdetachstate (pthread_attr_t *__attr,
+     int __detachstate)
+     throw () __attribute__ ((__nonnull__ (1)));
+
+
+
+extern int pthread_attr_getguardsize (const pthread_attr_t *__attr,
+          size_t *__guardsize)
+     throw () __attribute__ ((__nonnull__ (1, 2)));
+
+
+extern int pthread_attr_setguardsize (pthread_attr_t *__attr,
+          size_t __guardsize)
+     throw () __attribute__ ((__nonnull__ (1)));
+
+
+
+extern int pthread_attr_getschedparam (const pthread_attr_t *__restrict __attr,
+           struct sched_param *__restrict __param)
+     throw () __attribute__ ((__nonnull__ (1, 2)));
+
+
+extern int pthread_attr_setschedparam (pthread_attr_t *__restrict __attr,
+           const struct sched_param *__restrict
+           __param) throw () __attribute__ ((__nonnull__ (1, 2)));
+
+
+extern int pthread_attr_getschedpolicy (const pthread_attr_t *__restrict
+     __attr, int *__restrict __policy)
+     throw () __attribute__ ((__nonnull__ (1, 2)));
+
+
+extern int pthread_attr_setschedpolicy (pthread_attr_t *__attr, int __policy)
+     throw () __attribute__ ((__nonnull__ (1)));
+
+
+extern int pthread_attr_getinheritsched (const pthread_attr_t *__restrict
+      __attr, int *__restrict __inherit)
+     throw () __attribute__ ((__nonnull__ (1, 2)));
+
+
+extern int pthread_attr_setinheritsched (pthread_attr_t *__attr,
+      int __inherit)
+     throw () __attribute__ ((__nonnull__ (1)));
+
+
+
+extern int pthread_attr_getscope (const pthread_attr_t *__restrict __attr,
+      int *__restrict __scope)
+     throw () __attribute__ ((__nonnull__ (1, 2)));
+
+
+extern int pthread_attr_setscope (pthread_attr_t *__attr, int __scope)
+     throw () __attribute__ ((__nonnull__ (1)));
+
+
+extern int pthread_attr_getstackaddr (const pthread_attr_t *__restrict
+          __attr, void **__restrict __stackaddr)
+     throw () __attribute__ ((__nonnull__ (1, 2))) __attribute__ ((__deprecated__));
+
+
+
+
+
+extern int pthread_attr_setstackaddr (pthread_attr_t *__attr,
+          void *__stackaddr)
+     throw () __attribute__ ((__nonnull__ (1))) __attribute__ ((__deprecated__));
+
+
+extern int pthread_attr_getstacksize (const pthread_attr_t *__restrict
+          __attr, size_t *__restrict __stacksize)
+     throw () __attribute__ ((__nonnull__ (1, 2)));
+
+
+
+
+extern int pthread_attr_setstacksize (pthread_attr_t *__attr,
+          size_t __stacksize)
+     throw () __attribute__ ((__nonnull__ (1)));
+
+
+
+extern int pthread_attr_getstack (const pthread_attr_t *__restrict __attr,
+      void **__restrict __stackaddr,
+      size_t *__restrict __stacksize)
+     throw () __attribute__ ((__nonnull__ (1, 2, 3)));
+
+
+
+
+extern int pthread_attr_setstack (pthread_attr_t *__attr, void *__stackaddr,
+      size_t __stacksize) throw () __attribute__ ((__nonnull__ (1)));
+
+
+
+
+
+extern int pthread_attr_setaffinity_np (pthread_attr_t *__attr,
+     size_t __cpusetsize,
+     const cpu_set_t *__cpuset)
+     throw () __attribute__ ((__nonnull__ (1, 3)));
+
+
+
+extern int pthread_attr_getaffinity_np (const pthread_attr_t *__attr,
+     size_t __cpusetsize,
+     cpu_set_t *__cpuset)
+     throw () __attribute__ ((__nonnull__ (1, 3)));
+
+
+extern int pthread_getattr_default_np (pthread_attr_t *__attr)
+     throw () __attribute__ ((__nonnull__ (1)));
+
+
+
+extern int pthread_setattr_default_np (const pthread_attr_t *__attr)
+     throw () __attribute__ ((__nonnull__ (1)));
+
+
+
+
+extern int pthread_getattr_np (pthread_t __th, pthread_attr_t *__attr)
+     throw () __attribute__ ((__nonnull__ (2)));
+
+
+
+
+
+
+
+extern int pthread_setschedparam (pthread_t __target_thread, int __policy,
+      const struct sched_param *__param)
+     throw () __attribute__ ((__nonnull__ (3)));
+
+
+extern int pthread_getschedparam (pthread_t __target_thread,
+      int *__restrict __policy,
+      struct sched_param *__restrict __param)
+     throw () __attribute__ ((__nonnull__ (2, 3)));
+
+
+extern int pthread_setschedprio (pthread_t __target_thread, int __prio)
+     throw ();
+
+
+
+
+extern int pthread_getname_np (pthread_t __target_thread, char *__buf,
+          size_t __buflen)
+     throw () __attribute__ ((__nonnull__ (2)));
+
+
+extern int pthread_setname_np (pthread_t __target_thread, const char *__name)
+     throw () __attribute__ ((__nonnull__ (2)));
+
+
+
+
+
+extern int pthread_getconcurrency (void) throw ();
+
+
+extern int pthread_setconcurrency (int __level) throw ();
+
+
+
+
+
+
+
+extern int pthread_yield (void) throw ();
+
+
+
+
+extern int pthread_setaffinity_np (pthread_t __th, size_t __cpusetsize,
+       const cpu_set_t *__cpuset)
+     throw () __attribute__ ((__nonnull__ (3)));
+
+
+extern int pthread_getaffinity_np (pthread_t __th, size_t __cpusetsize,
+       cpu_set_t *__cpuset)
+     throw () __attribute__ ((__nonnull__ (3)));
+# 505 "/usr/include/pthread.h" 3 4
+extern int pthread_once (pthread_once_t *__once_control,
+    void (*__init_routine) (void)) __attribute__ ((__nonnull__ (1, 2)));
+# 517 "/usr/include/pthread.h" 3 4
+extern int pthread_setcancelstate (int __state, int *__oldstate);
+
+
+
+extern int pthread_setcanceltype (int __type, int *__oldtype);
+
+
+extern int pthread_cancel (pthread_t __th);
+
+
+
+
+extern void pthread_testcancel (void);
+
+
+
+
+typedef struct
+{
+  struct
+  {
+    __jmp_buf __cancel_jmp_buf;
+    int __mask_was_saved;
+  } __cancel_jmp_buf[1];
+  void *__pad[4];
+} __pthread_unwind_buf_t __attribute__ ((__aligned__));
+# 551 "/usr/include/pthread.h" 3 4
+struct __pthread_cleanup_frame
+{
+  void (*__cancel_routine) (void *);
+  void *__cancel_arg;
+  int __do_it;
+  int __cancel_type;
+};
+
+
+
+
+class __pthread_cleanup_class
+{
+  void (*__cancel_routine) (void *);
+  void *__cancel_arg;
+  int __do_it;
+  int __cancel_type;
+
+ public:
+  __pthread_cleanup_class (void (*__fct) (void *), void *__arg)
+    : __cancel_routine (__fct), __cancel_arg (__arg), __do_it (1) { }
+  ~__pthread_cleanup_class () { if (__do_it) __cancel_routine (__cancel_arg); }
+  void __setdoit (int __newval) { __do_it = __newval; }
+  void __defer () { pthread_setcanceltype (PTHREAD_CANCEL_DEFERRED,
+        &__cancel_type); }
+  void __restore () const { pthread_setcanceltype (__cancel_type, 0); }
+};
+# 753 "/usr/include/pthread.h" 3 4
+struct __jmp_buf_tag;
+extern int __sigsetjmp (struct __jmp_buf_tag *__env, int __savemask) throw ();
+
+
+
+
+
+extern int pthread_mutex_init (pthread_mutex_t *__mutex,
+          const pthread_mutexattr_t *__mutexattr)
+     throw () __attribute__ ((__nonnull__ (1)));
+
+
+extern int pthread_mutex_destroy (pthread_mutex_t *__mutex)
+     throw () __attribute__ ((__nonnull__ (1)));
+
+
+extern int pthread_mutex_trylock (pthread_mutex_t *__mutex)
+     throw () __attribute__ ((__nonnull__ (1)));
+
+
+extern int pthread_mutex_lock (pthread_mutex_t *__mutex)
+     throw () __attribute__ ((__nonnull__ (1)));
+
+
+
+extern int pthread_mutex_timedlock (pthread_mutex_t *__restrict __mutex,
+        const struct timespec *__restrict
+        __abstime) throw () __attribute__ ((__nonnull__ (1, 2)));
+
+
+
+extern int pthread_mutex_unlock (pthread_mutex_t *__mutex)
+     throw () __attribute__ ((__nonnull__ (1)));
+
+
+
+extern int pthread_mutex_getprioceiling (const pthread_mutex_t *
+      __restrict __mutex,
+      int *__restrict __prioceiling)
+     throw () __attribute__ ((__nonnull__ (1, 2)));
+
+
+
+extern int pthread_mutex_setprioceiling (pthread_mutex_t *__restrict __mutex,
+      int __prioceiling,
+      int *__restrict __old_ceiling)
+     throw () __attribute__ ((__nonnull__ (1, 3)));
+
+
+
+
+extern int pthread_mutex_consistent (pthread_mutex_t *__mutex)
+     throw () __attribute__ ((__nonnull__ (1)));
+
+extern int pthread_mutex_consistent_np (pthread_mutex_t *__mutex)
+     throw () __attribute__ ((__nonnull__ (1)));
+# 817 "/usr/include/pthread.h" 3 4
+extern int pthread_mutexattr_init (pthread_mutexattr_t *__attr)
+     throw () __attribute__ ((__nonnull__ (1)));
+
+
+extern int pthread_mutexattr_destroy (pthread_mutexattr_t *__attr)
+     throw () __attribute__ ((__nonnull__ (1)));
+
+
+extern int pthread_mutexattr_getpshared (const pthread_mutexattr_t *
+      __restrict __attr,
+      int *__restrict __pshared)
+     throw () __attribute__ ((__nonnull__ (1, 2)));
+
+
+extern int pthread_mutexattr_setpshared (pthread_mutexattr_t *__attr,
+      int __pshared)
+     throw () __attribute__ ((__nonnull__ (1)));
+
+
+
+extern int pthread_mutexattr_gettype (const pthread_mutexattr_t *__restrict
+          __attr, int *__restrict __kind)
+     throw () __attribute__ ((__nonnull__ (1, 2)));
+
+
+
+
+extern int pthread_mutexattr_settype (pthread_mutexattr_t *__attr, int __kind)
+     throw () __attribute__ ((__nonnull__ (1)));
+
+
+
+extern int pthread_mutexattr_getprotocol (const pthread_mutexattr_t *
+       __restrict __attr,
+       int *__restrict __protocol)
+     throw () __attribute__ ((__nonnull__ (1, 2)));
+
+
+
+extern int pthread_mutexattr_setprotocol (pthread_mutexattr_t *__attr,
+       int __protocol)
+     throw () __attribute__ ((__nonnull__ (1)));
+
+
+extern int pthread_mutexattr_getprioceiling (const pthread_mutexattr_t *
+          __restrict __attr,
+          int *__restrict __prioceiling)
+     throw () __attribute__ ((__nonnull__ (1, 2)));
+
+
+extern int pthread_mutexattr_setprioceiling (pthread_mutexattr_t *__attr,
+          int __prioceiling)
+     throw () __attribute__ ((__nonnull__ (1)));
+
+
+
+extern int pthread_mutexattr_getrobust (const pthread_mutexattr_t *__attr,
+     int *__robustness)
+     throw () __attribute__ ((__nonnull__ (1, 2)));
+
+extern int pthread_mutexattr_getrobust_np (const pthread_mutexattr_t *__attr,
+        int *__robustness)
+     throw () __attribute__ ((__nonnull__ (1, 2)));
+
+
+
+extern int pthread_mutexattr_setrobust (pthread_mutexattr_t *__attr,
+     int __robustness)
+     throw () __attribute__ ((__nonnull__ (1)));
+
+extern int pthread_mutexattr_setrobust_np (pthread_mutexattr_t *__attr,
+        int __robustness)
+     throw () __attribute__ ((__nonnull__ (1)));
+# 899 "/usr/include/pthread.h" 3 4
+extern int pthread_rwlock_init (pthread_rwlock_t *__restrict __rwlock,
+    const pthread_rwlockattr_t *__restrict
+    __attr) throw () __attribute__ ((__nonnull__ (1)));
+
+
+extern int pthread_rwlock_destroy (pthread_rwlock_t *__rwlock)
+     throw () __attribute__ ((__nonnull__ (1)));
+
+
+extern int pthread_rwlock_rdlock (pthread_rwlock_t *__rwlock)
+     throw () __attribute__ ((__nonnull__ (1)));
+
+
+extern int pthread_rwlock_tryrdlock (pthread_rwlock_t *__rwlock)
+  throw () __attribute__ ((__nonnull__ (1)));
+
+
+
+extern int pthread_rwlock_timedrdlock (pthread_rwlock_t *__restrict __rwlock,
+           const struct timespec *__restrict
+           __abstime) throw () __attribute__ ((__nonnull__ (1, 2)));
+
+
+
+extern int pthread_rwlock_wrlock (pthread_rwlock_t *__rwlock)
+     throw () __attribute__ ((__nonnull__ (1)));
+
+
+extern int pthread_rwlock_trywrlock (pthread_rwlock_t *__rwlock)
+     throw () __attribute__ ((__nonnull__ (1)));
+
+
+
+extern int pthread_rwlock_timedwrlock (pthread_rwlock_t *__restrict __rwlock,
+           const struct timespec *__restrict
+           __abstime) throw () __attribute__ ((__nonnull__ (1, 2)));
+
+
+
+extern int pthread_rwlock_unlock (pthread_rwlock_t *__rwlock)
+     throw () __attribute__ ((__nonnull__ (1)));
+
+
+
+
+
+extern int pthread_rwlockattr_init (pthread_rwlockattr_t *__attr)
+     throw () __attribute__ ((__nonnull__ (1)));
+
+
+extern int pthread_rwlockattr_destroy (pthread_rwlockattr_t *__attr)
+     throw () __attribute__ ((__nonnull__ (1)));
+
+
+extern int pthread_rwlockattr_getpshared (const pthread_rwlockattr_t *
+       __restrict __attr,
+       int *__restrict __pshared)
+     throw () __attribute__ ((__nonnull__ (1, 2)));
+
+
+extern int pthread_rwlockattr_setpshared (pthread_rwlockattr_t *__attr,
+       int __pshared)
+     throw () __attribute__ ((__nonnull__ (1)));
+
+
+extern int pthread_rwlockattr_getkind_np (const pthread_rwlockattr_t *
+       __restrict __attr,
+       int *__restrict __pref)
+     throw () __attribute__ ((__nonnull__ (1, 2)));
+
+
+extern int pthread_rwlockattr_setkind_np (pthread_rwlockattr_t *__attr,
+       int __pref) throw () __attribute__ ((__nonnull__ (1)));
+
+
+
+
+
+
+
+extern int pthread_cond_init (pthread_cond_t *__restrict __cond,
+         const pthread_condattr_t *__restrict __cond_attr)
+     throw () __attribute__ ((__nonnull__ (1)));
+
+
+extern int pthread_cond_destroy (pthread_cond_t *__cond)
+     throw () __attribute__ ((__nonnull__ (1)));
+
+
+extern int pthread_cond_signal (pthread_cond_t *__cond)
+     throw () __attribute__ ((__nonnull__ (1)));
+
+
+extern int pthread_cond_broadcast (pthread_cond_t *__cond)
+     throw () __attribute__ ((__nonnull__ (1)));
+
+
+
+
+
+
+extern int pthread_cond_wait (pthread_cond_t *__restrict __cond,
+         pthread_mutex_t *__restrict __mutex)
+     __attribute__ ((__nonnull__ (1, 2)));
+# 1011 "/usr/include/pthread.h" 3 4
+extern int pthread_cond_timedwait (pthread_cond_t *__restrict __cond,
+       pthread_mutex_t *__restrict __mutex,
+       const struct timespec *__restrict __abstime)
+     __attribute__ ((__nonnull__ (1, 2, 3)));
+
+
+
+
+extern int pthread_condattr_init (pthread_condattr_t *__attr)
+     throw () __attribute__ ((__nonnull__ (1)));
+
+
+extern int pthread_condattr_destroy (pthread_condattr_t *__attr)
+     throw () __attribute__ ((__nonnull__ (1)));
+
+
+extern int pthread_condattr_getpshared (const pthread_condattr_t *
+     __restrict __attr,
+     int *__restrict __pshared)
+     throw () __attribute__ ((__nonnull__ (1, 2)));
+
+
+extern int pthread_condattr_setpshared (pthread_condattr_t *__attr,
+     int __pshared) throw () __attribute__ ((__nonnull__ (1)));
+
+
+
+extern int pthread_condattr_getclock (const pthread_condattr_t *
+          __restrict __attr,
+          __clockid_t *__restrict __clock_id)
+     throw () __attribute__ ((__nonnull__ (1, 2)));
+
+
+extern int pthread_condattr_setclock (pthread_condattr_t *__attr,
+          __clockid_t __clock_id)
+     throw () __attribute__ ((__nonnull__ (1)));
+# 1055 "/usr/include/pthread.h" 3 4
+extern int pthread_spin_init (pthread_spinlock_t *__lock, int __pshared)
+     throw () __attribute__ ((__nonnull__ (1)));
+
+
+extern int pthread_spin_destroy (pthread_spinlock_t *__lock)
+     throw () __attribute__ ((__nonnull__ (1)));
+
+
+extern int pthread_spin_lock (pthread_spinlock_t *__lock)
+     throw () __attribute__ ((__nonnull__ (1)));
+
+
+extern int pthread_spin_trylock (pthread_spinlock_t *__lock)
+     throw () __attribute__ ((__nonnull__ (1)));
+
+
+extern int pthread_spin_unlock (pthread_spinlock_t *__lock)
+     throw () __attribute__ ((__nonnull__ (1)));
+
+
+
+
+
+
+extern int pthread_barrier_init (pthread_barrier_t *__restrict __barrier,
+     const pthread_barrierattr_t *__restrict
+     __attr, unsigned int __count)
+     throw () __attribute__ ((__nonnull__ (1)));
+
+
+extern int pthread_barrier_destroy (pthread_barrier_t *__barrier)
+     throw () __attribute__ ((__nonnull__ (1)));
+
+
+extern int pthread_barrier_wait (pthread_barrier_t *__barrier)
+     throw () __attribute__ ((__nonnull__ (1)));
+
+
+
+extern int pthread_barrierattr_init (pthread_barrierattr_t *__attr)
+     throw () __attribute__ ((__nonnull__ (1)));
+
+
+extern int pthread_barrierattr_destroy (pthread_barrierattr_t *__attr)
+     throw () __attribute__ ((__nonnull__ (1)));
+
+
+extern int pthread_barrierattr_getpshared (const pthread_barrierattr_t *
+        __restrict __attr,
+        int *__restrict __pshared)
+     throw () __attribute__ ((__nonnull__ (1, 2)));
+
+
+extern int pthread_barrierattr_setpshared (pthread_barrierattr_t *__attr,
+        int __pshared)
+     throw () __attribute__ ((__nonnull__ (1)));
+# 1122 "/usr/include/pthread.h" 3 4
+extern int pthread_key_create (pthread_key_t *__key,
+          void (*__destr_function) (void *))
+     throw () __attribute__ ((__nonnull__ (1)));
+
+
+extern int pthread_key_delete (pthread_key_t __key) throw ();
+
+
+extern void *pthread_getspecific (pthread_key_t __key) throw ();
+
+
+extern int pthread_setspecific (pthread_key_t __key,
+    const void *__pointer) throw () ;
+
+
+
+
+extern int pthread_getcpuclockid (pthread_t __thread_id,
+      __clockid_t *__clock_id)
+     throw () __attribute__ ((__nonnull__ (2)));
+# 1156 "/usr/include/pthread.h" 3 4
+extern int pthread_atfork (void (*__prepare) (void),
+      void (*__parent) (void),
+      void (*__child) (void)) throw ();
+# 1170 "/usr/include/pthread.h" 3 4
+}
+# 36 "/usr/include/i386-linux-gnu/c++/4.8/bits/gthr-default.h" 2 3
+# 47 "/usr/include/i386-linux-gnu/c++/4.8/bits/gthr-default.h" 3
+typedef pthread_t __gthread_t;
+typedef pthread_key_t __gthread_key_t;
+typedef pthread_once_t __gthread_once_t;
+typedef pthread_mutex_t __gthread_mutex_t;
+typedef pthread_mutex_t __gthread_recursive_mutex_t;
+typedef pthread_cond_t __gthread_cond_t;
+typedef struct timespec __gthread_time_t;
+# 101 "/usr/include/i386-linux-gnu/c++/4.8/bits/gthr-default.h" 3
+static __typeof(pthread_once) __gthrw_pthread_once __attribute__ ((__weakref__("pthread_once")));
+static __typeof(pthread_getspecific) __gthrw_pthread_getspecific __attribute__ ((__weakref__("pthread_getspecific")));
+static __typeof(pthread_setspecific) __gthrw_pthread_setspecific __attribute__ ((__weakref__("pthread_setspecific")));
+
+static __typeof(pthread_create) __gthrw_pthread_create __attribute__ ((__weakref__("pthread_create")));
+static __typeof(pthread_join) __gthrw_pthread_join __attribute__ ((__weakref__("pthread_join")));
+static __typeof(pthread_equal) __gthrw_pthread_equal __attribute__ ((__weakref__("pthread_equal")));
+static __typeof(pthread_self) __gthrw_pthread_self __attribute__ ((__weakref__("pthread_self")));
+static __typeof(pthread_detach) __gthrw_pthread_detach __attribute__ ((__weakref__("pthread_detach")));
+
+static __typeof(pthread_cancel) __gthrw_pthread_cancel __attribute__ ((__weakref__("pthread_cancel")));
+
+static __typeof(sched_yield) __gthrw_sched_yield __attribute__ ((__weakref__("sched_yield")));
+
+static __typeof(pthread_mutex_lock) __gthrw_pthread_mutex_lock __attribute__ ((__weakref__("pthread_mutex_lock")));
+static __typeof(pthread_mutex_trylock) __gthrw_pthread_mutex_trylock __attribute__ ((__weakref__("pthread_mutex_trylock")));
+
+static __typeof(pthread_mutex_timedlock) __gthrw_pthread_mutex_timedlock __attribute__ ((__weakref__("pthread_mutex_timedlock")));
+
+static __typeof(pthread_mutex_unlock) __gthrw_pthread_mutex_unlock __attribute__ ((__weakref__("pthread_mutex_unlock")));
+static __typeof(pthread_mutex_init) __gthrw_pthread_mutex_init __attribute__ ((__weakref__("pthread_mutex_init")));
+static __typeof(pthread_mutex_destroy) __gthrw_pthread_mutex_destroy __attribute__ ((__weakref__("pthread_mutex_destroy")));
+
+static __typeof(pthread_cond_init) __gthrw_pthread_cond_init __attribute__ ((__weakref__("pthread_cond_init")));
+static __typeof(pthread_cond_broadcast) __gthrw_pthread_cond_broadcast __attribute__ ((__weakref__("pthread_cond_broadcast")));
+static __typeof(pthread_cond_signal) __gthrw_pthread_cond_signal __attribute__ ((__weakref__("pthread_cond_signal")));
+static __typeof(pthread_cond_wait) __gthrw_pthread_cond_wait __attribute__ ((__weakref__("pthread_cond_wait")));
+static __typeof(pthread_cond_timedwait) __gthrw_pthread_cond_timedwait __attribute__ ((__weakref__("pthread_cond_timedwait")));
+static __typeof(pthread_cond_destroy) __gthrw_pthread_cond_destroy __attribute__ ((__weakref__("pthread_cond_destroy")));
+
+static __typeof(pthread_key_create) __gthrw_pthread_key_create __attribute__ ((__weakref__("pthread_key_create")));
+static __typeof(pthread_key_delete) __gthrw_pthread_key_delete __attribute__ ((__weakref__("pthread_key_delete")));
+static __typeof(pthread_mutexattr_init) __gthrw_pthread_mutexattr_init __attribute__ ((__weakref__("pthread_mutexattr_init")));
+static __typeof(pthread_mutexattr_settype) __gthrw_pthread_mutexattr_settype __attribute__ ((__weakref__("pthread_mutexattr_settype")));
+static __typeof(pthread_mutexattr_destroy) __gthrw_pthread_mutexattr_destroy __attribute__ ((__weakref__("pthread_mutexattr_destroy")));
+# 236 "/usr/include/i386-linux-gnu/c++/4.8/bits/gthr-default.h" 3
+static __typeof(pthread_key_create) __gthrw___pthread_key_create __attribute__ ((__weakref__("__pthread_key_create")));
+# 246 "/usr/include/i386-linux-gnu/c++/4.8/bits/gthr-default.h" 3
 static inline int
 __gthread_active_p (void)
 {
-
-  return _CRT_MT;
-
-
-
+  static void *const __gthread_active_ptr
+    = __extension__ (void *) &__gthrw___pthread_key_create;
+  return __gthread_active_ptr != 0;
+}
+# 658 "/usr/include/i386-linux-gnu/c++/4.8/bits/gthr-default.h" 3
+static inline int
+__gthread_create (__gthread_t *__threadid, void *(*__func) (void*),
+    void *__args)
+{
+  return __gthrw_pthread_create (__threadid, __null, __func, __args);
 }
 
+static inline int
+__gthread_join (__gthread_t __threadid, void **__value_ptr)
+{
+  return __gthrw_pthread_join (__threadid, __value_ptr);
+}
 
+static inline int
+__gthread_detach (__gthread_t __threadid)
+{
+  return __gthrw_pthread_detach (__threadid);
+}
 
+static inline int
+__gthread_equal (__gthread_t __t1, __gthread_t __t2)
+{
+  return __gthrw_pthread_equal (__t1, __t2);
+}
 
+static inline __gthread_t
+__gthread_self (void)
+{
+  return __gthrw_pthread_self ();
+}
 
-
-
-extern int __gthr_win32_once (__gthread_once_t *, void (*) (void));
-extern int __gthr_win32_key_create (__gthread_key_t *, void (*) (void*));
-extern int __gthr_win32_key_delete (__gthread_key_t);
-extern void * __gthr_win32_getspecific (__gthread_key_t);
-extern int __gthr_win32_setspecific (__gthread_key_t, const void *);
-extern void __gthr_win32_mutex_init_function (__gthread_mutex_t *);
-extern int __gthr_win32_mutex_lock (__gthread_mutex_t *);
-extern int __gthr_win32_mutex_trylock (__gthread_mutex_t *);
-extern int __gthr_win32_mutex_unlock (__gthread_mutex_t *);
-extern void
-  __gthr_win32_recursive_mutex_init_function (__gthread_recursive_mutex_t *);
-extern int __gthr_win32_recursive_mutex_lock (__gthread_recursive_mutex_t *);
-extern int
-  __gthr_win32_recursive_mutex_trylock (__gthread_recursive_mutex_t *);
-extern int __gthr_win32_recursive_mutex_unlock (__gthread_recursive_mutex_t *);
-extern void __gthr_win32_mutex_destroy (__gthread_mutex_t *);
-extern int
-  __gthr_win32_recursive_mutex_destroy (__gthread_recursive_mutex_t *);
+static inline int
+__gthread_yield (void)
+{
+  return __gthrw_sched_yield ();
+}
 
 static inline int
 __gthread_once (__gthread_once_t *__once, void (*__func) (void))
 {
   if (__gthread_active_p ())
-    return __gthr_win32_once (__once, __func);
+    return __gthrw_pthread_once (__once, __func);
   else
     return -1;
 }
@@ -4854,44 +6156,48 @@ __gthread_once (__gthread_once_t *__once, void (*__func) (void))
 static inline int
 __gthread_key_create (__gthread_key_t *__key, void (*__dtor) (void *))
 {
-  return __gthr_win32_key_create (__key, __dtor);
+  return __gthrw_pthread_key_create (__key, __dtor);
 }
 
 static inline int
 __gthread_key_delete (__gthread_key_t __key)
 {
-  return __gthr_win32_key_delete (__key);
+  return __gthrw_pthread_key_delete (__key);
 }
 
 static inline void *
 __gthread_getspecific (__gthread_key_t __key)
 {
-  return __gthr_win32_getspecific (__key);
+  return __gthrw_pthread_getspecific (__key);
 }
 
 static inline int
 __gthread_setspecific (__gthread_key_t __key, const void *__ptr)
 {
-  return __gthr_win32_setspecific (__key, __ptr);
+  return __gthrw_pthread_setspecific (__key, __ptr);
 }
 
 static inline void
 __gthread_mutex_init_function (__gthread_mutex_t *__mutex)
 {
-  __gthr_win32_mutex_init_function (__mutex);
+  if (__gthread_active_p ())
+    __gthrw_pthread_mutex_init (__mutex, __null);
 }
 
-static inline void
+static inline int
 __gthread_mutex_destroy (__gthread_mutex_t *__mutex)
 {
-  __gthr_win32_mutex_destroy (__mutex);
+  if (__gthread_active_p ())
+    return __gthrw_pthread_mutex_destroy (__mutex);
+  else
+    return 0;
 }
 
 static inline int
 __gthread_mutex_lock (__gthread_mutex_t *__mutex)
 {
   if (__gthread_active_p ())
-    return __gthr_win32_mutex_lock (__mutex);
+    return __gthrw_pthread_mutex_lock (__mutex);
   else
     return 0;
 }
@@ -4900,71 +6206,113 @@ static inline int
 __gthread_mutex_trylock (__gthread_mutex_t *__mutex)
 {
   if (__gthread_active_p ())
-    return __gthr_win32_mutex_trylock (__mutex);
+    return __gthrw_pthread_mutex_trylock (__mutex);
   else
     return 0;
 }
+
+
+static inline int
+__gthread_mutex_timedlock (__gthread_mutex_t *__mutex,
+      const __gthread_time_t *__abs_timeout)
+{
+  if (__gthread_active_p ())
+    return __gthrw_pthread_mutex_timedlock (__mutex, __abs_timeout);
+  else
+    return 0;
+}
+
 
 static inline int
 __gthread_mutex_unlock (__gthread_mutex_t *__mutex)
 {
   if (__gthread_active_p ())
-    return __gthr_win32_mutex_unlock (__mutex);
+    return __gthrw_pthread_mutex_unlock (__mutex);
   else
     return 0;
 }
-
-static inline void
-__gthread_recursive_mutex_init_function (__gthread_recursive_mutex_t *__mutex)
-{
-   __gthr_win32_recursive_mutex_init_function (__mutex);
-}
-
+# 807 "/usr/include/i386-linux-gnu/c++/4.8/bits/gthr-default.h" 3
 static inline int
 __gthread_recursive_mutex_lock (__gthread_recursive_mutex_t *__mutex)
 {
-  if (__gthread_active_p ())
-    return __gthr_win32_recursive_mutex_lock (__mutex);
-  else
-    return 0;
+  return __gthread_mutex_lock (__mutex);
 }
 
 static inline int
 __gthread_recursive_mutex_trylock (__gthread_recursive_mutex_t *__mutex)
 {
-  if (__gthread_active_p ())
-    return __gthr_win32_recursive_mutex_trylock (__mutex);
-  else
-    return 0;
+  return __gthread_mutex_trylock (__mutex);
 }
+
+
+static inline int
+__gthread_recursive_mutex_timedlock (__gthread_recursive_mutex_t *__mutex,
+         const __gthread_time_t *__abs_timeout)
+{
+  return __gthread_mutex_timedlock (__mutex, __abs_timeout);
+}
+
 
 static inline int
 __gthread_recursive_mutex_unlock (__gthread_recursive_mutex_t *__mutex)
 {
-  if (__gthread_active_p ())
-    return __gthr_win32_recursive_mutex_unlock (__mutex);
-  else
-    return 0;
+  return __gthread_mutex_unlock (__mutex);
 }
 
 static inline int
 __gthread_recursive_mutex_destroy (__gthread_recursive_mutex_t *__mutex)
 {
-  return __gthr_win32_recursive_mutex_destroy (__mutex);
+  return __gthread_mutex_destroy (__mutex);
 }
-# 781 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\mingw32\\bits\\gthr-default.h" 3
+# 849 "/usr/include/i386-linux-gnu/c++/4.8/bits/gthr-default.h" 3
+static inline int
+__gthread_cond_broadcast (__gthread_cond_t *__cond)
+{
+  return __gthrw_pthread_cond_broadcast (__cond);
 }
-# 149 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\mingw32\\bits\\gthr.h" 2 3
+
+static inline int
+__gthread_cond_signal (__gthread_cond_t *__cond)
+{
+  return __gthrw_pthread_cond_signal (__cond);
+}
+
+static inline int
+__gthread_cond_wait (__gthread_cond_t *__cond, __gthread_mutex_t *__mutex)
+{
+  return __gthrw_pthread_cond_wait (__cond, __mutex);
+}
+
+static inline int
+__gthread_cond_timedwait (__gthread_cond_t *__cond, __gthread_mutex_t *__mutex,
+     const __gthread_time_t *__abs_timeout)
+{
+  return __gthrw_pthread_cond_timedwait (__cond, __mutex, __abs_timeout);
+}
+
+static inline int
+__gthread_cond_wait_recursive (__gthread_cond_t *__cond,
+          __gthread_recursive_mutex_t *__mutex)
+{
+  return __gthread_cond_wait (__cond, __mutex);
+}
+
+static inline int
+__gthread_cond_destroy (__gthread_cond_t* __cond)
+{
+  return __gthrw_pthread_cond_destroy (__cond);
+}
+# 149 "/usr/include/i386-linux-gnu/c++/4.8/bits/gthr.h" 2 3
 
 
 #pragma GCC visibility pop
-# 36 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\ext\\atomicity.h" 2 3
-# 1 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\mingw32\\bits\\atomic_word.h" 1 3
-# 32 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\mingw32\\bits\\atomic_word.h" 3
+# 36 "/usr/include/c++/4.8/ext/atomicity.h" 2 3
+# 1 "/usr/include/i386-linux-gnu/c++/4.8/bits/atomic_word.h" 1 3
+# 32 "/usr/include/i386-linux-gnu/c++/4.8/bits/atomic_word.h" 3
 typedef int _Atomic_word;
-# 37 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\ext\\atomicity.h" 2 3
+# 37 "/usr/include/c++/4.8/ext/atomicity.h" 2 3
 
-namespace __gnu_cxx
+namespace __gnu_cxx __attribute__ ((__visibility__ ("default")))
 {
 
 
@@ -4980,7 +6328,7 @@ namespace __gnu_cxx
   static inline void
   __atomic_add(volatile _Atomic_word* __mem, int __val)
   { __atomic_fetch_add(__mem, __val, 4); }
-# 64 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\ext\\atomicity.h" 3
+# 64 "/usr/include/c++/4.8/ext/atomicity.h" 3
   static inline _Atomic_word
   __exchange_and_add_single(_Atomic_word* __mem, int __val)
   {
@@ -5023,32 +6371,32 @@ namespace __gnu_cxx
 
 
 }
-# 40 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\ios_base.h" 2 3
+# 40 "/usr/include/c++/4.8/bits/ios_base.h" 2 3
 
-# 1 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_classes.h" 1 3
-# 37 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_classes.h" 3
+# 1 "/usr/include/c++/4.8/bits/locale_classes.h" 1 3
+# 37 "/usr/include/c++/4.8/bits/locale_classes.h" 3
        
-# 38 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_classes.h" 3
+# 38 "/usr/include/c++/4.8/bits/locale_classes.h" 3
 
 
-# 1 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\string" 1 3
-# 36 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\string" 3
+# 1 "/usr/include/c++/4.8/string" 1 3
+# 36 "/usr/include/c++/4.8/string" 3
        
-# 37 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\string" 3
+# 37 "/usr/include/c++/4.8/string" 3
 
 
 
 
-# 1 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\allocator.h" 1 3
-# 46 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\allocator.h" 3
-# 1 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\mingw32\\bits\\c++allocator.h" 1 3
-# 33 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\mingw32\\bits\\c++allocator.h" 3
-# 1 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\ext\\new_allocator.h" 1 3
-# 33 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\ext\\new_allocator.h" 3
-# 1 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\new" 1 3
-# 37 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\new" 3
+# 1 "/usr/include/c++/4.8/bits/allocator.h" 1 3
+# 46 "/usr/include/c++/4.8/bits/allocator.h" 3
+# 1 "/usr/include/i386-linux-gnu/c++/4.8/bits/c++allocator.h" 1 3
+# 33 "/usr/include/i386-linux-gnu/c++/4.8/bits/c++allocator.h" 3
+# 1 "/usr/include/c++/4.8/ext/new_allocator.h" 1 3
+# 33 "/usr/include/c++/4.8/ext/new_allocator.h" 3
+# 1 "/usr/include/c++/4.8/new" 1 3
+# 37 "/usr/include/c++/4.8/new" 3
        
-# 38 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\new" 3
+# 38 "/usr/include/c++/4.8/new" 3
 
 
 
@@ -5077,7 +6425,7 @@ namespace std
 
     virtual const char* what() const throw();
   };
-# 82 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\new" 3
+
   struct nothrow_t { };
 
   extern const nothrow_t nothrow;
@@ -5089,13 +6437,8 @@ namespace std
 
 
   new_handler set_new_handler(new_handler) throw();
-
-
-
-
-
 }
-# 111 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\new" 3
+# 91 "/usr/include/c++/4.8/new" 3
 void* operator new(std::size_t) throw(std::bad_alloc)
   __attribute__((__externally_visible__));
 void* operator new[](std::size_t) throw(std::bad_alloc)
@@ -5126,20 +6469,20 @@ inline void operator delete[](void*, void*) throw() { }
 }
 
 #pragma GCC visibility pop
-# 34 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\ext\\new_allocator.h" 2 3
+# 34 "/usr/include/c++/4.8/ext/new_allocator.h" 2 3
 
 
 
 
 
 
-namespace __gnu_cxx
+namespace __gnu_cxx __attribute__ ((__visibility__ ("default")))
 {
 
 
   using std::size_t;
   using std::ptrdiff_t;
-# 57 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\ext\\new_allocator.h" 3
+# 57 "/usr/include/c++/4.8/ext/new_allocator.h" 3
   template<typename _Tp>
     class new_allocator
     {
@@ -5198,7 +6541,7 @@ namespace __gnu_cxx
       size_type
       max_size() const throw()
       { return size_t(-1) / sizeof(_Tp); }
-# 128 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\ext\\new_allocator.h" 3
+# 128 "/usr/include/c++/4.8/ext/new_allocator.h" 3
       void
       construct(pointer __p, const _Tp& __val)
       { ::new((void *)__p) _Tp(__val); }
@@ -5220,14 +6563,14 @@ namespace __gnu_cxx
 
 
 }
-# 34 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\mingw32\\bits\\c++allocator.h" 2 3
-# 47 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\allocator.h" 2 3
+# 34 "/usr/include/i386-linux-gnu/c++/4.8/bits/c++allocator.h" 2 3
+# 47 "/usr/include/c++/4.8/bits/allocator.h" 2 3
 
 
 
 
 
-namespace std
+namespace std __attribute__ ((__visibility__ ("default")))
 {
 
 
@@ -5257,7 +6600,7 @@ namespace std
 
 
     };
-# 91 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\allocator.h" 3
+# 91 "/usr/include/c++/4.8/bits/allocator.h" 3
   template<typename _Tp>
     class allocator: public __gnu_cxx::new_allocator<_Tp>
     {
@@ -5296,25 +6639,21 @@ namespace std
   template<typename _T1, typename _T2>
     inline bool
     operator==(const allocator<_T1>&, const allocator<_T2>&)
-    throw()
     { return true; }
 
   template<typename _Tp>
     inline bool
     operator==(const allocator<_Tp>&, const allocator<_Tp>&)
-    throw()
     { return true; }
 
   template<typename _T1, typename _T2>
     inline bool
     operator!=(const allocator<_T1>&, const allocator<_T2>&)
-    throw()
     { return false; }
 
   template<typename _Tp>
     inline bool
     operator!=(const allocator<_Tp>&, const allocator<_Tp>&)
-    throw()
     { return false; }
 
 
@@ -5362,22 +6701,22 @@ namespace std
       _S_do_it(const _Alloc& __one, const _Alloc& __two)
       { return __one != __two; }
     };
-# 226 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\allocator.h" 3
+# 218 "/usr/include/c++/4.8/bits/allocator.h" 3
 
 }
-# 42 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\string" 2 3
+# 42 "/usr/include/c++/4.8/string" 2 3
 
 
-# 1 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\ostream_insert.h" 1 3
-# 33 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\ostream_insert.h" 3
+# 1 "/usr/include/c++/4.8/bits/ostream_insert.h" 1 3
+# 33 "/usr/include/c++/4.8/bits/ostream_insert.h" 3
        
-# 34 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\ostream_insert.h" 3
+# 34 "/usr/include/c++/4.8/bits/ostream_insert.h" 3
 
 
-# 1 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\cxxabi_forced.h" 1 3
-# 34 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\cxxabi_forced.h" 3
+# 1 "/usr/include/c++/4.8/bits/cxxabi_forced.h" 1 3
+# 34 "/usr/include/c++/4.8/bits/cxxabi_forced.h" 3
        
-# 35 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\cxxabi_forced.h" 3
+# 35 "/usr/include/c++/4.8/bits/cxxabi_forced.h" 3
 
 #pragma GCC visibility push(default)
 
@@ -5402,9 +6741,9 @@ namespace __cxxabiv1
 
 
 #pragma GCC visibility pop
-# 37 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\ostream_insert.h" 2 3
+# 37 "/usr/include/c++/4.8/bits/ostream_insert.h" 2 3
 
-namespace std
+namespace std __attribute__ ((__visibility__ ("default")))
 {
 
 
@@ -5494,16 +6833,16 @@ namespace std
 
 
 }
-# 45 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\string" 2 3
+# 45 "/usr/include/c++/4.8/string" 2 3
 
 
 
-# 1 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\stl_function.h" 1 3
-# 63 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\stl_function.h" 3
-namespace std
+# 1 "/usr/include/c++/4.8/bits/stl_function.h" 1 3
+# 59 "/usr/include/c++/4.8/bits/stl_function.h" 3
+namespace std __attribute__ ((__visibility__ ("default")))
 {
 
-# 104 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\stl_function.h" 3
+# 100 "/usr/include/c++/4.8/bits/stl_function.h" 3
   template<typename _Arg, typename _Result>
     struct unary_function
     {
@@ -5529,11 +6868,10 @@ namespace std
 
       typedef _Result result_type;
     };
-# 166 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\stl_function.h" 3
+# 139 "/usr/include/c++/4.8/bits/stl_function.h" 3
   template<typename _Tp>
     struct plus : public binary_function<_Tp, _Tp, _Tp>
     {
-     
       _Tp
       operator()(const _Tp& __x, const _Tp& __y) const
       { return __x + __y; }
@@ -5543,7 +6881,6 @@ namespace std
   template<typename _Tp>
     struct minus : public binary_function<_Tp, _Tp, _Tp>
     {
-     
       _Tp
       operator()(const _Tp& __x, const _Tp& __y) const
       { return __x - __y; }
@@ -5553,7 +6890,6 @@ namespace std
   template<typename _Tp>
     struct multiplies : public binary_function<_Tp, _Tp, _Tp>
     {
-     
       _Tp
       operator()(const _Tp& __x, const _Tp& __y) const
       { return __x * __y; }
@@ -5563,7 +6899,6 @@ namespace std
   template<typename _Tp>
     struct divides : public binary_function<_Tp, _Tp, _Tp>
     {
-     
       _Tp
       operator()(const _Tp& __x, const _Tp& __y) const
       { return __x / __y; }
@@ -5573,7 +6908,6 @@ namespace std
   template<typename _Tp>
     struct modulus : public binary_function<_Tp, _Tp, _Tp>
     {
-     
       _Tp
       operator()(const _Tp& __x, const _Tp& __y) const
       { return __x % __y; }
@@ -5583,16 +6917,14 @@ namespace std
   template<typename _Tp>
     struct negate : public unary_function<_Tp, _Tp>
     {
-     
       _Tp
       operator()(const _Tp& __x) const
       { return -__x; }
     };
-# 351 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\stl_function.h" 3
+# 203 "/usr/include/c++/4.8/bits/stl_function.h" 3
   template<typename _Tp>
     struct equal_to : public binary_function<_Tp, _Tp, bool>
     {
-     
       bool
       operator()(const _Tp& __x, const _Tp& __y) const
       { return __x == __y; }
@@ -5602,7 +6934,6 @@ namespace std
   template<typename _Tp>
     struct not_equal_to : public binary_function<_Tp, _Tp, bool>
     {
-     
       bool
       operator()(const _Tp& __x, const _Tp& __y) const
       { return __x != __y; }
@@ -5612,7 +6943,6 @@ namespace std
   template<typename _Tp>
     struct greater : public binary_function<_Tp, _Tp, bool>
     {
-     
       bool
       operator()(const _Tp& __x, const _Tp& __y) const
       { return __x > __y; }
@@ -5622,7 +6952,6 @@ namespace std
   template<typename _Tp>
     struct less : public binary_function<_Tp, _Tp, bool>
     {
-     
       bool
       operator()(const _Tp& __x, const _Tp& __y) const
       { return __x < __y; }
@@ -5632,7 +6961,6 @@ namespace std
   template<typename _Tp>
     struct greater_equal : public binary_function<_Tp, _Tp, bool>
     {
-     
       bool
       operator()(const _Tp& __x, const _Tp& __y) const
       { return __x >= __y; }
@@ -5642,16 +6970,14 @@ namespace std
   template<typename _Tp>
     struct less_equal : public binary_function<_Tp, _Tp, bool>
     {
-     
       bool
       operator()(const _Tp& __x, const _Tp& __y) const
       { return __x <= __y; }
     };
-# 524 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\stl_function.h" 3
+# 267 "/usr/include/c++/4.8/bits/stl_function.h" 3
   template<typename _Tp>
     struct logical_and : public binary_function<_Tp, _Tp, bool>
     {
-     
       bool
       operator()(const _Tp& __x, const _Tp& __y) const
       { return __x && __y; }
@@ -5661,7 +6987,6 @@ namespace std
   template<typename _Tp>
     struct logical_or : public binary_function<_Tp, _Tp, bool>
     {
-     
       bool
       operator()(const _Tp& __x, const _Tp& __y) const
       { return __x || __y; }
@@ -5671,16 +6996,17 @@ namespace std
   template<typename _Tp>
     struct logical_not : public unary_function<_Tp, bool>
     {
-     
       bool
       operator()(const _Tp& __x) const
       { return !__x; }
     };
-# 617 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\stl_function.h" 3
+
+
+
+
   template<typename _Tp>
     struct bit_and : public binary_function<_Tp, _Tp, _Tp>
     {
-     
       _Tp
       operator()(const _Tp& __x, const _Tp& __y) const
       { return __x & __y; }
@@ -5689,7 +7015,6 @@ namespace std
   template<typename _Tp>
     struct bit_or : public binary_function<_Tp, _Tp, _Tp>
     {
-     
       _Tp
       operator()(const _Tp& __x, const _Tp& __y) const
       { return __x | __y; }
@@ -5698,21 +7023,11 @@ namespace std
   template<typename _Tp>
     struct bit_xor : public binary_function<_Tp, _Tp, _Tp>
     {
-     
       _Tp
       operator()(const _Tp& __x, const _Tp& __y) const
       { return __x ^ __y; }
     };
-
-  template<typename _Tp>
-    struct bit_not : public unary_function<_Tp, _Tp>
-    {
-   
-      _Tp
-      operator()(const _Tp& __x) const
-      { return ~__x; }
-    };
-# 741 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\stl_function.h" 3
+# 350 "/usr/include/c++/4.8/bits/stl_function.h" 3
   template<typename _Predicate>
     class unary_negate
     : public unary_function<typename _Predicate::argument_type, bool>
@@ -5721,11 +7036,9 @@ namespace std
       _Predicate _M_pred;
 
     public:
-     
       explicit
       unary_negate(const _Predicate& __x) : _M_pred(__x) { }
 
-     
       bool
       operator()(const typename _Predicate::argument_type& __x) const
       { return !_M_pred(__x); }
@@ -5733,7 +7046,6 @@ namespace std
 
 
   template<typename _Predicate>
-   
     inline unary_negate<_Predicate>
     not1(const _Predicate& __pred)
     { return unary_negate<_Predicate>(__pred); }
@@ -5748,11 +7060,9 @@ namespace std
       _Predicate _M_pred;
 
     public:
-     
       explicit
       binary_negate(const _Predicate& __x) : _M_pred(__x) { }
 
-     
       bool
       operator()(const typename _Predicate::first_argument_type& __x,
    const typename _Predicate::second_argument_type& __y) const
@@ -5761,11 +7071,10 @@ namespace std
 
 
   template<typename _Predicate>
-   
     inline binary_negate<_Predicate>
     not2(const _Predicate& __pred)
     { return binary_negate<_Predicate>(__pred); }
-# 818 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\stl_function.h" 3
+# 421 "/usr/include/c++/4.8/bits/stl_function.h" 3
   template<typename _Arg, typename _Result>
     class pointer_to_unary_function : public unary_function<_Arg, _Result>
     {
@@ -5841,7 +7150,7 @@ namespace std
       const typename _Pair::first_type&
       operator()(const _Pair& __x) const
       { return __x.first; }
-# 905 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\stl_function.h" 3
+# 508 "/usr/include/c++/4.8/bits/stl_function.h" 3
     };
 
   template<typename _Pair>
@@ -5856,7 +7165,7 @@ namespace std
       operator()(const _Pair& __x) const
       { return __x.second; }
     };
-# 938 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\stl_function.h" 3
+# 541 "/usr/include/c++/4.8/bits/stl_function.h" 3
   template<typename _Ret, typename _Tp>
     class mem_fun_t : public unary_function<_Tp*, _Ret>
     {
@@ -6047,15 +7356,12 @@ namespace std
 }
 
 
-# 1 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\backward\\binders.h" 1 3
-# 60 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\backward\\binders.h" 3
-#pragma GCC diagnostic push
-#pragma GCC diagnostic ignored "-Wdeprecated-declarations"
-
-namespace std
+# 1 "/usr/include/c++/4.8/backward/binders.h" 1 3
+# 59 "/usr/include/c++/4.8/backward/binders.h" 3
+namespace std __attribute__ ((__visibility__ ("default")))
 {
 
-# 107 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\backward\\binders.h" 3
+# 103 "/usr/include/c++/4.8/backward/binders.h" 3
   template<typename _Operation>
     class binder1st
     : public unary_function<typename _Operation::second_argument_type,
@@ -6128,275 +7434,218 @@ namespace std
 
 
 }
-
-#pragma GCC diagnostic pop
-# 1129 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\stl_function.h" 2 3
-# 49 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\string" 2 3
+# 732 "/usr/include/c++/4.8/bits/stl_function.h" 2 3
+# 49 "/usr/include/c++/4.8/string" 2 3
 
 
-# 1 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\range_access.h" 1 3
-# 33 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\range_access.h" 3
+# 1 "/usr/include/c++/4.8/bits/range_access.h" 1 3
+# 33 "/usr/include/c++/4.8/bits/range_access.h" 3
        
-# 34 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\range_access.h" 3
-# 52 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\string" 2 3
-# 1 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\basic_string.h" 1 3
-# 37 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\basic_string.h" 3
+# 34 "/usr/include/c++/4.8/bits/range_access.h" 3
+# 52 "/usr/include/c++/4.8/string" 2 3
+# 1 "/usr/include/c++/4.8/bits/basic_string.h" 1 3
+# 37 "/usr/include/c++/4.8/bits/basic_string.h" 3
        
-# 38 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\basic_string.h" 3
+# 38 "/usr/include/c++/4.8/bits/basic_string.h" 3
 
 
-# 1 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\ext\\alloc_traits.h" 1 3
-# 32 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\ext\\alloc_traits.h" 3
-       
-# 33 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\ext\\alloc_traits.h" 3
-# 41 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\ext\\alloc_traits.h" 3
-namespace __gnu_cxx
+
+
+
+
+
+namespace std __attribute__ ((__visibility__ ("default")))
 {
 
-# 94 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\ext\\alloc_traits.h" 3
-template<typename _Alloc>
-  struct __alloc_traits
-
-
-
-  {
-    typedef _Alloc allocator_type;
-# 172 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\ext\\alloc_traits.h" 3
-    typedef typename _Alloc::pointer pointer;
-    typedef typename _Alloc::const_pointer const_pointer;
-    typedef typename _Alloc::value_type value_type;
-    typedef typename _Alloc::reference reference;
-    typedef typename _Alloc::const_reference const_reference;
-    typedef typename _Alloc::size_type size_type;
-    typedef typename _Alloc::difference_type difference_type;
-
-    static pointer
-    allocate(_Alloc& __a, size_type __n)
-    { return __a.allocate(__n); }
-
-    static void deallocate(_Alloc& __a, pointer __p, size_type __n)
-    { __a.deallocate(__p, __n); }
-
-    template<typename _Tp>
-      static void construct(_Alloc& __a, pointer __p, const _Tp& __arg)
-      { __a.construct(__p, __arg); }
-
-    static void destroy(_Alloc& __a, pointer __p)
-    { __a.destroy(__p); }
-
-    static size_type max_size(const _Alloc& __a)
-    { return __a.max_size(); }
-
-    static const _Alloc& _S_select_on_copy(const _Alloc& __a) { return __a; }
-
-    static void _S_on_swap(_Alloc& __a, _Alloc& __b)
-    {
-
-
-      std::__alloc_swap<_Alloc>::_S_do_it(__a, __b);
-    }
-
-    template<typename _Tp>
-      struct rebind
-      { typedef typename _Alloc::template rebind<_Tp>::other other; };
-
-  };
-
-
-}
-# 41 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\basic_string.h" 2 3
-
-
-
-
-
-namespace std
-{
-
-
-
-namespace __cxx11 {
-# 70 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\basic_string.h" 3
+# 111 "/usr/include/c++/4.8/bits/basic_string.h" 3
   template<typename _CharT, typename _Traits, typename _Alloc>
     class basic_string
     {
-      typedef typename __gnu_cxx::__alloc_traits<_Alloc>::template
- rebind<_CharT>::other _Char_alloc_type;
-      typedef __gnu_cxx::__alloc_traits<_Char_alloc_type> _Alloc_traits;
+      typedef typename _Alloc::template rebind<_CharT>::other _CharT_alloc_type;
 
 
     public:
       typedef _Traits traits_type;
       typedef typename _Traits::char_type value_type;
-      typedef _Char_alloc_type allocator_type;
-      typedef typename _Alloc_traits::size_type size_type;
-      typedef typename _Alloc_traits::difference_type difference_type;
-      typedef typename _Alloc_traits::reference reference;
-      typedef typename _Alloc_traits::const_reference const_reference;
-      typedef typename _Alloc_traits::pointer pointer;
-      typedef typename _Alloc_traits::const_pointer const_pointer;
+      typedef _Alloc allocator_type;
+      typedef typename _CharT_alloc_type::size_type size_type;
+      typedef typename _CharT_alloc_type::difference_type difference_type;
+      typedef typename _CharT_alloc_type::reference reference;
+      typedef typename _CharT_alloc_type::const_reference const_reference;
+      typedef typename _CharT_alloc_type::pointer pointer;
+      typedef typename _CharT_alloc_type::const_pointer const_pointer;
       typedef __gnu_cxx::__normal_iterator<pointer, basic_string> iterator;
       typedef __gnu_cxx::__normal_iterator<const_pointer, basic_string>
-       const_iterator;
+                                                            const_iterator;
       typedef std::reverse_iterator<const_iterator> const_reverse_iterator;
       typedef std::reverse_iterator<iterator> reverse_iterator;
+
+    private:
+# 148 "/usr/include/c++/4.8/bits/basic_string.h" 3
+      struct _Rep_base
+      {
+ size_type _M_length;
+ size_type _M_capacity;
+ _Atomic_word _M_refcount;
+      };
+
+      struct _Rep : _Rep_base
+      {
+
+ typedef typename _Alloc::template rebind<char>::other _Raw_bytes_alloc;
+# 173 "/usr/include/c++/4.8/bits/basic_string.h" 3
+ static const size_type _S_max_size;
+ static const _CharT _S_terminal;
+
+
+
+        static size_type _S_empty_rep_storage[];
+
+        static _Rep&
+        _S_empty_rep()
+        {
+
+
+
+   void* __p = reinterpret_cast<void*>(&_S_empty_rep_storage);
+   return *reinterpret_cast<_Rep*>(__p);
+ }
+
+        bool
+ _M_is_leaked() const
+        { return this->_M_refcount < 0; }
+
+        bool
+ _M_is_shared() const
+        { return this->_M_refcount > 0; }
+
+        void
+ _M_set_leaked()
+        { this->_M_refcount = -1; }
+
+        void
+ _M_set_sharable()
+        { this->_M_refcount = 0; }
+
+ void
+ _M_set_length_and_sharable(size_type __n)
+ {
+
+   if (__builtin_expect(this != &_S_empty_rep(), false))
+
+     {
+       this->_M_set_sharable();
+       this->_M_length = __n;
+       traits_type::assign(this->_M_refdata()[__n], _S_terminal);
+
+
+     }
+ }
+
+ _CharT*
+ _M_refdata() throw()
+ { return reinterpret_cast<_CharT*>(this + 1); }
+
+ _CharT*
+ _M_grab(const _Alloc& __alloc1, const _Alloc& __alloc2)
+ {
+   return (!_M_is_leaked() && __alloc1 == __alloc2)
+           ? _M_refcopy() : _M_clone(__alloc1);
+ }
+
+
+ static _Rep*
+ _S_create(size_type, size_type, const _Alloc&);
+
+ void
+ _M_dispose(const _Alloc& __a)
+ {
+
+   if (__builtin_expect(this != &_S_empty_rep(), false))
+
+     {
+
+       ;
+       if (__gnu_cxx::__exchange_and_add_dispatch(&this->_M_refcount,
+        -1) <= 0)
+  {
+    ;
+    _M_destroy(__a);
+  }
+     }
+ }
+
+ void
+ _M_destroy(const _Alloc&) throw();
+
+ _CharT*
+ _M_refcopy() throw()
+ {
+
+   if (__builtin_expect(this != &_S_empty_rep(), false))
+
+            __gnu_cxx::__atomic_add_dispatch(&this->_M_refcount, 1);
+   return _M_refdata();
+ }
+
+ _CharT*
+ _M_clone(const _Alloc&, size_type __res = 0);
+      };
+
+
+      struct _Alloc_hider : _Alloc
+      {
+ _Alloc_hider(_CharT* __dat, const _Alloc& __a)
+ : _Alloc(__a), _M_p(__dat) { }
+
+ _CharT* _M_p;
+      };
+
+    public:
+
+
 
 
       static const size_type npos = static_cast<size_type>(-1);
 
     private:
 
+      mutable _Alloc_hider _M_dataplus;
 
-      typedef iterator __const_iterator;
-
-
-
-
-
-      struct _Alloc_hider : allocator_type
-      {
- _Alloc_hider(pointer __dat, const _Alloc& __a = _Alloc())
- : allocator_type(__a), _M_p(__dat) { }
-
- pointer _M_p;
-      };
-
-      _Alloc_hider _M_dataplus;
-      size_type _M_string_length;
-
-      enum { _S_local_capacity = 15 / sizeof(_CharT) };
-
-      union
-      {
- _CharT _M_local_buf[_S_local_capacity + 1];
- size_type _M_allocated_capacity;
-      };
-
-      void
-      _M_data(pointer __p)
-      { _M_dataplus._M_p = __p; }
-
-      void
-      _M_length(size_type __length)
-      { _M_string_length = __length; }
-
-      pointer
+      _CharT*
       _M_data() const
       { return _M_dataplus._M_p; }
 
-      pointer
-      _M_local_data()
+      _CharT*
+      _M_data(_CharT* __p)
+      { return (_M_dataplus._M_p = __p); }
+
+      _Rep*
+      _M_rep() const
+      { return &((reinterpret_cast<_Rep*> (_M_data()))[-1]); }
+
+
+
+      iterator
+      _M_ibegin() const
+      { return iterator(_M_data()); }
+
+      iterator
+      _M_iend() const
+      { return iterator(_M_data() + this->size()); }
+
+      void
+      _M_leak()
       {
-
-
-
- return pointer(_M_local_buf);
-
+ if (!_M_rep()->_M_is_leaked())
+   _M_leak_hard();
       }
 
-      const_pointer
-      _M_local_data() const
-      {
-
-
-
- return const_pointer(_M_local_buf);
-
-      }
-
-      void
-      _M_capacity(size_type __capacity)
-      { _M_allocated_capacity = __capacity; }
-
-      void
-      _M_set_length(size_type __n)
-      {
- _M_length(__n);
- traits_type::assign(_M_data()[__n], _CharT());
-      }
-
-      bool
-      _M_is_local() const
-      { return _M_data() == _M_local_data(); }
-
-
-      pointer
-      _M_create(size_type&, size_type);
-
-      void
-      _M_dispose()
-      {
- if (!_M_is_local())
-   _M_destroy(_M_allocated_capacity);
-      }
-
-      void
-      _M_destroy(size_type __size) throw()
-      { _Alloc_traits::deallocate(_M_get_allocator(), _M_data(), __size + 1); }
-
-
-
-      template<typename _InIterator>
-        void
-        _M_construct_aux(_InIterator __beg, _InIterator __end,
-    std::__false_type)
- {
-          typedef typename iterator_traits<_InIterator>::iterator_category _Tag;
-          _M_construct(__beg, __end, _Tag());
- }
-
-
-
-      template<typename _Integer>
-        void
-        _M_construct_aux(_Integer __beg, _Integer __end, std::__true_type)
- { _M_construct_aux_2(static_cast<size_type>(__beg), __end); }
-
-      void
-      _M_construct_aux_2(size_type __req, _CharT __c)
-      { _M_construct(__req, __c); }
-
-      template<typename _InIterator>
-        void
-        _M_construct(_InIterator __beg, _InIterator __end)
- {
-   typedef typename std::__is_integer<_InIterator>::__type _Integral;
-   _M_construct_aux(__beg, __end, _Integral());
-        }
-
-
-      template<typename _InIterator>
-        void
-        _M_construct(_InIterator __beg, _InIterator __end,
-       std::input_iterator_tag);
-
-
-
-      template<typename _FwdIterator>
-        void
-        _M_construct(_FwdIterator __beg, _FwdIterator __end,
-       std::forward_iterator_tag);
-
-      void
-      _M_construct(size_type __req, _CharT __c);
-
-      allocator_type&
-      _M_get_allocator()
-      { return _M_dataplus; }
-
-      const allocator_type&
-      _M_get_allocator() const
-      { return _M_dataplus; }
-
-    private:
-# 257 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\basic_string.h" 3
       size_type
       _M_check(size_type __pos, const char* __s) const
       {
  if (__pos > this->size())
-   __throw_out_of_range_fmt(("%s: __pos (which is %zu) > " "this->size() (which is %zu)")
-                                         ,
-       __s, __pos, this->size());
+   __throw_out_of_range((__s));
  return __pos;
       }
 
@@ -6406,7 +7655,6 @@ namespace __cxx11 {
  if (this->max_size() - (this->size() - __n1) < __n2)
    __throw_length_error((__s));
       }
-
 
 
       size_type
@@ -6427,7 +7675,7 @@ namespace __cxx11 {
 
 
       static void
-      _S_copy(_CharT* __d, const _CharT* __s, size_type __n)
+      _M_copy(_CharT* __d, const _CharT* __s, size_type __n)
       {
  if (__n == 1)
    traits_type::assign(*__d, *__s);
@@ -6436,7 +7684,7 @@ namespace __cxx11 {
       }
 
       static void
-      _S_move(_CharT* __d, const _CharT* __s, size_type __n)
+      _M_move(_CharT* __d, const _CharT* __s, size_type __n)
       {
  if (__n == 1)
    traits_type::assign(*__d, *__s);
@@ -6445,7 +7693,7 @@ namespace __cxx11 {
       }
 
       static void
-      _S_assign(_CharT* __d, size_type __n, _CharT __c)
+      _M_assign(_CharT* __d, size_type __n, _CharT __c)
       {
  if (__n == 1)
    traits_type::assign(*__d, __c);
@@ -6458,7 +7706,6 @@ namespace __cxx11 {
       template<class _Iterator>
         static void
         _S_copy_chars(_CharT* __p, _Iterator __k1, _Iterator __k2)
-
         {
    for (; __k1 != __k2; ++__k1, ++__p)
      traits_type::assign(*__p, *__k1);
@@ -6470,17 +7717,15 @@ namespace __cxx11 {
 
       static void
       _S_copy_chars(_CharT* __p, const_iterator __k1, const_iterator __k2)
-     
       { _S_copy_chars(__p, __k1.base(), __k2.base()); }
 
       static void
       _S_copy_chars(_CharT* __p, _CharT* __k1, _CharT* __k2)
-      { _S_copy(__p, __k1, __k2 - __k1); }
+      { _M_copy(__p, __k1, __k2 - __k1); }
 
       static void
       _S_copy_chars(_CharT* __p, const _CharT* __k1, const _CharT* __k2)
-     
-      { _S_copy(__p, __k1, __k2 - __k1); }
+      { _M_copy(__p, __k1, __k2 - __k1); }
 
       static int
       _S_compare(size_type __n1, size_type __n2)
@@ -6496,14 +7741,14 @@ namespace __cxx11 {
       }
 
       void
-      _M_assign(const basic_string& __rcs);
+      _M_mutate(size_type __pos, size_type __len1, size_type __len2);
 
       void
-      _M_mutate(size_type __pos, size_type __len1, const _CharT* __s,
-  size_type __len2);
+      _M_leak_hard();
 
-      void
-      _M_erase(size_type __pos, size_type __n);
+      static _Rep&
+      _S_empty_rep()
+      { return _Rep::_S_empty_rep(); }
 
     public:
 
@@ -6515,81 +7760,66 @@ namespace __cxx11 {
 
       basic_string()
 
+      : _M_dataplus(_S_empty_rep()._M_refdata(), _Alloc()) { }
 
 
-      : _M_dataplus(_M_local_data())
-      { _M_set_length(0); }
+
 
 
 
 
       explicit
-      basic_string(const _Alloc& __a)
-      : _M_dataplus(_M_local_data(), __a)
-      { _M_set_length(0); }
+      basic_string(const _Alloc& __a);
 
 
 
 
 
-      basic_string(const basic_string& __str)
-      : _M_dataplus(_M_local_data(), __str._M_get_allocator())
-      { _M_construct(__str._M_data(), __str._M_data() + __str.length()); }
-# 411 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\basic_string.h" 3
+
+      basic_string(const basic_string& __str);
+
+
+
+
+
+
       basic_string(const basic_string& __str, size_type __pos,
-     size_type __n = npos)
-      : _M_dataplus(_M_local_data())
-      {
- const _CharT* __start = __str._M_data()
-   + __str._M_check(__pos, "basic_string::basic_string");
- _M_construct(__start, __start + __str._M_limit(__pos, __n));
-      }
-# 427 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\basic_string.h" 3
+     size_type __n = npos);
+
+
+
+
+
+
+
       basic_string(const basic_string& __str, size_type __pos,
-     size_type __n, const _Alloc& __a)
-      : _M_dataplus(_M_local_data(), __a)
-      {
- const _CharT* __start
-   = __str._M_data() + __str._M_check(__pos, "string::string");
- _M_construct(__start, __start + __str._M_limit(__pos, __n));
-      }
-# 445 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\basic_string.h" 3
+     size_type __n, const _Alloc& __a);
+# 483 "/usr/include/c++/4.8/bits/basic_string.h" 3
       basic_string(const _CharT* __s, size_type __n,
-     const _Alloc& __a = _Alloc())
-      : _M_dataplus(_M_local_data(), __a)
-      { _M_construct(__s, __s + __n); }
+     const _Alloc& __a = _Alloc());
+
+
+
+
+
+      basic_string(const _CharT* __s, const _Alloc& __a = _Alloc());
 
 
 
 
 
 
-      basic_string(const _CharT* __s, const _Alloc& __a = _Alloc())
-      : _M_dataplus(_M_local_data(), __a)
-      { _M_construct(__s, __s ? __s + traits_type::length(__s) : __s+npos); }
-
-
-
-
-
-
-
-      basic_string(size_type __n, _CharT __c, const _Alloc& __a = _Alloc())
-      : _M_dataplus(_M_local_data(), __a)
-      { _M_construct(__n, __c); }
-# 533 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\basic_string.h" 3
-      template<typename _InputIterator>
-
+      basic_string(size_type __n, _CharT __c, const _Alloc& __a = _Alloc());
+# 531 "/usr/include/c++/4.8/bits/basic_string.h" 3
+      template<class _InputIterator>
         basic_string(_InputIterator __beg, _InputIterator __end,
-       const _Alloc& __a = _Alloc())
- : _M_dataplus(_M_local_data(), __a)
- { _M_construct(__beg, __end); }
+       const _Alloc& __a = _Alloc());
 
 
 
 
       ~basic_string()
-      { _M_dispose(); }
+      { _M_rep()->_M_dispose(this->get_allocator()); }
 
 
 
@@ -6606,17 +7836,20 @@ namespace __cxx11 {
       basic_string&
       operator=(const _CharT* __s)
       { return this->assign(__s); }
-# 569 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\basic_string.h" 3
+# 564 "/usr/include/c++/4.8/bits/basic_string.h" 3
       basic_string&
       operator=(_CharT __c)
       {
  this->assign(1, __c);
  return *this;
       }
-# 611 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\basic_string.h" 3
+# 604 "/usr/include/c++/4.8/bits/basic_string.h" 3
       iterator
       begin()
-      { return iterator(_M_data()); }
+      {
+ _M_leak();
+ return iterator(_M_data());
+      }
 
 
 
@@ -6632,7 +7865,10 @@ namespace __cxx11 {
 
       iterator
       end()
-      { return iterator(_M_data() + this->size()); }
+      {
+ _M_leak();
+ return iterator(_M_data() + this->size());
+      }
 
 
 
@@ -6677,40 +7913,37 @@ namespace __cxx11 {
       const_reverse_iterator
       rend() const
       { return const_reverse_iterator(this->begin()); }
-# 711 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\basic_string.h" 3
+# 710 "/usr/include/c++/4.8/bits/basic_string.h" 3
     public:
 
 
 
       size_type
       size() const
-      { return _M_string_length; }
+      { return _M_rep()->_M_length; }
 
 
 
       size_type
       length() const
-      { return _M_string_length; }
+      { return _M_rep()->_M_length; }
 
 
       size_type
       max_size() const
-      { return (_Alloc_traits::max_size(_M_get_allocator()) - 1) / 2; }
-# 740 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\basic_string.h" 3
+      { return _Rep::_S_max_size; }
+# 739 "/usr/include/c++/4.8/bits/basic_string.h" 3
       void
       resize(size_type __n, _CharT __c);
-# 753 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\basic_string.h" 3
+# 752 "/usr/include/c++/4.8/bits/basic_string.h" 3
       void
       resize(size_type __n)
       { this->resize(__n, _CharT()); }
-# 778 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\basic_string.h" 3
+# 775 "/usr/include/c++/4.8/bits/basic_string.h" 3
       size_type
       capacity() const
-      {
- return _M_is_local() ? size_type(_S_local_capacity)
-                      : _M_allocated_capacity;
-      }
-# 802 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\basic_string.h" 3
+      { return _M_rep()->_M_capacity; }
+# 796 "/usr/include/c++/4.8/bits/basic_string.h" 3
       void
       reserve(size_type __res_arg = 0);
 
@@ -6719,7 +7952,7 @@ namespace __cxx11 {
 
       void
       clear()
-      { _M_set_length(0); }
+      { _M_mutate(0, this->size(), 0); }
 
 
 
@@ -6728,47 +7961,42 @@ namespace __cxx11 {
       bool
       empty() const
       { return this->size() == 0; }
-# 831 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\basic_string.h" 3
+# 825 "/usr/include/c++/4.8/bits/basic_string.h" 3
       const_reference
       operator[] (size_type __pos) const
       {
  ;
  return _M_data()[__pos];
       }
-# 848 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\basic_string.h" 3
+# 842 "/usr/include/c++/4.8/bits/basic_string.h" 3
       reference
       operator[](size_type __pos)
       {
 
-
  ;
 
  ;
+ _M_leak();
  return _M_data()[__pos];
       }
-# 869 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\basic_string.h" 3
+# 863 "/usr/include/c++/4.8/bits/basic_string.h" 3
       const_reference
       at(size_type __n) const
       {
  if (__n >= this->size())
-   __throw_out_of_range_fmt(("basic_string::at: __n " "(which is %zu) >= this->size() " "(which is %zu)")
-
-                            ,
-       __n, this->size());
+   __throw_out_of_range(("basic_string::at"));
  return _M_data()[__n];
       }
-# 890 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\basic_string.h" 3
+# 882 "/usr/include/c++/4.8/bits/basic_string.h" 3
       reference
       at(size_type __n)
       {
  if (__n >= size())
-   __throw_out_of_range_fmt(("basic_string::at: __n " "(which is %zu) >= this->size() " "(which is %zu)")
-
-                            ,
-       __n, this->size());
+   __throw_out_of_range(("basic_string::at"));
+ _M_leak();
  return _M_data()[__n];
       }
-# 941 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\basic_string.h" 3
+# 931 "/usr/include/c++/4.8/bits/basic_string.h" 3
       basic_string&
       operator+=(const basic_string& __str)
       { return this->append(__str); }
@@ -6793,16 +8021,12 @@ namespace __cxx11 {
  this->push_back(__c);
  return *this;
       }
-# 982 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\basic_string.h" 3
+# 972 "/usr/include/c++/4.8/bits/basic_string.h" 3
       basic_string&
-      append(const basic_string& __str)
-      { return _M_append(__str._M_data(), __str.size()); }
-# 999 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\basic_string.h" 3
+      append(const basic_string& __str);
+# 988 "/usr/include/c++/4.8/bits/basic_string.h" 3
       basic_string&
-      append(const basic_string& __str, size_type __pos, size_type __n)
-      { return _M_append(__str._M_data()
-    + __str._M_check(__pos, "basic_string::append"),
-    __str._M_limit(__pos, __n)); }
+      append(const basic_string& __str, size_type __pos, size_type __n);
 
 
 
@@ -6811,12 +8035,7 @@ namespace __cxx11 {
 
 
       basic_string&
-      append(const _CharT* __s, size_type __n)
-      {
- ;
- _M_check_length(size_type(0), __n, "basic_string::append");
- return _M_append(__s, __n);
-      }
+      append(const _CharT* __s, size_type __n);
 
 
 
@@ -6827,20 +8046,16 @@ namespace __cxx11 {
       append(const _CharT* __s)
       {
  ;
- const size_type __n = traits_type::length(__s);
- _M_check_length(size_type(0), __n, "basic_string::append");
- return _M_append(__s, __n);
+ return this->append(__s, traits_type::length(__s));
       }
-# 1041 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\basic_string.h" 3
+# 1020 "/usr/include/c++/4.8/bits/basic_string.h" 3
       basic_string&
-      append(size_type __n, _CharT __c)
-      { return _M_replace_aux(this->size(), size_type(0), __n, __c); }
-# 1068 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\basic_string.h" 3
+      append(size_type __n, _CharT __c);
+# 1042 "/usr/include/c++/4.8/bits/basic_string.h" 3
       template<class _InputIterator>
-
         basic_string&
         append(_InputIterator __first, _InputIterator __last)
-        { return this->replace(end(), end(), __first, __last); }
+        { return this->replace(_M_iend(), _M_iend(), __first, __last); }
 
 
 
@@ -6849,11 +8064,11 @@ namespace __cxx11 {
       void
       push_back(_CharT __c)
       {
- const size_type __size = this->size();
- if (__size + 1 > this->capacity())
-   this->_M_mutate(__size, size_type(0), 0, size_type(1));
- traits_type::assign(this->_M_data()[__size], __c);
- this->_M_set_length(__size + 1);
+ const size_type __len = 1 + this->size();
+ if (__len > this->capacity() || _M_rep()->_M_is_shared())
+   this->reserve(__len);
+ traits_type::assign(_M_data()[this->size()], __c);
+ _M_rep()->_M_set_length_and_sharable(__len);
       }
 
 
@@ -6862,191 +8077,161 @@ namespace __cxx11 {
 
 
       basic_string&
-      assign(const basic_string& __str)
-      {
- this->_M_assign(__str);
- return *this;
-      }
-# 1131 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\basic_string.h" 3
+      assign(const basic_string& __str);
+# 1099 "/usr/include/c++/4.8/bits/basic_string.h" 3
       basic_string&
       assign(const basic_string& __str, size_type __pos, size_type __n)
-      { return _M_replace(size_type(0), this->size(), __str._M_data()
-     + __str._M_check(__pos, "basic_string::assign"),
-     __str._M_limit(__pos, __n)); }
-# 1147 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\basic_string.h" 3
+      { return this->assign(__str._M_data()
+       + __str._M_check(__pos, "basic_string::assign"),
+       __str._M_limit(__pos, __n)); }
+# 1115 "/usr/include/c++/4.8/bits/basic_string.h" 3
       basic_string&
-      assign(const _CharT* __s, size_type __n)
-      {
- ;
- return _M_replace(size_type(0), this->size(), __s, __n);
-      }
-# 1163 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\basic_string.h" 3
+      assign(const _CharT* __s, size_type __n);
+# 1127 "/usr/include/c++/4.8/bits/basic_string.h" 3
       basic_string&
       assign(const _CharT* __s)
       {
  ;
- return _M_replace(size_type(0), this->size(), __s,
-     traits_type::length(__s));
+ return this->assign(__s, traits_type::length(__s));
       }
-# 1180 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\basic_string.h" 3
+# 1143 "/usr/include/c++/4.8/bits/basic_string.h" 3
       basic_string&
       assign(size_type __n, _CharT __c)
       { return _M_replace_aux(size_type(0), this->size(), __n, __c); }
-# 1196 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\basic_string.h" 3
+# 1155 "/usr/include/c++/4.8/bits/basic_string.h" 3
       template<class _InputIterator>
-
         basic_string&
         assign(_InputIterator __first, _InputIterator __last)
-        { return this->replace(begin(), end(), __first, __last); }
-# 1251 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\basic_string.h" 3
+        { return this->replace(_M_ibegin(), _M_iend(), __first, __last); }
+# 1184 "/usr/include/c++/4.8/bits/basic_string.h" 3
       void
       insert(iterator __p, size_type __n, _CharT __c)
       { this->replace(__p, __p, __n, __c); }
-# 1294 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\basic_string.h" 3
+# 1200 "/usr/include/c++/4.8/bits/basic_string.h" 3
       template<class _InputIterator>
         void
         insert(iterator __p, _InputIterator __beg, _InputIterator __end)
         { this->replace(__p, __p, __beg, __end); }
-# 1327 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\basic_string.h" 3
+# 1232 "/usr/include/c++/4.8/bits/basic_string.h" 3
       basic_string&
       insert(size_type __pos1, const basic_string& __str)
-      { return this->replace(__pos1, size_type(0),
-        __str._M_data(), __str.size()); }
-# 1350 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\basic_string.h" 3
+      { return this->insert(__pos1, __str, size_type(0), __str.size()); }
+# 1254 "/usr/include/c++/4.8/bits/basic_string.h" 3
       basic_string&
       insert(size_type __pos1, const basic_string& __str,
       size_type __pos2, size_type __n)
-      { return this->replace(__pos1, size_type(0), __str._M_data()
-        + __str._M_check(__pos2, "basic_string::insert"),
-        __str._M_limit(__pos2, __n)); }
-# 1373 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\basic_string.h" 3
+      { return this->insert(__pos1, __str._M_data()
+       + __str._M_check(__pos2, "basic_string::insert"),
+       __str._M_limit(__pos2, __n)); }
+# 1277 "/usr/include/c++/4.8/bits/basic_string.h" 3
       basic_string&
-      insert(size_type __pos, const _CharT* __s, size_type __n)
-      { return this->replace(__pos, size_type(0), __s, __n); }
-# 1392 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\basic_string.h" 3
+      insert(size_type __pos, const _CharT* __s, size_type __n);
+# 1295 "/usr/include/c++/4.8/bits/basic_string.h" 3
       basic_string&
       insert(size_type __pos, const _CharT* __s)
       {
  ;
- return this->replace(__pos, size_type(0), __s,
-        traits_type::length(__s));
+ return this->insert(__pos, __s, traits_type::length(__s));
       }
-# 1416 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\basic_string.h" 3
+# 1318 "/usr/include/c++/4.8/bits/basic_string.h" 3
       basic_string&
       insert(size_type __pos, size_type __n, _CharT __c)
       { return _M_replace_aux(_M_check(__pos, "basic_string::insert"),
          size_type(0), __n, __c); }
-# 1434 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\basic_string.h" 3
+# 1336 "/usr/include/c++/4.8/bits/basic_string.h" 3
       iterator
-      insert(__const_iterator __p, _CharT __c)
+      insert(iterator __p, _CharT __c)
       {
  ;
- const size_type __pos = __p - begin();
+ const size_type __pos = __p - _M_ibegin();
  _M_replace_aux(__pos, size_type(0), size_type(1), __c);
+ _M_rep()->_M_set_leaked();
  return iterator(_M_data() + __pos);
       }
-# 1458 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\basic_string.h" 3
+# 1361 "/usr/include/c++/4.8/bits/basic_string.h" 3
       basic_string&
       erase(size_type __pos = 0, size_type __n = npos)
       {
- this->_M_erase(_M_check(__pos, "basic_string::erase"),
-         _M_limit(__pos, __n));
+ _M_mutate(_M_check(__pos, "basic_string::erase"),
+    _M_limit(__pos, __n), size_type(0));
  return *this;
       }
-# 1474 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\basic_string.h" 3
+# 1377 "/usr/include/c++/4.8/bits/basic_string.h" 3
       iterator
-      erase(__const_iterator __position)
+      erase(iterator __position)
       {
 
-                           ;
- const size_type __pos = __position - begin();
- this->_M_erase(__pos, size_type(1));
+                               ;
+ const size_type __pos = __position - _M_ibegin();
+ _M_mutate(__pos, size_type(1), size_type(0));
+ _M_rep()->_M_set_leaked();
  return iterator(_M_data() + __pos);
       }
-# 1493 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\basic_string.h" 3
+# 1397 "/usr/include/c++/4.8/bits/basic_string.h" 3
       iterator
-      erase(__const_iterator __first, __const_iterator __last)
-      {
-
-                        ;
-        const size_type __pos = __first - begin();
- this->_M_erase(__pos, __last - __first);
- return iterator(this->_M_data() + __pos);
-      }
-# 1531 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\basic_string.h" 3
+      erase(iterator __first, iterator __last);
+# 1428 "/usr/include/c++/4.8/bits/basic_string.h" 3
       basic_string&
       replace(size_type __pos, size_type __n, const basic_string& __str)
       { return this->replace(__pos, __n, __str._M_data(), __str.size()); }
-# 1553 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\basic_string.h" 3
+# 1450 "/usr/include/c++/4.8/bits/basic_string.h" 3
       basic_string&
       replace(size_type __pos1, size_type __n1, const basic_string& __str,
        size_type __pos2, size_type __n2)
       { return this->replace(__pos1, __n1, __str._M_data()
         + __str._M_check(__pos2, "basic_string::replace"),
         __str._M_limit(__pos2, __n2)); }
-# 1578 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\basic_string.h" 3
+# 1475 "/usr/include/c++/4.8/bits/basic_string.h" 3
       basic_string&
       replace(size_type __pos, size_type __n1, const _CharT* __s,
-       size_type __n2)
-      {
- ;
- return _M_replace(_M_check(__pos, "basic_string::replace"),
-     _M_limit(__pos, __n1), __s, __n2);
-      }
-# 1603 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\basic_string.h" 3
+       size_type __n2);
+# 1495 "/usr/include/c++/4.8/bits/basic_string.h" 3
       basic_string&
       replace(size_type __pos, size_type __n1, const _CharT* __s)
       {
  ;
  return this->replace(__pos, __n1, __s, traits_type::length(__s));
       }
-# 1627 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\basic_string.h" 3
+# 1519 "/usr/include/c++/4.8/bits/basic_string.h" 3
       basic_string&
       replace(size_type __pos, size_type __n1, size_type __n2, _CharT __c)
       { return _M_replace_aux(_M_check(__pos, "basic_string::replace"),
          _M_limit(__pos, __n1), __n2, __c); }
-# 1645 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\basic_string.h" 3
+# 1537 "/usr/include/c++/4.8/bits/basic_string.h" 3
       basic_string&
-      replace(__const_iterator __i1, __const_iterator __i2,
-       const basic_string& __str)
+      replace(iterator __i1, iterator __i2, const basic_string& __str)
       { return this->replace(__i1, __i2, __str._M_data(), __str.size()); }
-# 1665 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\basic_string.h" 3
+# 1556 "/usr/include/c++/4.8/bits/basic_string.h" 3
       basic_string&
-      replace(__const_iterator __i1, __const_iterator __i2,
-       const _CharT* __s, size_type __n)
+      replace(iterator __i1, iterator __i2, const _CharT* __s, size_type __n)
       {
 
-                      ;
- return this->replace(__i1 - begin(), __i2 - __i1, __s, __n);
+                          ;
+ return this->replace(__i1 - _M_ibegin(), __i2 - __i1, __s, __n);
       }
-# 1687 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\basic_string.h" 3
+# 1577 "/usr/include/c++/4.8/bits/basic_string.h" 3
       basic_string&
-      replace(__const_iterator __i1, __const_iterator __i2, const _CharT* __s)
+      replace(iterator __i1, iterator __i2, const _CharT* __s)
       {
  ;
  return this->replace(__i1, __i2, __s, traits_type::length(__s));
       }
-# 1708 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\basic_string.h" 3
+# 1598 "/usr/include/c++/4.8/bits/basic_string.h" 3
       basic_string&
-      replace(__const_iterator __i1, __const_iterator __i2, size_type __n,
-       _CharT __c)
+      replace(iterator __i1, iterator __i2, size_type __n, _CharT __c)
       {
 
-                      ;
- return _M_replace_aux(__i1 - begin(), __i2 - __i1, __n, __c);
+                          ;
+ return _M_replace_aux(__i1 - _M_ibegin(), __i2 - __i1, __n, __c);
       }
-# 1746 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\basic_string.h" 3
+# 1621 "/usr/include/c++/4.8/bits/basic_string.h" 3
       template<class _InputIterator>
-
-
-
         basic_string&
-
         replace(iterator __i1, iterator __i2,
   _InputIterator __k1, _InputIterator __k2)
         {
   
-                        ;
+                            ;
    ;
    typedef typename std::__is_integer<_InputIterator>::__type _Integral;
    return _M_replace_dispatch(__i1, __i2, __k1, __k2, _Integral());
@@ -7054,83 +8239,124 @@ namespace __cxx11 {
 
 
 
-
       basic_string&
-      replace(__const_iterator __i1, __const_iterator __i2,
-       _CharT* __k1, _CharT* __k2)
+      replace(iterator __i1, iterator __i2, _CharT* __k1, _CharT* __k2)
       {
 
-                      ;
+                          ;
  ;
- return this->replace(__i1 - begin(), __i2 - __i1,
+ return this->replace(__i1 - _M_ibegin(), __i2 - __i1,
         __k1, __k2 - __k1);
       }
 
       basic_string&
-      replace(__const_iterator __i1, __const_iterator __i2,
+      replace(iterator __i1, iterator __i2,
        const _CharT* __k1, const _CharT* __k2)
       {
 
-                      ;
+                          ;
  ;
- return this->replace(__i1 - begin(), __i2 - __i1,
+ return this->replace(__i1 - _M_ibegin(), __i2 - __i1,
         __k1, __k2 - __k1);
       }
 
       basic_string&
-      replace(__const_iterator __i1, __const_iterator __i2,
-       iterator __k1, iterator __k2)
+      replace(iterator __i1, iterator __i2, iterator __k1, iterator __k2)
       {
 
-                      ;
+                          ;
  ;
- return this->replace(__i1 - begin(), __i2 - __i1,
+ return this->replace(__i1 - _M_ibegin(), __i2 - __i1,
         __k1.base(), __k2 - __k1);
       }
 
       basic_string&
-      replace(__const_iterator __i1, __const_iterator __i2,
+      replace(iterator __i1, iterator __i2,
        const_iterator __k1, const_iterator __k2)
       {
 
-                      ;
+                          ;
  ;
- return this->replace(__i1 - begin(), __i2 - __i1,
+ return this->replace(__i1 - _M_ibegin(), __i2 - __i1,
         __k1.base(), __k2 - __k1);
       }
-# 1829 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\basic_string.h" 3
+# 1697 "/usr/include/c++/4.8/bits/basic_string.h" 3
     private:
       template<class _Integer>
  basic_string&
- _M_replace_dispatch(const_iterator __i1, const_iterator __i2,
-       _Integer __n, _Integer __val, __true_type)
-        { return _M_replace_aux(__i1 - begin(), __i2 - __i1, __n, __val); }
+ _M_replace_dispatch(iterator __i1, iterator __i2, _Integer __n,
+       _Integer __val, __true_type)
+        { return _M_replace_aux(__i1 - _M_ibegin(), __i2 - __i1, __n, __val); }
 
       template<class _InputIterator>
  basic_string&
- _M_replace_dispatch(const_iterator __i1, const_iterator __i2,
-       _InputIterator __k1, _InputIterator __k2,
-       __false_type);
+ _M_replace_dispatch(iterator __i1, iterator __i2, _InputIterator __k1,
+       _InputIterator __k2, __false_type);
 
       basic_string&
       _M_replace_aux(size_type __pos1, size_type __n1, size_type __n2,
        _CharT __c);
 
       basic_string&
-      _M_replace(size_type __pos, size_type __len1, const _CharT* __s,
-   const size_type __len2);
+      _M_replace_safe(size_type __pos1, size_type __n1, const _CharT* __s,
+        size_type __n2);
 
-      basic_string&
-      _M_append(const _CharT* __s, size_type __n);
+
+
+      template<class _InIterator>
+        static _CharT*
+        _S_construct_aux(_InIterator __beg, _InIterator __end,
+    const _Alloc& __a, __false_type)
+ {
+          typedef typename iterator_traits<_InIterator>::iterator_category _Tag;
+          return _S_construct(__beg, __end, __a, _Tag());
+ }
+
+
+
+      template<class _Integer>
+        static _CharT*
+        _S_construct_aux(_Integer __beg, _Integer __end,
+    const _Alloc& __a, __true_type)
+        { return _S_construct_aux_2(static_cast<size_type>(__beg),
+        __end, __a); }
+
+      static _CharT*
+      _S_construct_aux_2(size_type __req, _CharT __c, const _Alloc& __a)
+      { return _S_construct(__req, __c, __a); }
+
+      template<class _InIterator>
+        static _CharT*
+        _S_construct(_InIterator __beg, _InIterator __end, const _Alloc& __a)
+ {
+   typedef typename std::__is_integer<_InIterator>::__type _Integral;
+   return _S_construct_aux(__beg, __end, __a, _Integral());
+        }
+
+
+      template<class _InIterator>
+        static _CharT*
+         _S_construct(_InIterator __beg, _InIterator __end, const _Alloc& __a,
+        input_iterator_tag);
+
+
+
+      template<class _FwdIterator>
+        static _CharT*
+        _S_construct(_FwdIterator __beg, _FwdIterator __end, const _Alloc& __a,
+       forward_iterator_tag);
+
+      static _CharT*
+      _S_construct(size_type __req, _CharT __c, const _Alloc& __a);
 
     public:
-# 1867 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\basic_string.h" 3
+# 1779 "/usr/include/c++/4.8/bits/basic_string.h" 3
       size_type
       copy(_CharT* __s, size_type __n, size_type __pos = 0) const;
-# 1877 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\basic_string.h" 3
+# 1789 "/usr/include/c++/4.8/bits/basic_string.h" 3
       void
-      swap(basic_string& __s) ;
-# 1887 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\basic_string.h" 3
+      swap(basic_string& __s);
+# 1799 "/usr/include/c++/4.8/bits/basic_string.h" 3
       const _CharT*
       c_str() const
       { return _M_data(); }
@@ -7150,127 +8376,127 @@ namespace __cxx11 {
 
       allocator_type
       get_allocator() const
-      { return _M_get_allocator(); }
-# 1920 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\basic_string.h" 3
+      { return _M_dataplus; }
+# 1832 "/usr/include/c++/4.8/bits/basic_string.h" 3
       size_type
       find(const _CharT* __s, size_type __pos, size_type __n) const;
-# 1933 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\basic_string.h" 3
+# 1845 "/usr/include/c++/4.8/bits/basic_string.h" 3
       size_type
       find(const basic_string& __str, size_type __pos = 0) const
 
       { return this->find(__str.data(), __pos, __str.size()); }
-# 1948 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\basic_string.h" 3
+# 1860 "/usr/include/c++/4.8/bits/basic_string.h" 3
       size_type
       find(const _CharT* __s, size_type __pos = 0) const
       {
  ;
  return this->find(__s, __pos, traits_type::length(__s));
       }
-# 1965 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\basic_string.h" 3
+# 1877 "/usr/include/c++/4.8/bits/basic_string.h" 3
       size_type
       find(_CharT __c, size_type __pos = 0) const ;
-# 1978 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\basic_string.h" 3
+# 1890 "/usr/include/c++/4.8/bits/basic_string.h" 3
       size_type
       rfind(const basic_string& __str, size_type __pos = npos) const
 
       { return this->rfind(__str.data(), __pos, __str.size()); }
-# 1995 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\basic_string.h" 3
+# 1907 "/usr/include/c++/4.8/bits/basic_string.h" 3
       size_type
       rfind(const _CharT* __s, size_type __pos, size_type __n) const;
-# 2008 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\basic_string.h" 3
+# 1920 "/usr/include/c++/4.8/bits/basic_string.h" 3
       size_type
       rfind(const _CharT* __s, size_type __pos = npos) const
       {
  ;
  return this->rfind(__s, __pos, traits_type::length(__s));
       }
-# 2025 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\basic_string.h" 3
+# 1937 "/usr/include/c++/4.8/bits/basic_string.h" 3
       size_type
       rfind(_CharT __c, size_type __pos = npos) const ;
-# 2039 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\basic_string.h" 3
+# 1951 "/usr/include/c++/4.8/bits/basic_string.h" 3
       size_type
       find_first_of(const basic_string& __str, size_type __pos = 0) const
 
       { return this->find_first_of(__str.data(), __pos, __str.size()); }
-# 2056 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\basic_string.h" 3
+# 1968 "/usr/include/c++/4.8/bits/basic_string.h" 3
       size_type
       find_first_of(const _CharT* __s, size_type __pos, size_type __n) const;
-# 2069 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\basic_string.h" 3
+# 1981 "/usr/include/c++/4.8/bits/basic_string.h" 3
       size_type
       find_first_of(const _CharT* __s, size_type __pos = 0) const
       {
  ;
  return this->find_first_of(__s, __pos, traits_type::length(__s));
       }
-# 2088 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\basic_string.h" 3
+# 2000 "/usr/include/c++/4.8/bits/basic_string.h" 3
       size_type
       find_first_of(_CharT __c, size_type __pos = 0) const
       { return this->find(__c, __pos); }
-# 2103 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\basic_string.h" 3
+# 2015 "/usr/include/c++/4.8/bits/basic_string.h" 3
       size_type
       find_last_of(const basic_string& __str, size_type __pos = npos) const
 
       { return this->find_last_of(__str.data(), __pos, __str.size()); }
-# 2120 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\basic_string.h" 3
+# 2032 "/usr/include/c++/4.8/bits/basic_string.h" 3
       size_type
       find_last_of(const _CharT* __s, size_type __pos, size_type __n) const;
-# 2133 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\basic_string.h" 3
+# 2045 "/usr/include/c++/4.8/bits/basic_string.h" 3
       size_type
       find_last_of(const _CharT* __s, size_type __pos = npos) const
       {
  ;
  return this->find_last_of(__s, __pos, traits_type::length(__s));
       }
-# 2152 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\basic_string.h" 3
+# 2064 "/usr/include/c++/4.8/bits/basic_string.h" 3
       size_type
       find_last_of(_CharT __c, size_type __pos = npos) const
       { return this->rfind(__c, __pos); }
-# 2166 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\basic_string.h" 3
+# 2078 "/usr/include/c++/4.8/bits/basic_string.h" 3
       size_type
       find_first_not_of(const basic_string& __str, size_type __pos = 0) const
 
       { return this->find_first_not_of(__str.data(), __pos, __str.size()); }
-# 2183 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\basic_string.h" 3
+# 2095 "/usr/include/c++/4.8/bits/basic_string.h" 3
       size_type
       find_first_not_of(const _CharT* __s, size_type __pos,
    size_type __n) const;
-# 2197 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\basic_string.h" 3
+# 2109 "/usr/include/c++/4.8/bits/basic_string.h" 3
       size_type
       find_first_not_of(const _CharT* __s, size_type __pos = 0) const
       {
  ;
  return this->find_first_not_of(__s, __pos, traits_type::length(__s));
       }
-# 2214 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\basic_string.h" 3
+# 2126 "/usr/include/c++/4.8/bits/basic_string.h" 3
       size_type
       find_first_not_of(_CharT __c, size_type __pos = 0) const
  ;
-# 2229 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\basic_string.h" 3
+# 2141 "/usr/include/c++/4.8/bits/basic_string.h" 3
       size_type
       find_last_not_of(const basic_string& __str, size_type __pos = npos) const
 
       { return this->find_last_not_of(__str.data(), __pos, __str.size()); }
-# 2246 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\basic_string.h" 3
+# 2158 "/usr/include/c++/4.8/bits/basic_string.h" 3
       size_type
       find_last_not_of(const _CharT* __s, size_type __pos,
          size_type __n) const;
-# 2260 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\basic_string.h" 3
+# 2172 "/usr/include/c++/4.8/bits/basic_string.h" 3
       size_type
       find_last_not_of(const _CharT* __s, size_type __pos = npos) const
       {
  ;
  return this->find_last_not_of(__s, __pos, traits_type::length(__s));
       }
-# 2277 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\basic_string.h" 3
+# 2189 "/usr/include/c++/4.8/bits/basic_string.h" 3
       size_type
       find_last_not_of(_CharT __c, size_type __pos = npos) const
  ;
-# 2293 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\basic_string.h" 3
+# 2205 "/usr/include/c++/4.8/bits/basic_string.h" 3
       basic_string
       substr(size_type __pos = 0, size_type __n = npos) const
       { return basic_string(*this,
        _M_check(__pos, "basic_string::substr"), __n); }
-# 2312 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\basic_string.h" 3
+# 2224 "/usr/include/c++/4.8/bits/basic_string.h" 3
       int
       compare(const basic_string& __str) const
       {
@@ -7283,26 +8509,25 @@ namespace __cxx11 {
    __r = _S_compare(__size, __osize);
  return __r;
       }
-# 2344 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\basic_string.h" 3
+# 2256 "/usr/include/c++/4.8/bits/basic_string.h" 3
       int
       compare(size_type __pos, size_type __n, const basic_string& __str) const;
-# 2370 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\basic_string.h" 3
+# 2282 "/usr/include/c++/4.8/bits/basic_string.h" 3
       int
       compare(size_type __pos1, size_type __n1, const basic_string& __str,
        size_type __pos2, size_type __n2) const;
-# 2388 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\basic_string.h" 3
+# 2300 "/usr/include/c++/4.8/bits/basic_string.h" 3
       int
       compare(const _CharT* __s) const;
-# 2412 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\basic_string.h" 3
+# 2324 "/usr/include/c++/4.8/bits/basic_string.h" 3
       int
       compare(size_type __pos, size_type __n1, const _CharT* __s) const;
-# 2439 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\basic_string.h" 3
+# 2351 "/usr/include/c++/4.8/bits/basic_string.h" 3
       int
       compare(size_type __pos, size_type __n1, const _CharT* __s,
        size_type __n2) const;
   };
-}
-# 4783 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\basic_string.h" 3
+# 2363 "/usr/include/c++/4.8/bits/basic_string.h" 3
   template<typename _CharT, typename _Traits, typename _Alloc>
     basic_string<_CharT, _Traits, _Alloc>
     operator+(const basic_string<_CharT, _Traits, _Alloc>& __lhs,
@@ -7343,7 +8568,7 @@ namespace __cxx11 {
   template<typename _CharT, typename _Traits, typename _Alloc>
     inline basic_string<_CharT, _Traits, _Alloc>
     operator+(const basic_string<_CharT, _Traits, _Alloc>& __lhs,
-       const _CharT* __rhs)
+      const _CharT* __rhs)
     {
       basic_string<_CharT, _Traits, _Alloc> __str(__lhs);
       __str.append(__rhs);
@@ -7366,7 +8591,7 @@ namespace __cxx11 {
       __str.append(__size_type(1), __rhs);
       return __str;
     }
-# 4904 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\basic_string.h" 3
+# 2484 "/usr/include/c++/4.8/bits/basic_string.h" 3
   template<typename _CharT, typename _Traits, typename _Alloc>
     inline bool
     operator==(const basic_string<_CharT, _Traits, _Alloc>& __lhs,
@@ -7405,7 +8630,7 @@ namespace __cxx11 {
     operator==(const basic_string<_CharT, _Traits, _Alloc>& __lhs,
         const _CharT* __rhs)
     { return __lhs.compare(__rhs) == 0; }
-# 4950 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\basic_string.h" 3
+# 2530 "/usr/include/c++/4.8/bits/basic_string.h" 3
   template<typename _CharT, typename _Traits, typename _Alloc>
     inline bool
     operator!=(const basic_string<_CharT, _Traits, _Alloc>& __lhs,
@@ -7435,7 +8660,7 @@ namespace __cxx11 {
     operator!=(const basic_string<_CharT, _Traits, _Alloc>& __lhs,
         const _CharT* __rhs)
     { return !(__lhs == __rhs); }
-# 4987 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\basic_string.h" 3
+# 2567 "/usr/include/c++/4.8/bits/basic_string.h" 3
   template<typename _CharT, typename _Traits, typename _Alloc>
     inline bool
     operator<(const basic_string<_CharT, _Traits, _Alloc>& __lhs,
@@ -7465,7 +8690,7 @@ namespace __cxx11 {
     operator<(const _CharT* __lhs,
        const basic_string<_CharT, _Traits, _Alloc>& __rhs)
     { return __rhs.compare(__lhs) > 0; }
-# 5024 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\basic_string.h" 3
+# 2604 "/usr/include/c++/4.8/bits/basic_string.h" 3
   template<typename _CharT, typename _Traits, typename _Alloc>
     inline bool
     operator>(const basic_string<_CharT, _Traits, _Alloc>& __lhs,
@@ -7495,7 +8720,7 @@ namespace __cxx11 {
     operator>(const _CharT* __lhs,
        const basic_string<_CharT, _Traits, _Alloc>& __rhs)
     { return __rhs.compare(__lhs) < 0; }
-# 5061 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\basic_string.h" 3
+# 2641 "/usr/include/c++/4.8/bits/basic_string.h" 3
   template<typename _CharT, typename _Traits, typename _Alloc>
     inline bool
     operator<=(const basic_string<_CharT, _Traits, _Alloc>& __lhs,
@@ -7525,7 +8750,7 @@ namespace __cxx11 {
     operator<=(const _CharT* __lhs,
         const basic_string<_CharT, _Traits, _Alloc>& __rhs)
     { return __rhs.compare(__lhs) >= 0; }
-# 5098 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\basic_string.h" 3
+# 2678 "/usr/include/c++/4.8/bits/basic_string.h" 3
   template<typename _CharT, typename _Traits, typename _Alloc>
     inline bool
     operator>=(const basic_string<_CharT, _Traits, _Alloc>& __lhs,
@@ -7555,13 +8780,13 @@ namespace __cxx11 {
     operator>=(const _CharT* __lhs,
       const basic_string<_CharT, _Traits, _Alloc>& __rhs)
     { return __rhs.compare(__lhs) <= 0; }
-# 5135 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\basic_string.h" 3
+# 2715 "/usr/include/c++/4.8/bits/basic_string.h" 3
   template<typename _CharT, typename _Traits, typename _Alloc>
     inline void
     swap(basic_string<_CharT, _Traits, _Alloc>& __lhs,
   basic_string<_CharT, _Traits, _Alloc>& __rhs)
     { __lhs.swap(__rhs); }
-# 5154 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\basic_string.h" 3
+# 2733 "/usr/include/c++/4.8/bits/basic_string.h" 3
   template<typename _CharT, typename _Traits, typename _Alloc>
     basic_istream<_CharT, _Traits>&
     operator>>(basic_istream<_CharT, _Traits>& __is,
@@ -7570,7 +8795,7 @@ namespace __cxx11 {
   template<>
     basic_istream<char>&
     operator>>(basic_istream<char>& __is, basic_string<char>& __str);
-# 5172 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\basic_string.h" 3
+# 2751 "/usr/include/c++/4.8/bits/basic_string.h" 3
   template<typename _CharT, typename _Traits, typename _Alloc>
     inline basic_ostream<_CharT, _Traits>&
     operator<<(basic_ostream<_CharT, _Traits>& __os,
@@ -7580,18 +8805,18 @@ namespace __cxx11 {
 
       return __ostream_insert(__os, __str.data(), __str.size());
     }
-# 5195 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\basic_string.h" 3
+# 2774 "/usr/include/c++/4.8/bits/basic_string.h" 3
   template<typename _CharT, typename _Traits, typename _Alloc>
     basic_istream<_CharT, _Traits>&
     getline(basic_istream<_CharT, _Traits>& __is,
      basic_string<_CharT, _Traits, _Alloc>& __str, _CharT __delim);
-# 5212 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\basic_string.h" 3
+# 2791 "/usr/include/c++/4.8/bits/basic_string.h" 3
   template<typename _CharT, typename _Traits, typename _Alloc>
     inline basic_istream<_CharT, _Traits>&
     getline(basic_istream<_CharT, _Traits>& __is,
      basic_string<_CharT, _Traits, _Alloc>& __str)
-    { return std::getline(__is, __str, __is.widen('\n')); }
-# 5234 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\basic_string.h" 3
+    { return getline(__is, __str, __is.widen('\n')); }
+
   template<>
     basic_istream<char>&
     getline(basic_istream<char>& __in, basic_string<char>& __str,
@@ -7606,127 +8831,39 @@ namespace __cxx11 {
 
 
 }
-# 53 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\string" 2 3
-# 1 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\basic_string.tcc" 1 3
-# 42 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\basic_string.tcc" 3
+# 53 "/usr/include/c++/4.8/string" 2 3
+# 1 "/usr/include/c++/4.8/bits/basic_string.tcc" 1 3
+# 40 "/usr/include/c++/4.8/bits/basic_string.tcc" 3
        
-# 43 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\basic_string.tcc" 3
+# 41 "/usr/include/c++/4.8/bits/basic_string.tcc" 3
 
 
 
-namespace std
+namespace std __attribute__ ((__visibility__ ("default")))
 {
 
 
+  template<typename _CharT, typename _Traits, typename _Alloc>
+    const typename basic_string<_CharT, _Traits, _Alloc>::size_type
+    basic_string<_CharT, _Traits, _Alloc>::
+    _Rep::_S_max_size = (((npos - sizeof(_Rep_base))/sizeof(_CharT)) - 1) / 4;
 
+  template<typename _CharT, typename _Traits, typename _Alloc>
+    const _CharT
+    basic_string<_CharT, _Traits, _Alloc>::
+    _Rep::_S_terminal = _CharT();
 
   template<typename _CharT, typename _Traits, typename _Alloc>
     const typename basic_string<_CharT, _Traits, _Alloc>::size_type
     basic_string<_CharT, _Traits, _Alloc>::npos;
 
-  template<typename _CharT, typename _Traits, typename _Alloc>
-    void
-    basic_string<_CharT, _Traits, _Alloc>::
-    swap(basic_string& __s)
-    {
-      if (this == &__s)
- return;
 
-
-
-
-      std::__alloc_swap<allocator_type>::_S_do_it(_M_get_allocator(),
-        __s._M_get_allocator());
-
-      if (_M_is_local())
- if (__s._M_is_local())
-   {
-     if (length() && __s.length())
-       {
-  _CharT __tmp_data[_S_local_capacity + 1];
-  traits_type::copy(__tmp_data, __s._M_local_buf,
-      _S_local_capacity + 1);
-  traits_type::copy(__s._M_local_buf, _M_local_buf,
-      _S_local_capacity + 1);
-  traits_type::copy(_M_local_buf, __tmp_data,
-      _S_local_capacity + 1);
-       }
-     else if (__s.length())
-       {
-  traits_type::copy(_M_local_buf, __s._M_local_buf,
-      _S_local_capacity + 1);
-  _M_length(__s.length());
-  __s._M_set_length(0);
-  return;
-       }
-     else if (length())
-       {
-  traits_type::copy(__s._M_local_buf, _M_local_buf,
-      _S_local_capacity + 1);
-  __s._M_length(length());
-  _M_set_length(0);
-  return;
-       }
-   }
- else
-   {
-     const size_type __tmp_capacity = __s._M_allocated_capacity;
-     traits_type::copy(__s._M_local_buf, _M_local_buf,
-         _S_local_capacity + 1);
-     _M_data(__s._M_data());
-     __s._M_data(__s._M_local_buf);
-     _M_capacity(__tmp_capacity);
-   }
-      else
- {
-   const size_type __tmp_capacity = _M_allocated_capacity;
-   if (__s._M_is_local())
-     {
-       traits_type::copy(_M_local_buf, __s._M_local_buf,
-    _S_local_capacity + 1);
-       __s._M_data(_M_data());
-       _M_data(_M_local_buf);
-     }
-   else
-     {
-       pointer __tmp_ptr = _M_data();
-       _M_data(__s._M_data());
-       __s._M_data(__tmp_ptr);
-       _M_capacity(__s._M_allocated_capacity);
-     }
-   __s._M_capacity(__tmp_capacity);
- }
-
-      const size_type __tmp_length = length();
-      _M_length(__s.length());
-      __s._M_length(__tmp_length);
-    }
 
   template<typename _CharT, typename _Traits, typename _Alloc>
-    typename basic_string<_CharT, _Traits, _Alloc>::pointer
-    basic_string<_CharT, _Traits, _Alloc>::
-    _M_create(size_type& __capacity, size_type __old_capacity)
-    {
-
-
-      if (__capacity > max_size())
- std::__throw_length_error(("basic_string::_M_create"));
-
-
-
-
-      if (__capacity > __old_capacity && __capacity < 2 * __old_capacity)
- {
-   __capacity = 2 * __old_capacity;
-
-   if (__capacity > max_size())
-     __capacity = max_size();
- }
-
-
-
-      return _Alloc_traits::allocate(_M_get_allocator(), __capacity + 1);
-    }
+    typename basic_string<_CharT, _Traits, _Alloc>::size_type
+    basic_string<_CharT, _Traits, _Alloc>::_Rep::_S_empty_rep_storage[
+    (sizeof(_Rep_base) + sizeof(_CharT) + sizeof(size_type) - 1) /
+      sizeof(size_type)];
 
 
 
@@ -7734,120 +8871,419 @@ namespace std
 
   template<typename _CharT, typename _Traits, typename _Alloc>
     template<typename _InIterator>
-      void
+      _CharT*
       basic_string<_CharT, _Traits, _Alloc>::
-      _M_construct(_InIterator __beg, _InIterator __end,
-     std::input_iterator_tag)
+      _S_construct(_InIterator __beg, _InIterator __end, const _Alloc& __a,
+     input_iterator_tag)
       {
- size_type __len = 0;
- size_type __capacity = size_type(_S_local_capacity);
 
- while (__beg != __end && __len < __capacity)
+ if (__beg == __end && __a == _Alloc())
+   return _S_empty_rep()._M_refdata();
+
+
+ _CharT __buf[128];
+ size_type __len = 0;
+ while (__beg != __end && __len < sizeof(__buf) / sizeof(_CharT))
    {
-     _M_data()[__len++] = *__beg;
+     __buf[__len++] = *__beg;
      ++__beg;
    }
-
+ _Rep* __r = _Rep::_S_create(__len, size_type(0), __a);
+ _M_copy(__r->_M_refdata(), __buf, __len);
  try
    {
      while (__beg != __end)
        {
-  if (__len == __capacity)
+  if (__len == __r->_M_capacity)
     {
 
-      __capacity = __len + 1;
-      pointer __another = _M_create(__capacity, __len);
-      this->_S_copy(__another, _M_data(), __len);
-      _M_dispose();
-      _M_data(__another);
-      _M_capacity(__capacity);
+      _Rep* __another = _Rep::_S_create(__len + 1, __len, __a);
+      _M_copy(__another->_M_refdata(), __r->_M_refdata(), __len);
+      __r->_M_destroy(__a);
+      __r = __another;
     }
-  _M_data()[__len++] = *__beg;
+  __r->_M_refdata()[__len++] = *__beg;
   ++__beg;
        }
    }
  catch(...)
    {
-     _M_dispose();
+     __r->_M_destroy(__a);
      throw;
    }
-
- _M_set_length(__len);
+ __r->_M_set_length_and_sharable(__len);
+ return __r->_M_refdata();
       }
 
   template<typename _CharT, typename _Traits, typename _Alloc>
-    template<typename _InIterator>
-      void
+    template <typename _InIterator>
+      _CharT*
       basic_string<_CharT, _Traits, _Alloc>::
-      _M_construct(_InIterator __beg, _InIterator __end,
-     std::forward_iterator_tag)
+      _S_construct(_InIterator __beg, _InIterator __end, const _Alloc& __a,
+     forward_iterator_tag)
       {
 
+ if (__beg == __end && __a == _Alloc())
+   return _S_empty_rep()._M_refdata();
+
+
  if (__gnu_cxx::__is_null_pointer(__beg) && __beg != __end)
-   std::__throw_logic_error(("basic_string::" "_M_construct null not valid")
-                                         );
+   __throw_logic_error(("basic_string::_S_construct null not valid"));
 
- size_type __dnew = static_cast<size_type>(std::distance(__beg, __end));
+ const size_type __dnew = static_cast<size_type>(std::distance(__beg,
+              __end));
 
- if (__dnew > size_type(_S_local_capacity))
-   {
-     _M_data(_M_create(__dnew, size_type(0)));
-     _M_capacity(__dnew);
-   }
-
-
+ _Rep* __r = _Rep::_S_create(__dnew, size_type(0), __a);
  try
-   { this->_S_copy_chars(_M_data(), __beg, __end); }
+   { _S_copy_chars(__r->_M_refdata(), __beg, __end); }
  catch(...)
    {
-     _M_dispose();
+     __r->_M_destroy(__a);
      throw;
    }
-
- _M_set_length(__dnew);
+ __r->_M_set_length_and_sharable(__dnew);
+ return __r->_M_refdata();
       }
+
+  template<typename _CharT, typename _Traits, typename _Alloc>
+    _CharT*
+    basic_string<_CharT, _Traits, _Alloc>::
+    _S_construct(size_type __n, _CharT __c, const _Alloc& __a)
+    {
+
+      if (__n == 0 && __a == _Alloc())
+ return _S_empty_rep()._M_refdata();
+
+
+      _Rep* __r = _Rep::_S_create(__n, size_type(0), __a);
+      if (__n)
+ _M_assign(__r->_M_refdata(), __n, __c);
+
+      __r->_M_set_length_and_sharable(__n);
+      return __r->_M_refdata();
+    }
+
+  template<typename _CharT, typename _Traits, typename _Alloc>
+    basic_string<_CharT, _Traits, _Alloc>::
+    basic_string(const basic_string& __str)
+    : _M_dataplus(__str._M_rep()->_M_grab(_Alloc(__str.get_allocator()),
+       __str.get_allocator()),
+    __str.get_allocator())
+    { }
+
+  template<typename _CharT, typename _Traits, typename _Alloc>
+    basic_string<_CharT, _Traits, _Alloc>::
+    basic_string(const _Alloc& __a)
+    : _M_dataplus(_S_construct(size_type(), _CharT(), __a), __a)
+    { }
+
+  template<typename _CharT, typename _Traits, typename _Alloc>
+    basic_string<_CharT, _Traits, _Alloc>::
+    basic_string(const basic_string& __str, size_type __pos, size_type __n)
+    : _M_dataplus(_S_construct(__str._M_data()
+          + __str._M_check(__pos,
+      "basic_string::basic_string"),
+          __str._M_data() + __str._M_limit(__pos, __n)
+          + __pos, _Alloc()), _Alloc())
+    { }
+
+  template<typename _CharT, typename _Traits, typename _Alloc>
+    basic_string<_CharT, _Traits, _Alloc>::
+    basic_string(const basic_string& __str, size_type __pos,
+   size_type __n, const _Alloc& __a)
+    : _M_dataplus(_S_construct(__str._M_data()
+          + __str._M_check(__pos,
+      "basic_string::basic_string"),
+          __str._M_data() + __str._M_limit(__pos, __n)
+          + __pos, __a), __a)
+    { }
+
+
+  template<typename _CharT, typename _Traits, typename _Alloc>
+    basic_string<_CharT, _Traits, _Alloc>::
+    basic_string(const _CharT* __s, size_type __n, const _Alloc& __a)
+    : _M_dataplus(_S_construct(__s, __s + __n, __a), __a)
+    { }
+
+
+  template<typename _CharT, typename _Traits, typename _Alloc>
+    basic_string<_CharT, _Traits, _Alloc>::
+    basic_string(const _CharT* __s, const _Alloc& __a)
+    : _M_dataplus(_S_construct(__s, __s ? __s + traits_type::length(__s) :
+          __s + npos, __a), __a)
+    { }
+
+  template<typename _CharT, typename _Traits, typename _Alloc>
+    basic_string<_CharT, _Traits, _Alloc>::
+    basic_string(size_type __n, _CharT __c, const _Alloc& __a)
+    : _M_dataplus(_S_construct(__n, __c, __a), __a)
+    { }
+
+
+  template<typename _CharT, typename _Traits, typename _Alloc>
+    template<typename _InputIterator>
+    basic_string<_CharT, _Traits, _Alloc>::
+    basic_string(_InputIterator __beg, _InputIterator __end, const _Alloc& __a)
+    : _M_dataplus(_S_construct(__beg, __end, __a), __a)
+    { }
+# 240 "/usr/include/c++/4.8/bits/basic_string.tcc" 3
+  template<typename _CharT, typename _Traits, typename _Alloc>
+    basic_string<_CharT, _Traits, _Alloc>&
+    basic_string<_CharT, _Traits, _Alloc>::
+    assign(const basic_string& __str)
+    {
+      if (_M_rep() != __str._M_rep())
+ {
+
+   const allocator_type __a = this->get_allocator();
+   _CharT* __tmp = __str._M_rep()->_M_grab(__a, __str.get_allocator());
+   _M_rep()->_M_dispose(__a);
+   _M_data(__tmp);
+ }
+      return *this;
+    }
+
+  template<typename _CharT, typename _Traits, typename _Alloc>
+    basic_string<_CharT, _Traits, _Alloc>&
+    basic_string<_CharT, _Traits, _Alloc>::
+    assign(const _CharT* __s, size_type __n)
+    {
+      ;
+      _M_check_length(this->size(), __n, "basic_string::assign");
+      if (_M_disjunct(__s) || _M_rep()->_M_is_shared())
+ return _M_replace_safe(size_type(0), this->size(), __s, __n);
+      else
+ {
+
+   const size_type __pos = __s - _M_data();
+   if (__pos >= __n)
+     _M_copy(_M_data(), __s, __n);
+   else if (__pos)
+     _M_move(_M_data(), __s, __n);
+   _M_rep()->_M_set_length_and_sharable(__n);
+   return *this;
+ }
+     }
+
+  template<typename _CharT, typename _Traits, typename _Alloc>
+    basic_string<_CharT, _Traits, _Alloc>&
+    basic_string<_CharT, _Traits, _Alloc>::
+    append(size_type __n, _CharT __c)
+    {
+      if (__n)
+ {
+   _M_check_length(size_type(0), __n, "basic_string::append");
+   const size_type __len = __n + this->size();
+   if (__len > this->capacity() || _M_rep()->_M_is_shared())
+     this->reserve(__len);
+   _M_assign(_M_data() + this->size(), __n, __c);
+   _M_rep()->_M_set_length_and_sharable(__len);
+ }
+      return *this;
+    }
+
+  template<typename _CharT, typename _Traits, typename _Alloc>
+    basic_string<_CharT, _Traits, _Alloc>&
+    basic_string<_CharT, _Traits, _Alloc>::
+    append(const _CharT* __s, size_type __n)
+    {
+      ;
+      if (__n)
+ {
+   _M_check_length(size_type(0), __n, "basic_string::append");
+   const size_type __len = __n + this->size();
+   if (__len > this->capacity() || _M_rep()->_M_is_shared())
+     {
+       if (_M_disjunct(__s))
+  this->reserve(__len);
+       else
+  {
+    const size_type __off = __s - _M_data();
+    this->reserve(__len);
+    __s = _M_data() + __off;
+  }
+     }
+   _M_copy(_M_data() + this->size(), __s, __n);
+   _M_rep()->_M_set_length_and_sharable(__len);
+ }
+      return *this;
+    }
+
+  template<typename _CharT, typename _Traits, typename _Alloc>
+    basic_string<_CharT, _Traits, _Alloc>&
+    basic_string<_CharT, _Traits, _Alloc>::
+    append(const basic_string& __str)
+    {
+      const size_type __size = __str.size();
+      if (__size)
+ {
+   const size_type __len = __size + this->size();
+   if (__len > this->capacity() || _M_rep()->_M_is_shared())
+     this->reserve(__len);
+   _M_copy(_M_data() + this->size(), __str._M_data(), __size);
+   _M_rep()->_M_set_length_and_sharable(__len);
+ }
+      return *this;
+    }
+
+  template<typename _CharT, typename _Traits, typename _Alloc>
+    basic_string<_CharT, _Traits, _Alloc>&
+    basic_string<_CharT, _Traits, _Alloc>::
+    append(const basic_string& __str, size_type __pos, size_type __n)
+    {
+      __str._M_check(__pos, "basic_string::append");
+      __n = __str._M_limit(__pos, __n);
+      if (__n)
+ {
+   const size_type __len = __n + this->size();
+   if (__len > this->capacity() || _M_rep()->_M_is_shared())
+     this->reserve(__len);
+   _M_copy(_M_data() + this->size(), __str._M_data() + __pos, __n);
+   _M_rep()->_M_set_length_and_sharable(__len);
+ }
+      return *this;
+    }
+
+   template<typename _CharT, typename _Traits, typename _Alloc>
+     basic_string<_CharT, _Traits, _Alloc>&
+     basic_string<_CharT, _Traits, _Alloc>::
+     insert(size_type __pos, const _CharT* __s, size_type __n)
+     {
+       ;
+       _M_check(__pos, "basic_string::insert");
+       _M_check_length(size_type(0), __n, "basic_string::insert");
+       if (_M_disjunct(__s) || _M_rep()->_M_is_shared())
+         return _M_replace_safe(__pos, size_type(0), __s, __n);
+       else
+         {
+
+           const size_type __off = __s - _M_data();
+           _M_mutate(__pos, 0, __n);
+           __s = _M_data() + __off;
+           _CharT* __p = _M_data() + __pos;
+           if (__s + __n <= __p)
+             _M_copy(__p, __s, __n);
+           else if (__s >= __p)
+             _M_copy(__p, __s + __n, __n);
+           else
+             {
+        const size_type __nleft = __p - __s;
+               _M_copy(__p, __s, __nleft);
+               _M_copy(__p + __nleft, __p + __n, __n - __nleft);
+             }
+           return *this;
+         }
+     }
+
+   template<typename _CharT, typename _Traits, typename _Alloc>
+     typename basic_string<_CharT, _Traits, _Alloc>::iterator
+     basic_string<_CharT, _Traits, _Alloc>::
+     erase(iterator __first, iterator __last)
+     {
+      
+                           ;
+
+
+
+
+       const size_type __size = __last - __first;
+       if (__size)
+  {
+    const size_type __pos = __first - _M_ibegin();
+    _M_mutate(__pos, __size, size_type(0));
+    _M_rep()->_M_set_leaked();
+    return iterator(_M_data() + __pos);
+  }
+       else
+  return __first;
+     }
+
+   template<typename _CharT, typename _Traits, typename _Alloc>
+     basic_string<_CharT, _Traits, _Alloc>&
+     basic_string<_CharT, _Traits, _Alloc>::
+     replace(size_type __pos, size_type __n1, const _CharT* __s,
+      size_type __n2)
+     {
+       ;
+       _M_check(__pos, "basic_string::replace");
+       __n1 = _M_limit(__pos, __n1);
+       _M_check_length(__n1, __n2, "basic_string::replace");
+       bool __left;
+       if (_M_disjunct(__s) || _M_rep()->_M_is_shared())
+         return _M_replace_safe(__pos, __n1, __s, __n2);
+       else if ((__left = __s + __n2 <= _M_data() + __pos)
+  || _M_data() + __pos + __n1 <= __s)
+  {
+
+    size_type __off = __s - _M_data();
+    __left ? __off : (__off += __n2 - __n1);
+    _M_mutate(__pos, __n1, __n2);
+    _M_copy(_M_data() + __pos, _M_data() + __off, __n2);
+    return *this;
+  }
+       else
+  {
+
+    const basic_string __tmp(__s, __n2);
+    return _M_replace_safe(__pos, __n1, __tmp._M_data(), __n2);
+  }
+     }
 
   template<typename _CharT, typename _Traits, typename _Alloc>
     void
-    basic_string<_CharT, _Traits, _Alloc>::
-    _M_construct(size_type __n, _CharT __c)
+    basic_string<_CharT, _Traits, _Alloc>::_Rep::
+    _M_destroy(const _Alloc& __a) throw ()
     {
-      if (__n > size_type(_S_local_capacity))
- {
-   _M_data(_M_create(__n, size_type(0)));
-   _M_capacity(__n);
- }
-
-      if (__n)
- this->_S_assign(_M_data(), __n, __c);
-
-      _M_set_length(__n);
+      const size_type __size = sizeof(_Rep_base) +
+                        (this->_M_capacity + 1) * sizeof(_CharT);
+      _Raw_bytes_alloc(__a).deallocate(reinterpret_cast<char*>(this), __size);
     }
 
   template<typename _CharT, typename _Traits, typename _Alloc>
     void
     basic_string<_CharT, _Traits, _Alloc>::
-    _M_assign(const basic_string& __str)
+    _M_leak_hard()
     {
-      if (this != &__str)
+
+      if (_M_rep() == &_S_empty_rep())
+ return;
+
+      if (_M_rep()->_M_is_shared())
+ _M_mutate(0, 0, 0);
+      _M_rep()->_M_set_leaked();
+    }
+
+  template<typename _CharT, typename _Traits, typename _Alloc>
+    void
+    basic_string<_CharT, _Traits, _Alloc>::
+    _M_mutate(size_type __pos, size_type __len1, size_type __len2)
+    {
+      const size_type __old_size = this->size();
+      const size_type __new_size = __old_size + __len2 - __len1;
+      const size_type __how_much = __old_size - __pos - __len1;
+
+      if (__new_size > this->capacity() || _M_rep()->_M_is_shared())
  {
-   const size_type __rsize = __str.length();
-   const size_type __capacity = capacity();
 
-   if (__rsize > __capacity)
-     {
-       size_type __new_capacity = __rsize;
-       pointer __tmp = _M_create(__new_capacity, __capacity);
-       _M_dispose();
-       _M_data(__tmp);
-       _M_capacity(__new_capacity);
-     }
+   const allocator_type __a = get_allocator();
+   _Rep* __r = _Rep::_S_create(__new_size, this->capacity(), __a);
 
-   if (__rsize)
-     this->_S_copy(_M_data(), __str._M_data(), __rsize);
+   if (__pos)
+     _M_copy(__r->_M_refdata(), _M_data(), __pos);
+   if (__how_much)
+     _M_copy(__r->_M_refdata() + __pos + __len2,
+      _M_data() + __pos + __len1, __how_much);
 
-   _M_set_length(__rsize);
+   _M_rep()->_M_dispose(__a);
+   _M_data(__r->_M_refdata());
  }
+      else if (__how_much && __len1 != __len2)
+ {
+
+   _M_move(_M_data() + __pos + __len2,
+    _M_data() + __pos + __len1, __how_much);
+ }
+      _M_rep()->_M_set_length_and_sharable(__new_size);
     }
 
   template<typename _CharT, typename _Traits, typename _Alloc>
@@ -7855,66 +9291,114 @@ namespace std
     basic_string<_CharT, _Traits, _Alloc>::
     reserve(size_type __res)
     {
+      if (__res != this->capacity() || _M_rep()->_M_is_shared())
+        {
 
-      if (__res < length())
- __res = length();
+   if (__res < this->size())
+     __res = this->size();
+   const allocator_type __a = get_allocator();
+   _CharT* __tmp = _M_rep()->_M_clone(__a, __res - this->size());
+   _M_rep()->_M_dispose(__a);
+   _M_data(__tmp);
+        }
+    }
 
-      const size_type __capacity = capacity();
-      if (__res != __capacity)
+  template<typename _CharT, typename _Traits, typename _Alloc>
+    void
+    basic_string<_CharT, _Traits, _Alloc>::
+    swap(basic_string& __s)
+    {
+      if (_M_rep()->_M_is_leaked())
+ _M_rep()->_M_set_sharable();
+      if (__s._M_rep()->_M_is_leaked())
+ __s._M_rep()->_M_set_sharable();
+      if (this->get_allocator() == __s.get_allocator())
  {
-   if (__res > __capacity
-       || __res > size_type(_S_local_capacity))
-     {
-       pointer __tmp = _M_create(__res, __capacity);
-       this->_S_copy(__tmp, _M_data(), length() + 1);
-       _M_dispose();
-       _M_data(__tmp);
-       _M_capacity(__res);
-     }
-   else if (!_M_is_local())
-     {
-       this->_S_copy(_M_local_data(), _M_data(), length() + 1);
-       _M_destroy(__capacity);
-       _M_data(_M_local_data());
-     }
+   _CharT* __tmp = _M_data();
+   _M_data(__s._M_data());
+   __s._M_data(__tmp);
+ }
+
+      else
+ {
+   const basic_string __tmp1(_M_ibegin(), _M_iend(),
+        __s.get_allocator());
+   const basic_string __tmp2(__s._M_ibegin(), __s._M_iend(),
+        this->get_allocator());
+   *this = __tmp2;
+   __s = __tmp1;
  }
     }
 
   template<typename _CharT, typename _Traits, typename _Alloc>
-    void
-    basic_string<_CharT, _Traits, _Alloc>::
-    _M_mutate(size_type __pos, size_type __len1, const _CharT* __s,
-       size_type __len2)
+    typename basic_string<_CharT, _Traits, _Alloc>::_Rep*
+    basic_string<_CharT, _Traits, _Alloc>::_Rep::
+    _S_create(size_type __capacity, size_type __old_capacity,
+       const _Alloc& __alloc)
     {
-      const size_type __how_much = length() - __pos - __len1;
 
-      size_type __new_capacity = length() + __len2 - __len1;
-      pointer __r = _M_create(__new_capacity, capacity());
 
-      if (__pos)
- this->_S_copy(__r, _M_data(), __pos);
-      if (__s && __len2)
- this->_S_copy(__r + __pos, __s, __len2);
-      if (__how_much)
- this->_S_copy(__r + __pos + __len2,
-        _M_data() + __pos + __len1, __how_much);
+      if (__capacity > _S_max_size)
+ __throw_length_error(("basic_string::_S_create"));
+# 577 "/usr/include/c++/4.8/bits/basic_string.tcc" 3
+      const size_type __pagesize = 4096;
+      const size_type __malloc_header_size = 4 * sizeof(void*);
 
-      _M_dispose();
-      _M_data(__r);
-      _M_capacity(__new_capacity);
+
+
+
+
+
+
+      if (__capacity > __old_capacity && __capacity < 2 * __old_capacity)
+ __capacity = 2 * __old_capacity;
+
+
+
+
+      size_type __size = (__capacity + 1) * sizeof(_CharT) + sizeof(_Rep);
+
+      const size_type __adj_size = __size + __malloc_header_size;
+      if (__adj_size > __pagesize && __capacity > __old_capacity)
+ {
+   const size_type __extra = __pagesize - __adj_size % __pagesize;
+   __capacity += __extra / sizeof(_CharT);
+
+   if (__capacity > _S_max_size)
+     __capacity = _S_max_size;
+   __size = (__capacity + 1) * sizeof(_CharT) + sizeof(_Rep);
+ }
+
+
+
+      void* __place = _Raw_bytes_alloc(__alloc).allocate(__size);
+      _Rep *__p = new (__place) _Rep;
+      __p->_M_capacity = __capacity;
+
+
+
+
+
+
+
+      __p->_M_set_sharable();
+      return __p;
     }
 
   template<typename _CharT, typename _Traits, typename _Alloc>
-    void
-    basic_string<_CharT, _Traits, _Alloc>::
-    _M_erase(size_type __pos, size_type __n)
+    _CharT*
+    basic_string<_CharT, _Traits, _Alloc>::_Rep::
+    _M_clone(const _Alloc& __alloc, size_type __res)
     {
-      const size_type __how_much = length() - __pos - __n;
 
-      if (__how_much && __n)
- this->_S_move(_M_data() + __pos, _M_data() + __pos + __n, __how_much);
+      const size_type __requested_cap = this->_M_length + __res;
+      _Rep* __r = _Rep::_S_create(__requested_cap, this->_M_capacity,
+      __alloc);
+      if (this->_M_length)
+ _M_copy(__r->_M_refdata(), _M_refdata(), this->_M_length);
 
-      _M_set_length(length() - __n);
+      __r->_M_set_length_and_sharable(this->_M_length);
+      return __r->_M_refdata();
     }
 
   template<typename _CharT, typename _Traits, typename _Alloc>
@@ -7923,43 +9407,26 @@ namespace std
     resize(size_type __n, _CharT __c)
     {
       const size_type __size = this->size();
+      _M_check_length(__size, __n, "basic_string::resize");
       if (__size < __n)
  this->append(__n - __size, __c);
       else if (__n < __size)
- this->_M_erase(__n, __size - __n);
-    }
+ this->erase(__n);
 
-  template<typename _CharT, typename _Traits, typename _Alloc>
-    basic_string<_CharT, _Traits, _Alloc>&
-    basic_string<_CharT, _Traits, _Alloc>::
-    _M_append(const _CharT* __s, size_type __n)
-    {
-      const size_type __len = __n + this->size();
-
-      if (__len <= this->capacity())
- {
-   if (__n)
-     this->_S_copy(this->_M_data() + this->size(), __s, __n);
- }
-      else
- this->_M_mutate(this->size(), size_type(0), __s, __n);
-
-      this->_M_set_length(__len);
-      return *this;
     }
 
   template<typename _CharT, typename _Traits, typename _Alloc>
     template<typename _InputIterator>
       basic_string<_CharT, _Traits, _Alloc>&
       basic_string<_CharT, _Traits, _Alloc>::
-      _M_replace_dispatch(const_iterator __i1, const_iterator __i2,
-     _InputIterator __k1, _InputIterator __k2,
-     std::__false_type)
+      _M_replace_dispatch(iterator __i1, iterator __i2, _InputIterator __k1,
+     _InputIterator __k2, __false_type)
       {
  const basic_string __s(__k1, __k2);
  const size_type __n1 = __i2 - __i1;
- return _M_replace(__i1 - begin(), __n1, __s._M_data(),
-     __s.size());
+ _M_check_length(__n1, __s.size(), "basic_string::_M_replace_dispatch");
+ return _M_replace_safe(__i1 - _M_ibegin(), __n1, __s._M_data(),
+          __s.size());
       }
 
   template<typename _CharT, typename _Traits, typename _Alloc>
@@ -7969,95 +9436,24 @@ namespace std
      _CharT __c)
     {
       _M_check_length(__n1, __n2, "basic_string::_M_replace_aux");
-
-      const size_type __old_size = this->size();
-      const size_type __new_size = __old_size + __n2 - __n1;
-
-      if (__new_size <= this->capacity())
- {
-   _CharT* __p = this->_M_data() + __pos1;
-
-   const size_type __how_much = __old_size - __pos1 - __n1;
-   if (__how_much && __n1 != __n2)
-     this->_S_move(__p + __n2, __p + __n1, __how_much);
- }
-      else
- this->_M_mutate(__pos1, __n1, 0, __n2);
-
+      _M_mutate(__pos1, __n1, __n2);
       if (__n2)
- this->_S_assign(this->_M_data() + __pos1, __n2, __c);
-
-      this->_M_set_length(__new_size);
+ _M_assign(_M_data() + __pos1, __n2, __c);
       return *this;
     }
 
   template<typename _CharT, typename _Traits, typename _Alloc>
     basic_string<_CharT, _Traits, _Alloc>&
     basic_string<_CharT, _Traits, _Alloc>::
-    _M_replace(size_type __pos, size_type __len1, const _CharT* __s,
-        const size_type __len2)
+    _M_replace_safe(size_type __pos1, size_type __n1, const _CharT* __s,
+      size_type __n2)
     {
-      _M_check_length(__len1, __len2, "basic_string::_M_replace");
-
-      const size_type __old_size = this->size();
-      const size_type __new_size = __old_size + __len2 - __len1;
-
-      if (__new_size <= this->capacity())
- {
-   _CharT* __p = this->_M_data() + __pos;
-
-   const size_type __how_much = __old_size - __pos - __len1;
-   if (_M_disjunct(__s))
-     {
-       if (__how_much && __len1 != __len2)
-  this->_S_move(__p + __len2, __p + __len1, __how_much);
-       if (__len2)
-  this->_S_copy(__p, __s, __len2);
-     }
-   else
-     {
-
-       if (__len2 && __len2 <= __len1)
-  this->_S_move(__p, __s, __len2);
-       if (__how_much && __len1 != __len2)
-  this->_S_move(__p + __len2, __p + __len1, __how_much);
-       if (__len2 > __len1)
-  {
-    if (__s + __len2 <= __p + __len1)
-      this->_S_move(__p, __s, __len2);
-    else if (__s >= __p + __len1)
-      this->_S_copy(__p, __s + __len2 - __len1, __len2);
-    else
-      {
-        const size_type __nleft = (__p + __len1) - __s;
-        this->_S_move(__p, __s, __nleft);
-        this->_S_copy(__p + __nleft, __p + __len2,
-        __len2 - __nleft);
-      }
-  }
-     }
- }
-      else
- this->_M_mutate(__pos, __len1, __s, __len2);
-
-      this->_M_set_length(__new_size);
+      _M_mutate(__pos1, __n1, __n2);
+      if (__n2)
+ _M_copy(_M_data() + __pos1, __s, __n2);
       return *this;
     }
 
-  template<typename _CharT, typename _Traits, typename _Alloc>
-    typename basic_string<_CharT, _Traits, _Alloc>::size_type
-    basic_string<_CharT, _Traits, _Alloc>::
-    copy(_CharT* __s, size_type __n, size_type __pos) const
-    {
-      _M_check(__pos, "basic_string::copy");
-      __n = _M_limit(__pos, __n);
-      ;
-      if (__n)
- _S_copy(__s, _M_data() + __pos, __n);
-
-      return __n;
-    }
-# 1149 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\basic_string.tcc" 3
   template<typename _CharT, typename _Traits, typename _Alloc>
     basic_string<_CharT, _Traits, _Alloc>
     operator+(const _CharT* __lhs,
@@ -8086,6 +9482,20 @@ namespace std
       __str.append(__size_type(1), __lhs);
       __str.append(__rhs);
       return __str;
+    }
+
+  template<typename _CharT, typename _Traits, typename _Alloc>
+    typename basic_string<_CharT, _Traits, _Alloc>::size_type
+    basic_string<_CharT, _Traits, _Alloc>::
+    copy(_CharT* __s, size_type __n, size_type __pos) const
+    {
+      _M_check(__pos, "basic_string::copy");
+      __n = _M_limit(__pos, __n);
+      ;
+      if (__n)
+ _M_copy(__s, _M_data() + __pos, __n);
+
+      return __n;
     }
 
   template<typename _CharT, typename _Traits, typename _Alloc>
@@ -8519,14 +9929,14 @@ namespace std
 
 
 }
-# 54 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\string" 2 3
-# 41 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_classes.h" 2 3
+# 54 "/usr/include/c++/4.8/string" 2 3
+# 41 "/usr/include/c++/4.8/bits/locale_classes.h" 2 3
 
 
-namespace std
+namespace std __attribute__ ((__visibility__ ("default")))
 {
 
-# 62 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_classes.h" 3
+# 62 "/usr/include/c++/4.8/bits/locale_classes.h" 3
   class locale
   {
   public:
@@ -8552,7 +9962,7 @@ namespace std
 
     template<typename _Cache>
       friend struct __use_cache;
-# 98 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_classes.h" 3
+# 98 "/usr/include/c++/4.8/bits/locale_classes.h" 3
     static const category none = 0;
     static const category ctype = 1L << 0;
     static const category numeric = 1L << 1;
@@ -8562,27 +9972,27 @@ namespace std
     static const category messages = 1L << 5;
     static const category all = (ctype | numeric | collate |
         time | monetary | messages);
-# 117 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_classes.h" 3
+# 117 "/usr/include/c++/4.8/bits/locale_classes.h" 3
     locale() throw();
-# 126 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_classes.h" 3
+# 126 "/usr/include/c++/4.8/bits/locale_classes.h" 3
     locale(const locale& __other) throw();
-# 136 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_classes.h" 3
+# 136 "/usr/include/c++/4.8/bits/locale_classes.h" 3
     explicit
     locale(const char* __s);
-# 151 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_classes.h" 3
+# 151 "/usr/include/c++/4.8/bits/locale_classes.h" 3
     locale(const locale& __base, const char* __s, category __cat);
-# 192 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_classes.h" 3
+# 164 "/usr/include/c++/4.8/bits/locale_classes.h" 3
     locale(const locale& __base, const locale& __add, category __cat);
-# 205 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_classes.h" 3
+# 177 "/usr/include/c++/4.8/bits/locale_classes.h" 3
     template<typename _Facet>
       locale(const locale& __other, _Facet* __f);
 
 
     ~locale() throw();
-# 219 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_classes.h" 3
+# 191 "/usr/include/c++/4.8/bits/locale_classes.h" 3
     const locale&
     operator=(const locale& __other) throw();
-# 234 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_classes.h" 3
+# 206 "/usr/include/c++/4.8/bits/locale_classes.h" 3
     template<typename _Facet>
       locale
       combine(const locale& __other) const;
@@ -8592,10 +10002,9 @@ namespace std
 
 
 
-    __attribute ((__abi_tag__ ("cxx11")))
     string
     name() const;
-# 254 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_classes.h" 3
+# 225 "/usr/include/c++/4.8/bits/locale_classes.h" 3
     bool
     operator==(const locale& __other) const throw();
 
@@ -8608,12 +10017,12 @@ namespace std
     bool
     operator!=(const locale& __other) const throw()
     { return !(this->operator==(__other)); }
-# 282 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_classes.h" 3
+# 253 "/usr/include/c++/4.8/bits/locale_classes.h" 3
     template<typename _Char, typename _Traits, typename _Alloc>
       bool
       operator()(const basic_string<_Char, _Traits, _Alloc>& __s1,
    const basic_string<_Char, _Traits, _Alloc>& __s2) const;
-# 298 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_classes.h" 3
+# 269 "/usr/include/c++/4.8/bits/locale_classes.h" 3
     static locale
     global(const locale& __loc);
 
@@ -8638,8 +10047,8 @@ namespace std
 
 
     static const char* const* const _S_categories;
-# 333 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_classes.h" 3
-    enum { _S_categories_size = 6 + 0 };
+# 304 "/usr/include/c++/4.8/bits/locale_classes.h" 3
+    enum { _S_categories_size = 6 + 6 };
 
 
     static __gthread_once_t _S_once;
@@ -8659,12 +10068,8 @@ namespace std
 
     void
     _M_coalesce(const locale& __base, const locale& __add, category __cat);
-
-
-    static const id* const _S_twinned_facets[];
-
   };
-# 371 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_classes.h" 3
+# 338 "/usr/include/c++/4.8/bits/locale_classes.h" 3
   class locale::facet
   {
   private:
@@ -8687,7 +10092,7 @@ namespace std
     _S_initialize_once();
 
   protected:
-# 402 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_classes.h" 3
+# 369 "/usr/include/c++/4.8/bits/locale_classes.h" 3
     explicit
     facet(size_t __refs = 0) throw() : _M_refcount(__refs ? 1 : 0)
     { }
@@ -8741,13 +10146,8 @@ namespace std
 
     facet&
     operator=(const facet&);
-
-    class __shim;
-
-    const facet* _M_sso_shim(const id*) const;
-    const facet* _M_cow_shim(const id*) const;
   };
-# 474 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_classes.h" 3
+# 436 "/usr/include/c++/4.8/bits/locale_classes.h" 3
   class locale::id
   {
   private:
@@ -8878,23 +10278,12 @@ namespace std
       _M_init_facet(_Facet* __facet)
       { _M_install_facet(&_Facet::id, __facet); }
 
-    template<typename _Facet>
-      void
-      _M_init_facet_unchecked(_Facet* __facet)
-      {
- __facet->_M_add_reference();
- _M_facets[_Facet::id._M_id()] = __facet;
-      }
-
     void
     _M_install_cache(const facet*, size_t);
-
-    void _M_init_extra(facet**);
-    void _M_init_extra(void*, void*, const char*, const char*);
   };
-# 632 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_classes.h" 3
+# 583 "/usr/include/c++/4.8/bits/locale_classes.h" 3
   template<typename _CharT>
-    class __cxx11:: collate : public locale::facet
+    class collate : public locale::facet
     {
     public:
 
@@ -8912,26 +10301,26 @@ namespace std
     public:
 
       static locale::id id;
-# 659 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_classes.h" 3
+# 610 "/usr/include/c++/4.8/bits/locale_classes.h" 3
       explicit
       collate(size_t __refs = 0)
       : facet(__refs), _M_c_locale_collate(_S_get_c_locale())
       { }
-# 673 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_classes.h" 3
+# 624 "/usr/include/c++/4.8/bits/locale_classes.h" 3
       explicit
       collate(__c_locale __cloc, size_t __refs = 0)
       : facet(__refs), _M_c_locale_collate(_S_clone_c_locale(__cloc))
       { }
-# 690 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_classes.h" 3
+# 641 "/usr/include/c++/4.8/bits/locale_classes.h" 3
       int
       compare(const _CharT* __lo1, const _CharT* __hi1,
        const _CharT* __lo2, const _CharT* __hi2) const
       { return this->do_compare(__lo1, __hi1, __lo2, __hi2); }
-# 709 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_classes.h" 3
+# 660 "/usr/include/c++/4.8/bits/locale_classes.h" 3
       string_type
       transform(const _CharT* __lo, const _CharT* __hi) const
       { return this->do_transform(__lo, __hi); }
-# 723 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_classes.h" 3
+# 674 "/usr/include/c++/4.8/bits/locale_classes.h" 3
       long
       hash(const _CharT* __lo, const _CharT* __hi) const
       { return this->do_hash(__lo, __hi); }
@@ -8948,14 +10337,14 @@ namespace std
       virtual
       ~collate()
       { _S_destroy_c_locale(_M_c_locale_collate); }
-# 752 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_classes.h" 3
+# 703 "/usr/include/c++/4.8/bits/locale_classes.h" 3
       virtual int
       do_compare(const _CharT* __lo1, const _CharT* __hi1,
    const _CharT* __lo2, const _CharT* __hi2) const;
-# 766 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_classes.h" 3
+# 717 "/usr/include/c++/4.8/bits/locale_classes.h" 3
       virtual string_type
       do_transform(const _CharT* __lo, const _CharT* __hi) const;
-# 779 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_classes.h" 3
+# 730 "/usr/include/c++/4.8/bits/locale_classes.h" 3
       virtual long
       do_hash(const _CharT* __lo, const _CharT* __hi) const;
     };
@@ -8984,7 +10373,7 @@ namespace std
 
 
   template<typename _CharT>
-    class __cxx11:: collate_byname : public collate<_CharT>
+    class collate_byname : public collate<_CharT>
     {
     public:
 
@@ -9005,12 +10394,6 @@ namespace std
    }
       }
 
-
-
-
-
-
-
     protected:
       virtual
       ~collate_byname() { }
@@ -9019,12 +10402,12 @@ namespace std
 
 }
 
-# 1 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_classes.tcc" 1 3
-# 37 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_classes.tcc" 3
+# 1 "/usr/include/c++/4.8/bits/locale_classes.tcc" 1 3
+# 37 "/usr/include/c++/4.8/bits/locale_classes.tcc" 3
        
-# 38 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_classes.tcc" 3
+# 38 "/usr/include/c++/4.8/bits/locale_classes.tcc" 3
 
-namespace std
+namespace std __attribute__ ((__visibility__ ("default")))
 {
 
 
@@ -9074,7 +10457,7 @@ namespace std
       return (__collate.compare(__s1.data(), __s1.data() + __s1.length(),
     __s2.data(), __s2.data() + __s2.length()) < 0);
     }
-# 102 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_classes.tcc" 3
+# 102 "/usr/include/c++/4.8/bits/locale_classes.tcc" 3
   template<typename _Facet>
     bool
     has_facet(const locale& __loc) throw()
@@ -9088,7 +10471,7 @@ namespace std
 
 
     }
-# 130 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_classes.tcc" 3
+# 130 "/usr/include/c++/4.8/bits/locale_classes.tcc" 3
   template<typename _Facet>
     const _Facet&
     use_facet(const locale& __loc)
@@ -9256,195 +10639,10 @@ namespace std
 
 
 }
-# 843 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_classes.h" 2 3
-# 42 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\ios_base.h" 2 3
+# 788 "/usr/include/c++/4.8/bits/locale_classes.h" 2 3
+# 42 "/usr/include/c++/4.8/bits/ios_base.h" 2 3
 
-
-# 1 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\stdexcept" 1 3
-# 36 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\stdexcept" 3
-       
-# 37 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\stdexcept" 3
-
-
-
-
-namespace std
-{
-
-
-
-
-
-  struct __cow_string
-  {
-    union {
-      const char* _M_p;
-      char _M_bytes[sizeof(const char*)];
-    };
-
-    __cow_string();
-    __cow_string(const std::string&);
-    __cow_string(const char*, size_t);
-    __cow_string(const __cow_string&) throw();
-    __cow_string& operator=(const __cow_string&) throw();
-    ~__cow_string();
-
-
-
-
-  };
-
-  typedef basic_string<char> __sso_string;
-# 113 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\stdexcept" 3
-  class logic_error : public exception
-  {
-    __cow_string _M_msg;
-
-  public:
-
-    explicit
-    logic_error(const string& __arg);
-
-
-
-
-
-
-
-    logic_error(const logic_error&) throw();
-    logic_error& operator=(const logic_error&) throw();
-
-
-    virtual ~logic_error() throw();
-
-
-
-    virtual const char*
-    what() const throw();
-  };
-
-
-
-  class domain_error : public logic_error
-  {
-  public:
-    explicit domain_error(const string& __arg);
-
-
-
-    virtual ~domain_error() throw();
-  };
-
-
-  class invalid_argument : public logic_error
-  {
-  public:
-    explicit invalid_argument(const string& __arg);
-
-
-
-    virtual ~invalid_argument() throw();
-  };
-
-
-
-  class length_error : public logic_error
-  {
-  public:
-    explicit length_error(const string& __arg);
-
-
-
-    virtual ~length_error() throw();
-  };
-
-
-
-  class out_of_range : public logic_error
-  {
-  public:
-    explicit out_of_range(const string& __arg);
-
-
-
-    virtual ~out_of_range() throw();
-  };
-
-
-
-
-
-
-  class runtime_error : public exception
-  {
-    __cow_string _M_msg;
-
-  public:
-
-    explicit
-    runtime_error(const string& __arg);
-
-
-
-
-
-
-
-    runtime_error(const runtime_error&) throw();
-    runtime_error& operator=(const runtime_error&) throw();
-
-
-    virtual ~runtime_error() throw();
-
-
-
-    virtual const char*
-    what() const throw();
-  };
-
-
-  class range_error : public runtime_error
-  {
-  public:
-    explicit range_error(const string& __arg);
-
-
-
-    virtual ~range_error() throw();
-  };
-
-
-  class overflow_error : public runtime_error
-  {
-  public:
-    explicit overflow_error(const string& __arg);
-
-
-
-    virtual ~overflow_error() throw();
-  };
-
-
-  class underflow_error : public runtime_error
-  {
-  public:
-    explicit underflow_error(const string& __arg);
-
-
-
-    virtual ~underflow_error() throw();
-  };
-
-
-
-
-}
-# 45 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\ios_base.h" 2 3
-
-
-
-
-namespace std
+namespace std __attribute__ ((__visibility__ ("default")))
 {
 
 
@@ -9473,8 +10671,8 @@ namespace std
       _S_basefield = _S_dec | _S_oct | _S_hex,
       _S_floatfield = _S_scientific | _S_fixed,
       _S_ios_fmtflags_end = 1L << 16,
-      _S_ios_fmtflags_max = 0x7fffffff,
-      _S_ios_fmtflags_min = ~0x7fffffff
+      _S_ios_fmtflags_max = 2147483647,
+      _S_ios_fmtflags_min = ~2147483647
     };
 
   inline _Ios_Fmtflags
@@ -9515,8 +10713,8 @@ namespace std
       _S_out = 1L << 4,
       _S_trunc = 1L << 5,
       _S_ios_openmode_end = 1L << 16,
-      _S_ios_openmode_max = 0x7fffffff,
-      _S_ios_openmode_min = ~0x7fffffff
+      _S_ios_openmode_max = 2147483647,
+      _S_ios_openmode_min = ~2147483647
     };
 
   inline _Ios_Openmode
@@ -9555,8 +10753,8 @@ namespace std
       _S_eofbit = 1L << 1,
       _S_failbit = 1L << 2,
       _S_ios_iostate_end = 1L << 16,
-      _S_ios_iostate_max = 0x7fffffff,
-      _S_ios_iostate_min = ~0x7fffffff
+      _S_ios_iostate_max = 2147483647,
+      _S_ios_iostate_min = ~2147483647
     };
 
   inline _Ios_Iostate
@@ -9595,40 +10793,37 @@ namespace std
       _S_end = 2,
       _S_ios_seekdir_end = 1L << 16
     };
-# 228 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\ios_base.h" 3
+# 205 "/usr/include/c++/4.8/bits/ios_base.h" 3
   class ios_base
   {
-
-
-
-    struct system_error : std::runtime_error
-    {
-
-      struct error_code
-      {
- error_code() { }
-      private:
- int _M_value;
- const void* _M_cat;
-      } _M_code;
-    };
-
-
   public:
-# 255 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\ios_base.h" 3
-    class __attribute ((__abi_tag__ ("cxx11"))) failure : public system_error
+
+
+
+
+
+
+
+    class failure : public exception
     {
     public:
+
+
       explicit
-      failure(const string& __str);
-# 269 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\ios_base.h" 3
+      failure(const string& __str) throw();
+
+
+
       virtual
       ~failure() throw();
 
       virtual const char*
       what() const throw();
+
+    private:
+      string _M_msg;
     };
-# 323 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\ios_base.h" 3
+# 261 "/usr/include/c++/4.8/bits/ios_base.h" 3
     typedef _Ios_Fmtflags fmtflags;
 
 
@@ -9691,7 +10886,7 @@ namespace std
 
 
     static const fmtflags floatfield = _S_floatfield;
-# 398 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\ios_base.h" 3
+# 336 "/usr/include/c++/4.8/bits/ios_base.h" 3
     typedef _Ios_Iostate iostate;
 
 
@@ -9708,7 +10903,7 @@ namespace std
 
 
     static const iostate goodbit = _S_goodbit;
-# 429 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\ios_base.h" 3
+# 367 "/usr/include/c++/4.8/bits/ios_base.h" 3
     typedef _Ios_Openmode openmode;
 
 
@@ -9730,7 +10925,7 @@ namespace std
 
 
     static const openmode trunc = _S_trunc;
-# 461 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\ios_base.h" 3
+# 399 "/usr/include/c++/4.8/bits/ios_base.h" 3
     typedef _Ios_Seekdir seekdir;
 
 
@@ -9749,16 +10944,16 @@ namespace std
 
     typedef std::streampos streampos;
     typedef std::streamoff streamoff;
-# 487 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\ios_base.h" 3
+# 425 "/usr/include/c++/4.8/bits/ios_base.h" 3
     enum event
     {
       erase_event,
       imbue_event,
       copyfmt_event
     };
-# 504 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\ios_base.h" 3
+# 442 "/usr/include/c++/4.8/bits/ios_base.h" 3
     typedef void (*event_callback) (event __e, ios_base& __b, int __i);
-# 516 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\ios_base.h" 3
+# 454 "/usr/include/c++/4.8/bits/ios_base.h" 3
     void
     register_callback(event_callback __fn, int __index);
 
@@ -9864,7 +11059,7 @@ namespace std
     fmtflags
     flags() const
     { return _M_flags; }
-# 629 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\ios_base.h" 3
+# 567 "/usr/include/c++/4.8/bits/ios_base.h" 3
     fmtflags
     flags(fmtflags __fmtfl)
     {
@@ -9872,7 +11067,7 @@ namespace std
       _M_flags = __fmtfl;
       return __old;
     }
-# 645 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\ios_base.h" 3
+# 583 "/usr/include/c++/4.8/bits/ios_base.h" 3
     fmtflags
     setf(fmtflags __fmtfl)
     {
@@ -9880,7 +11075,7 @@ namespace std
       _M_flags |= __fmtfl;
       return __old;
     }
-# 662 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\ios_base.h" 3
+# 600 "/usr/include/c++/4.8/bits/ios_base.h" 3
     fmtflags
     setf(fmtflags __fmtfl, fmtflags __mask)
     {
@@ -9899,7 +11094,7 @@ namespace std
     void
     unsetf(fmtflags __mask)
     { _M_flags &= ~__mask; }
-# 688 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\ios_base.h" 3
+# 626 "/usr/include/c++/4.8/bits/ios_base.h" 3
     streamsize
     precision() const
     { return _M_precision; }
@@ -9939,24 +11134,24 @@ namespace std
       _M_width = __wide;
       return __old;
     }
-# 739 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\ios_base.h" 3
+# 677 "/usr/include/c++/4.8/bits/ios_base.h" 3
     static bool
     sync_with_stdio(bool __sync = true);
-# 751 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\ios_base.h" 3
+# 689 "/usr/include/c++/4.8/bits/ios_base.h" 3
     locale
     imbue(const locale& __loc) throw();
-# 762 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\ios_base.h" 3
+# 700 "/usr/include/c++/4.8/bits/ios_base.h" 3
     locale
     getloc() const
     { return _M_ios_locale; }
-# 773 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\ios_base.h" 3
+# 711 "/usr/include/c++/4.8/bits/ios_base.h" 3
     const locale&
     _M_getloc() const
     { return _M_ios_locale; }
-# 792 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\ios_base.h" 3
+# 730 "/usr/include/c++/4.8/bits/ios_base.h" 3
     static int
     xalloc() throw();
-# 808 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\ios_base.h" 3
+# 746 "/usr/include/c++/4.8/bits/ios_base.h" 3
     long&
     iword(int __ix)
     {
@@ -9964,7 +11159,7 @@ namespace std
    ? _M_word[__ix] : _M_grow_words(__ix, true);
       return __word._M_iword;
     }
-# 829 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\ios_base.h" 3
+# 767 "/usr/include/c++/4.8/bits/ios_base.h" 3
     void*&
     pword(int __ix)
     {
@@ -9972,12 +11167,11 @@ namespace std
    ? _M_word[__ix] : _M_grow_words(__ix, false);
       return __word._M_pword;
     }
-# 846 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\ios_base.h" 3
+# 784 "/usr/include/c++/4.8/bits/ios_base.h" 3
     virtual ~ios_base();
 
   protected:
     ios_base() throw ();
-
 
 
 
@@ -9986,7 +11180,6 @@ namespace std
 
     ios_base&
     operator=(const ios_base&);
-# 873 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\ios_base.h" 3
   };
 
 
@@ -10168,16 +11361,16 @@ namespace std
     __base.setf(ios_base::scientific, ios_base::floatfield);
     return __base;
   }
-# 1076 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\ios_base.h" 3
+
 
 }
-# 43 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\ios" 2 3
-# 1 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\streambuf" 1 3
-# 36 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\streambuf" 3
+# 43 "/usr/include/c++/4.8/ios" 2 3
+# 1 "/usr/include/c++/4.8/streambuf" 1 3
+# 36 "/usr/include/c++/4.8/streambuf" 3
        
-# 37 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\streambuf" 3
-# 45 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\streambuf" 3
-namespace std
+# 37 "/usr/include/c++/4.8/streambuf" 3
+# 45 "/usr/include/c++/4.8/streambuf" 3
+namespace std __attribute__ ((__visibility__ ("default")))
 {
 
 
@@ -10185,7 +11378,7 @@ namespace std
     streamsize
     __copy_streambufs_eof(basic_streambuf<_CharT, _Traits>*,
      basic_streambuf<_CharT, _Traits>*, bool&);
-# 119 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\streambuf" 3
+# 119 "/usr/include/c++/4.8/streambuf" 3
   template<typename _CharT, typename _Traits>
     class basic_streambuf
     {
@@ -10266,7 +11459,7 @@ namespace std
       virtual
       ~basic_streambuf()
       { }
-# 208 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\streambuf" 3
+# 208 "/usr/include/c++/4.8/streambuf" 3
       locale
       pubimbue(const locale& __loc)
       {
@@ -10275,20 +11468,20 @@ namespace std
  _M_buf_locale = __loc;
  return __tmp;
       }
-# 225 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\streambuf" 3
+# 225 "/usr/include/c++/4.8/streambuf" 3
       locale
       getloc() const
       { return _M_buf_locale; }
-# 238 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\streambuf" 3
+# 238 "/usr/include/c++/4.8/streambuf" 3
       basic_streambuf*
       pubsetbuf(char_type* __s, streamsize __n)
       { return this->setbuf(__s, __n); }
-# 250 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\streambuf" 3
+# 250 "/usr/include/c++/4.8/streambuf" 3
       pos_type
       pubseekoff(off_type __off, ios_base::seekdir __way,
    ios_base::openmode __mode = ios_base::in | ios_base::out)
       { return this->seekoff(__off, __way, __mode); }
-# 262 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\streambuf" 3
+# 262 "/usr/include/c++/4.8/streambuf" 3
       pos_type
       pubseekpos(pos_type __sp,
    ios_base::openmode __mode = ios_base::in | ios_base::out)
@@ -10299,14 +11492,14 @@ namespace std
 
       int
       pubsync() { return this->sync(); }
-# 283 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\streambuf" 3
+# 283 "/usr/include/c++/4.8/streambuf" 3
       streamsize
       in_avail()
       {
  const streamsize __ret = this->egptr() - this->gptr();
  return __ret ? __ret : this->showmanyc();
       }
-# 297 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\streambuf" 3
+# 297 "/usr/include/c++/4.8/streambuf" 3
       int_type
       snextc()
       {
@@ -10316,7 +11509,7 @@ namespace std
    __ret = this->sgetc();
  return __ret;
       }
-# 315 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\streambuf" 3
+# 315 "/usr/include/c++/4.8/streambuf" 3
       int_type
       sbumpc()
       {
@@ -10330,7 +11523,7 @@ namespace std
    __ret = this->uflow();
  return __ret;
       }
-# 337 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\streambuf" 3
+# 337 "/usr/include/c++/4.8/streambuf" 3
       int_type
       sgetc()
       {
@@ -10341,11 +11534,11 @@ namespace std
    __ret = this->underflow();
  return __ret;
       }
-# 356 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\streambuf" 3
+# 356 "/usr/include/c++/4.8/streambuf" 3
       streamsize
       sgetn(char_type* __s, streamsize __n)
       { return this->xsgetn(__s, __n); }
-# 371 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\streambuf" 3
+# 371 "/usr/include/c++/4.8/streambuf" 3
       int_type
       sputbackc(char_type __c)
       {
@@ -10361,7 +11554,7 @@ namespace std
    }
  return __ret;
       }
-# 396 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\streambuf" 3
+# 396 "/usr/include/c++/4.8/streambuf" 3
       int_type
       sungetc()
       {
@@ -10375,7 +11568,7 @@ namespace std
    __ret = this->pbackfail();
  return __ret;
       }
-# 423 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\streambuf" 3
+# 423 "/usr/include/c++/4.8/streambuf" 3
       int_type
       sputc(char_type __c)
       {
@@ -10390,19 +11583,19 @@ namespace std
    __ret = this->overflow(traits_type::to_int_type(__c));
  return __ret;
       }
-# 449 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\streambuf" 3
+# 449 "/usr/include/c++/4.8/streambuf" 3
       streamsize
       sputn(const char_type* __s, streamsize __n)
       { return this->xsputn(__s, __n); }
 
     protected:
-# 463 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\streambuf" 3
+# 463 "/usr/include/c++/4.8/streambuf" 3
       basic_streambuf()
       : _M_in_beg(0), _M_in_cur(0), _M_in_end(0),
       _M_out_beg(0), _M_out_cur(0), _M_out_end(0),
       _M_buf_locale(locale())
       { }
-# 481 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\streambuf" 3
+# 481 "/usr/include/c++/4.8/streambuf" 3
       char_type*
       eback() const { return _M_in_beg; }
 
@@ -10411,10 +11604,10 @@ namespace std
 
       char_type*
       egptr() const { return _M_in_end; }
-# 497 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\streambuf" 3
+# 497 "/usr/include/c++/4.8/streambuf" 3
       void
       gbump(int __n) { _M_in_cur += __n; }
-# 508 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\streambuf" 3
+# 508 "/usr/include/c++/4.8/streambuf" 3
       void
       setg(char_type* __gbeg, char_type* __gnext, char_type* __gend)
       {
@@ -10422,7 +11615,7 @@ namespace std
  _M_in_cur = __gnext;
  _M_in_end = __gend;
       }
-# 528 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\streambuf" 3
+# 528 "/usr/include/c++/4.8/streambuf" 3
       char_type*
       pbase() const { return _M_out_beg; }
 
@@ -10431,48 +11624,48 @@ namespace std
 
       char_type*
       epptr() const { return _M_out_end; }
-# 544 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\streambuf" 3
+# 544 "/usr/include/c++/4.8/streambuf" 3
       void
       pbump(int __n) { _M_out_cur += __n; }
-# 554 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\streambuf" 3
+# 554 "/usr/include/c++/4.8/streambuf" 3
       void
       setp(char_type* __pbeg, char_type* __pend)
       {
  _M_out_beg = _M_out_cur = __pbeg;
  _M_out_end = __pend;
       }
-# 575 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\streambuf" 3
+# 575 "/usr/include/c++/4.8/streambuf" 3
       virtual void
       imbue(const locale& __loc)
       { }
-# 590 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\streambuf" 3
+# 590 "/usr/include/c++/4.8/streambuf" 3
       virtual basic_streambuf<char_type,_Traits>*
       setbuf(char_type*, streamsize)
       { return this; }
-# 601 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\streambuf" 3
+# 601 "/usr/include/c++/4.8/streambuf" 3
       virtual pos_type
       seekoff(off_type, ios_base::seekdir,
        ios_base::openmode = ios_base::in | ios_base::out)
       { return pos_type(off_type(-1)); }
-# 613 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\streambuf" 3
+# 613 "/usr/include/c++/4.8/streambuf" 3
       virtual pos_type
       seekpos(pos_type,
        ios_base::openmode = ios_base::in | ios_base::out)
       { return pos_type(off_type(-1)); }
-# 626 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\streambuf" 3
+# 626 "/usr/include/c++/4.8/streambuf" 3
       virtual int
       sync() { return 0; }
-# 648 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\streambuf" 3
+# 648 "/usr/include/c++/4.8/streambuf" 3
       virtual streamsize
       showmanyc() { return 0; }
-# 664 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\streambuf" 3
+# 664 "/usr/include/c++/4.8/streambuf" 3
       virtual streamsize
       xsgetn(char_type* __s, streamsize __n);
-# 686 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\streambuf" 3
+# 686 "/usr/include/c++/4.8/streambuf" 3
       virtual int_type
       underflow()
       { return traits_type::eof(); }
-# 699 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\streambuf" 3
+# 699 "/usr/include/c++/4.8/streambuf" 3
       virtual int_type
       uflow()
       {
@@ -10486,14 +11679,14 @@ namespace std
    }
  return __ret;
       }
-# 723 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\streambuf" 3
+# 723 "/usr/include/c++/4.8/streambuf" 3
       virtual int_type
       pbackfail(int_type __c = traits_type::eof())
       { return traits_type::eof(); }
-# 741 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\streambuf" 3
+# 741 "/usr/include/c++/4.8/streambuf" 3
       virtual streamsize
       xsputn(const char_type* __s, streamsize __n);
-# 767 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\streambuf" 3
+# 767 "/usr/include/c++/4.8/streambuf" 3
       virtual int_type
       overflow(int_type __c = traits_type::eof())
       { return traits_type::eof(); }
@@ -10501,7 +11694,7 @@ namespace std
 
 
     public:
-# 782 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\streambuf" 3
+# 782 "/usr/include/c++/4.8/streambuf" 3
       void
       stossc()
       {
@@ -10519,18 +11712,21 @@ namespace std
       void
       __safe_pbump(streamsize __n) { _M_out_cur += __n; }
 
-
     private:
 
 
-
-      basic_streambuf(const basic_streambuf&);
+      basic_streambuf(const basic_streambuf& __sb)
+      : _M_in_beg(__sb._M_in_beg), _M_in_cur(__sb._M_in_cur),
+      _M_in_end(__sb._M_in_end), _M_out_beg(__sb._M_out_beg),
+      _M_out_cur(__sb._M_out_cur), _M_out_end(__sb._M_out_cur),
+      _M_buf_locale(__sb._M_buf_locale)
+      { }
 
       basic_streambuf&
-      operator=(const basic_streambuf&);
-# 822 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\streambuf" 3
+      operator=(const basic_streambuf&) { return *this; };
     };
-# 836 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\streambuf" 3
+
+
   template<>
     streamsize
     __copy_streambufs_eof(basic_streambuf<char>* __sbin,
@@ -10545,12 +11741,12 @@ namespace std
 
 }
 
-# 1 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\streambuf.tcc" 1 3
-# 37 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\streambuf.tcc" 3
+# 1 "/usr/include/c++/4.8/bits/streambuf.tcc" 1 3
+# 37 "/usr/include/c++/4.8/bits/streambuf.tcc" 3
        
-# 38 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\streambuf.tcc" 3
+# 38 "/usr/include/c++/4.8/bits/streambuf.tcc" 3
 
-namespace std
+namespace std __attribute__ ((__visibility__ ("default")))
 {
 
 
@@ -10685,25 +11881,264 @@ namespace std
 
 
 }
-# 851 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\streambuf" 2 3
-# 44 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\ios" 2 3
-# 1 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\basic_ios.h" 1 3
-# 33 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\basic_ios.h" 3
+# 829 "/usr/include/c++/4.8/streambuf" 2 3
+# 44 "/usr/include/c++/4.8/ios" 2 3
+# 1 "/usr/include/c++/4.8/bits/basic_ios.h" 1 3
+# 33 "/usr/include/c++/4.8/bits/basic_ios.h" 3
        
-# 34 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\basic_ios.h" 3
+# 34 "/usr/include/c++/4.8/bits/basic_ios.h" 3
 
 
 
-# 1 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_facets.h" 1 3
-# 37 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_facets.h" 3
+# 1 "/usr/include/c++/4.8/bits/locale_facets.h" 1 3
+# 37 "/usr/include/c++/4.8/bits/locale_facets.h" 3
        
-# 38 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_facets.h" 3
+# 38 "/usr/include/c++/4.8/bits/locale_facets.h" 3
 
-# 1 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\cwctype" 1 3
-# 39 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\cwctype" 3
+# 1 "/usr/include/c++/4.8/cwctype" 1 3
+# 39 "/usr/include/c++/4.8/cwctype" 3
        
-# 40 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\cwctype" 3
-# 80 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\cwctype" 3
+# 40 "/usr/include/c++/4.8/cwctype" 3
+# 50 "/usr/include/c++/4.8/cwctype" 3
+# 1 "/usr/include/wctype.h" 1 3 4
+# 33 "/usr/include/wctype.h" 3 4
+# 1 "/usr/include/wchar.h" 1 3 4
+# 34 "/usr/include/wctype.h" 2 3 4
+# 49 "/usr/include/wctype.h" 3 4
+
+
+
+typedef unsigned long int wctype_t;
+
+# 71 "/usr/include/wctype.h" 3 4
+enum
+{
+  __ISwupper = 0,
+  __ISwlower = 1,
+  __ISwalpha = 2,
+  __ISwdigit = 3,
+  __ISwxdigit = 4,
+  __ISwspace = 5,
+  __ISwprint = 6,
+  __ISwgraph = 7,
+  __ISwblank = 8,
+  __ISwcntrl = 9,
+  __ISwpunct = 10,
+  __ISwalnum = 11,
+
+  _ISwupper = ((__ISwupper) < 8 ? (int) ((1UL << (__ISwupper)) << 24) : ((__ISwupper) < 16 ? (int) ((1UL << (__ISwupper)) << 8) : ((__ISwupper) < 24 ? (int) ((1UL << (__ISwupper)) >> 8) : (int) ((1UL << (__ISwupper)) >> 24)))),
+  _ISwlower = ((__ISwlower) < 8 ? (int) ((1UL << (__ISwlower)) << 24) : ((__ISwlower) < 16 ? (int) ((1UL << (__ISwlower)) << 8) : ((__ISwlower) < 24 ? (int) ((1UL << (__ISwlower)) >> 8) : (int) ((1UL << (__ISwlower)) >> 24)))),
+  _ISwalpha = ((__ISwalpha) < 8 ? (int) ((1UL << (__ISwalpha)) << 24) : ((__ISwalpha) < 16 ? (int) ((1UL << (__ISwalpha)) << 8) : ((__ISwalpha) < 24 ? (int) ((1UL << (__ISwalpha)) >> 8) : (int) ((1UL << (__ISwalpha)) >> 24)))),
+  _ISwdigit = ((__ISwdigit) < 8 ? (int) ((1UL << (__ISwdigit)) << 24) : ((__ISwdigit) < 16 ? (int) ((1UL << (__ISwdigit)) << 8) : ((__ISwdigit) < 24 ? (int) ((1UL << (__ISwdigit)) >> 8) : (int) ((1UL << (__ISwdigit)) >> 24)))),
+  _ISwxdigit = ((__ISwxdigit) < 8 ? (int) ((1UL << (__ISwxdigit)) << 24) : ((__ISwxdigit) < 16 ? (int) ((1UL << (__ISwxdigit)) << 8) : ((__ISwxdigit) < 24 ? (int) ((1UL << (__ISwxdigit)) >> 8) : (int) ((1UL << (__ISwxdigit)) >> 24)))),
+  _ISwspace = ((__ISwspace) < 8 ? (int) ((1UL << (__ISwspace)) << 24) : ((__ISwspace) < 16 ? (int) ((1UL << (__ISwspace)) << 8) : ((__ISwspace) < 24 ? (int) ((1UL << (__ISwspace)) >> 8) : (int) ((1UL << (__ISwspace)) >> 24)))),
+  _ISwprint = ((__ISwprint) < 8 ? (int) ((1UL << (__ISwprint)) << 24) : ((__ISwprint) < 16 ? (int) ((1UL << (__ISwprint)) << 8) : ((__ISwprint) < 24 ? (int) ((1UL << (__ISwprint)) >> 8) : (int) ((1UL << (__ISwprint)) >> 24)))),
+  _ISwgraph = ((__ISwgraph) < 8 ? (int) ((1UL << (__ISwgraph)) << 24) : ((__ISwgraph) < 16 ? (int) ((1UL << (__ISwgraph)) << 8) : ((__ISwgraph) < 24 ? (int) ((1UL << (__ISwgraph)) >> 8) : (int) ((1UL << (__ISwgraph)) >> 24)))),
+  _ISwblank = ((__ISwblank) < 8 ? (int) ((1UL << (__ISwblank)) << 24) : ((__ISwblank) < 16 ? (int) ((1UL << (__ISwblank)) << 8) : ((__ISwblank) < 24 ? (int) ((1UL << (__ISwblank)) >> 8) : (int) ((1UL << (__ISwblank)) >> 24)))),
+  _ISwcntrl = ((__ISwcntrl) < 8 ? (int) ((1UL << (__ISwcntrl)) << 24) : ((__ISwcntrl) < 16 ? (int) ((1UL << (__ISwcntrl)) << 8) : ((__ISwcntrl) < 24 ? (int) ((1UL << (__ISwcntrl)) >> 8) : (int) ((1UL << (__ISwcntrl)) >> 24)))),
+  _ISwpunct = ((__ISwpunct) < 8 ? (int) ((1UL << (__ISwpunct)) << 24) : ((__ISwpunct) < 16 ? (int) ((1UL << (__ISwpunct)) << 8) : ((__ISwpunct) < 24 ? (int) ((1UL << (__ISwpunct)) >> 8) : (int) ((1UL << (__ISwpunct)) >> 24)))),
+  _ISwalnum = ((__ISwalnum) < 8 ? (int) ((1UL << (__ISwalnum)) << 24) : ((__ISwalnum) < 16 ? (int) ((1UL << (__ISwalnum)) << 8) : ((__ISwalnum) < 24 ? (int) ((1UL << (__ISwalnum)) >> 8) : (int) ((1UL << (__ISwalnum)) >> 24))))
+};
+
+
+
+extern "C" {
+
+
+
+
+
+
+
+
+extern int iswalnum (wint_t __wc) throw ();
+
+
+
+
+
+extern int iswalpha (wint_t __wc) throw ();
+
+
+extern int iswcntrl (wint_t __wc) throw ();
+
+
+
+extern int iswdigit (wint_t __wc) throw ();
+
+
+
+extern int iswgraph (wint_t __wc) throw ();
+
+
+
+
+extern int iswlower (wint_t __wc) throw ();
+
+
+extern int iswprint (wint_t __wc) throw ();
+
+
+
+
+extern int iswpunct (wint_t __wc) throw ();
+
+
+
+
+extern int iswspace (wint_t __wc) throw ();
+
+
+
+
+extern int iswupper (wint_t __wc) throw ();
+
+
+
+
+extern int iswxdigit (wint_t __wc) throw ();
+
+
+
+
+
+extern int iswblank (wint_t __wc) throw ();
+# 171 "/usr/include/wctype.h" 3 4
+extern wctype_t wctype (const char *__property) throw ();
+
+
+
+extern int iswctype (wint_t __wc, wctype_t __desc) throw ();
+
+
+
+
+
+
+
+
+
+
+typedef const __int32_t *wctrans_t;
+
+
+
+
+
+
+
+extern wint_t towlower (wint_t __wc) throw ();
+
+
+extern wint_t towupper (wint_t __wc) throw ();
+
+
+}
+# 213 "/usr/include/wctype.h" 3 4
+extern "C" {
+
+
+
+
+extern wctrans_t wctrans (const char *__property) throw ();
+
+
+extern wint_t towctrans (wint_t __wc, wctrans_t __desc) throw ();
+
+
+
+
+
+
+
+
+extern int iswalnum_l (wint_t __wc, __locale_t __locale) throw ();
+
+
+
+
+
+extern int iswalpha_l (wint_t __wc, __locale_t __locale) throw ();
+
+
+extern int iswcntrl_l (wint_t __wc, __locale_t __locale) throw ();
+
+
+
+extern int iswdigit_l (wint_t __wc, __locale_t __locale) throw ();
+
+
+
+extern int iswgraph_l (wint_t __wc, __locale_t __locale) throw ();
+
+
+
+
+extern int iswlower_l (wint_t __wc, __locale_t __locale) throw ();
+
+
+extern int iswprint_l (wint_t __wc, __locale_t __locale) throw ();
+
+
+
+
+extern int iswpunct_l (wint_t __wc, __locale_t __locale) throw ();
+
+
+
+
+extern int iswspace_l (wint_t __wc, __locale_t __locale) throw ();
+
+
+
+
+extern int iswupper_l (wint_t __wc, __locale_t __locale) throw ();
+
+
+
+
+extern int iswxdigit_l (wint_t __wc, __locale_t __locale) throw ();
+
+
+
+
+extern int iswblank_l (wint_t __wc, __locale_t __locale) throw ();
+
+
+
+extern wctype_t wctype_l (const char *__property, __locale_t __locale)
+     throw ();
+
+
+
+extern int iswctype_l (wint_t __wc, wctype_t __desc, __locale_t __locale)
+     throw ();
+
+
+
+
+
+
+
+extern wint_t towlower_l (wint_t __wc, __locale_t __locale) throw ();
+
+
+extern wint_t towupper_l (wint_t __wc, __locale_t __locale) throw ();
+
+
+
+extern wctrans_t wctrans_l (const char *__property, __locale_t __locale)
+     throw ();
+
+
+extern wint_t towctrans_l (wint_t __wc, wctrans_t __desc,
+      __locale_t __locale) throw ();
+
+
+
+}
+# 51 "/usr/include/c++/4.8/cwctype" 2 3
+# 80 "/usr/include/c++/4.8/cwctype" 3
 namespace std
 {
   using ::wctrans_t;
@@ -10731,15 +12166,15 @@ namespace std
   using ::wctrans;
   using ::wctype;
 }
-# 40 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_facets.h" 2 3
-# 1 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\cctype" 1 3
-# 39 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\cctype" 3
+# 40 "/usr/include/c++/4.8/bits/locale_facets.h" 2 3
+# 1 "/usr/include/c++/4.8/cctype" 1 3
+# 39 "/usr/include/c++/4.8/cctype" 3
        
-# 40 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\cctype" 3
-# 41 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_facets.h" 2 3
-# 1 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\mingw32\\bits\\ctype_base.h" 1 3
-# 37 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\mingw32\\bits\\ctype_base.h" 3
-namespace std
+# 40 "/usr/include/c++/4.8/cctype" 3
+# 41 "/usr/include/c++/4.8/bits/locale_facets.h" 2 3
+# 1 "/usr/include/i386-linux-gnu/c++/4.8/bits/ctype_base.h" 1 3
+# 36 "/usr/include/i386-linux-gnu/c++/4.8/bits/ctype_base.h" 3
+namespace std __attribute__ ((__visibility__ ("default")))
 {
 
 
@@ -10752,43 +12187,40 @@ namespace std
 
 
     typedef unsigned short mask;
-    static const mask upper = 1 << 0;
-    static const mask lower = 1 << 1;
-    static const mask alpha = 1 << 2;
-    static const mask digit = 1 << 3;
-    static const mask xdigit = 1 << 4;
-    static const mask space = 1 << 5;
-    static const mask print = 1 << 6;
-    static const mask graph = (1 << 2) | (1 << 3) | (1 << 9);
-    static const mask cntrl = 1 << 8;
-    static const mask punct = 1 << 9;
-    static const mask alnum = (1 << 2) | (1 << 3);
-
-
-
+    static const mask upper = _ISupper;
+    static const mask lower = _ISlower;
+    static const mask alpha = _ISalpha;
+    static const mask digit = _ISdigit;
+    static const mask xdigit = _ISxdigit;
+    static const mask space = _ISspace;
+    static const mask print = _ISprint;
+    static const mask graph = _ISalpha | _ISdigit | _ISpunct;
+    static const mask cntrl = _IScntrl;
+    static const mask punct = _ISpunct;
+    static const mask alnum = _ISalpha | _ISdigit;
   };
 
 
 }
-# 42 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_facets.h" 2 3
+# 42 "/usr/include/c++/4.8/bits/locale_facets.h" 2 3
 
 
 
 
 
 
-# 1 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\streambuf_iterator.h" 1 3
-# 33 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\streambuf_iterator.h" 3
+# 1 "/usr/include/c++/4.8/bits/streambuf_iterator.h" 1 3
+# 33 "/usr/include/c++/4.8/bits/streambuf_iterator.h" 3
        
-# 34 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\streambuf_iterator.h" 3
+# 34 "/usr/include/c++/4.8/bits/streambuf_iterator.h" 3
 
 
 
 
-namespace std
+namespace std __attribute__ ((__visibility__ ("default")))
 {
 
-# 49 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\streambuf_iterator.h" 3
+# 49 "/usr/include/c++/4.8/bits/streambuf_iterator.h" 3
   template<typename _CharT, typename _Traits>
     class istreambuf_iterator
     : public iterator<input_iterator_tag, _CharT, typename _Traits::off_type,
@@ -10844,7 +12276,7 @@ namespace std
 
       istreambuf_iterator() throw()
       : _M_sbuf(0), _M_c(traits_type::eof()) { }
-# 112 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\streambuf_iterator.h" 3
+# 112 "/usr/include/c++/4.8/bits/streambuf_iterator.h" 3
       istreambuf_iterator(istream_type& __s) throw()
       : _M_sbuf(__s.rdbuf()), _M_c(traits_type::eof()) { }
 
@@ -11144,12 +12576,12 @@ namespace std
 
 
 }
-# 49 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_facets.h" 2 3
+# 49 "/usr/include/c++/4.8/bits/locale_facets.h" 2 3
 
-namespace std
+namespace std __attribute__ ((__visibility__ ("default")))
 {
 
-# 71 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_facets.h" 3
+# 64 "/usr/include/c++/4.8/bits/locale_facets.h" 3
   template<typename _Tp>
     void
     __convert_to_v(const char*, _Tp&, ios_base::iostate&,
@@ -11214,7 +12646,7 @@ namespace std
  *__s = __ws[__j];
       return __s;
     }
-# 149 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_facets.h" 3
+# 142 "/usr/include/c++/4.8/bits/locale_facets.h" 3
   template<typename _CharT>
     class __ctype_abstract_base : public locale::facet, public ctype_base
     {
@@ -11222,51 +12654,51 @@ namespace std
 
 
       typedef _CharT char_type;
-# 168 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_facets.h" 3
+# 161 "/usr/include/c++/4.8/bits/locale_facets.h" 3
       bool
       is(mask __m, char_type __c) const
       { return this->do_is(__m, __c); }
-# 185 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_facets.h" 3
+# 178 "/usr/include/c++/4.8/bits/locale_facets.h" 3
       const char_type*
       is(const char_type *__lo, const char_type *__hi, mask *__vec) const
       { return this->do_is(__lo, __hi, __vec); }
-# 201 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_facets.h" 3
+# 194 "/usr/include/c++/4.8/bits/locale_facets.h" 3
       const char_type*
       scan_is(mask __m, const char_type* __lo, const char_type* __hi) const
       { return this->do_scan_is(__m, __lo, __hi); }
-# 217 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_facets.h" 3
+# 210 "/usr/include/c++/4.8/bits/locale_facets.h" 3
       const char_type*
       scan_not(mask __m, const char_type* __lo, const char_type* __hi) const
       { return this->do_scan_not(__m, __lo, __hi); }
-# 231 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_facets.h" 3
+# 224 "/usr/include/c++/4.8/bits/locale_facets.h" 3
       char_type
       toupper(char_type __c) const
       { return this->do_toupper(__c); }
-# 246 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_facets.h" 3
+# 239 "/usr/include/c++/4.8/bits/locale_facets.h" 3
       const char_type*
       toupper(char_type *__lo, const char_type* __hi) const
       { return this->do_toupper(__lo, __hi); }
-# 260 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_facets.h" 3
+# 253 "/usr/include/c++/4.8/bits/locale_facets.h" 3
       char_type
       tolower(char_type __c) const
       { return this->do_tolower(__c); }
-# 275 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_facets.h" 3
+# 268 "/usr/include/c++/4.8/bits/locale_facets.h" 3
       const char_type*
       tolower(char_type* __lo, const char_type* __hi) const
       { return this->do_tolower(__lo, __hi); }
-# 292 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_facets.h" 3
+# 285 "/usr/include/c++/4.8/bits/locale_facets.h" 3
       char_type
       widen(char __c) const
       { return this->do_widen(__c); }
-# 311 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_facets.h" 3
+# 304 "/usr/include/c++/4.8/bits/locale_facets.h" 3
       const char*
       widen(const char* __lo, const char* __hi, char_type* __to) const
       { return this->do_widen(__lo, __hi, __to); }
-# 330 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_facets.h" 3
+# 323 "/usr/include/c++/4.8/bits/locale_facets.h" 3
       char
       narrow(char_type __c, char __dfault) const
       { return this->do_narrow(__c, __dfault); }
-# 352 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_facets.h" 3
+# 345 "/usr/include/c++/4.8/bits/locale_facets.h" 3
       const char_type*
       narrow(const char_type* __lo, const char_type* __hi,
        char __dfault, char* __to) const
@@ -11278,48 +12710,48 @@ namespace std
 
       virtual
       ~__ctype_abstract_base() { }
-# 377 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_facets.h" 3
+# 370 "/usr/include/c++/4.8/bits/locale_facets.h" 3
       virtual bool
       do_is(mask __m, char_type __c) const = 0;
-# 396 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_facets.h" 3
+# 389 "/usr/include/c++/4.8/bits/locale_facets.h" 3
       virtual const char_type*
       do_is(const char_type* __lo, const char_type* __hi,
      mask* __vec) const = 0;
-# 415 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_facets.h" 3
+# 408 "/usr/include/c++/4.8/bits/locale_facets.h" 3
       virtual const char_type*
       do_scan_is(mask __m, const char_type* __lo,
    const char_type* __hi) const = 0;
-# 434 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_facets.h" 3
+# 427 "/usr/include/c++/4.8/bits/locale_facets.h" 3
       virtual const char_type*
       do_scan_not(mask __m, const char_type* __lo,
     const char_type* __hi) const = 0;
-# 452 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_facets.h" 3
+# 445 "/usr/include/c++/4.8/bits/locale_facets.h" 3
       virtual char_type
       do_toupper(char_type __c) const = 0;
-# 469 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_facets.h" 3
+# 462 "/usr/include/c++/4.8/bits/locale_facets.h" 3
       virtual const char_type*
       do_toupper(char_type* __lo, const char_type* __hi) const = 0;
-# 485 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_facets.h" 3
+# 478 "/usr/include/c++/4.8/bits/locale_facets.h" 3
       virtual char_type
       do_tolower(char_type __c) const = 0;
-# 502 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_facets.h" 3
+# 495 "/usr/include/c++/4.8/bits/locale_facets.h" 3
       virtual const char_type*
       do_tolower(char_type* __lo, const char_type* __hi) const = 0;
-# 521 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_facets.h" 3
+# 514 "/usr/include/c++/4.8/bits/locale_facets.h" 3
       virtual char_type
       do_widen(char __c) const = 0;
-# 542 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_facets.h" 3
+# 535 "/usr/include/c++/4.8/bits/locale_facets.h" 3
       virtual const char*
       do_widen(const char* __lo, const char* __hi, char_type* __to) const = 0;
-# 563 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_facets.h" 3
+# 556 "/usr/include/c++/4.8/bits/locale_facets.h" 3
       virtual char
       do_narrow(char_type __c, char __dfault) const = 0;
-# 588 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_facets.h" 3
+# 581 "/usr/include/c++/4.8/bits/locale_facets.h" 3
       virtual const char_type*
       do_narrow(const char_type* __lo, const char_type* __hi,
   char __dfault, char* __to) const = 0;
     };
-# 611 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_facets.h" 3
+# 604 "/usr/include/c++/4.8/bits/locale_facets.h" 3
   template<typename _CharT>
     class ctype : public __ctype_abstract_base<_CharT>
     {
@@ -11379,7 +12811,7 @@ namespace std
 
   template<typename _CharT>
     locale::id ctype<_CharT>::id;
-# 680 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_facets.h" 3
+# 673 "/usr/include/c++/4.8/bits/locale_facets.h" 3
   template<>
     class ctype<char> : public locale::facet, public ctype_base
     {
@@ -11406,42 +12838,42 @@ namespace std
       static locale::id id;
 
       static const size_t table_size = 1 + static_cast<unsigned char>(-1);
-# 717 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_facets.h" 3
+# 710 "/usr/include/c++/4.8/bits/locale_facets.h" 3
       explicit
       ctype(const mask* __table = 0, bool __del = false, size_t __refs = 0);
-# 730 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_facets.h" 3
+# 723 "/usr/include/c++/4.8/bits/locale_facets.h" 3
       explicit
       ctype(__c_locale __cloc, const mask* __table = 0, bool __del = false,
      size_t __refs = 0);
-# 743 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_facets.h" 3
+# 736 "/usr/include/c++/4.8/bits/locale_facets.h" 3
       inline bool
       is(mask __m, char __c) const;
-# 758 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_facets.h" 3
+# 751 "/usr/include/c++/4.8/bits/locale_facets.h" 3
       inline const char*
       is(const char* __lo, const char* __hi, mask* __vec) const;
-# 772 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_facets.h" 3
+# 765 "/usr/include/c++/4.8/bits/locale_facets.h" 3
       inline const char*
       scan_is(mask __m, const char* __lo, const char* __hi) const;
-# 786 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_facets.h" 3
+# 779 "/usr/include/c++/4.8/bits/locale_facets.h" 3
       inline const char*
       scan_not(mask __m, const char* __lo, const char* __hi) const;
-# 801 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_facets.h" 3
+# 794 "/usr/include/c++/4.8/bits/locale_facets.h" 3
       char_type
       toupper(char_type __c) const
       { return this->do_toupper(__c); }
-# 818 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_facets.h" 3
+# 811 "/usr/include/c++/4.8/bits/locale_facets.h" 3
       const char_type*
       toupper(char_type *__lo, const char_type* __hi) const
       { return this->do_toupper(__lo, __hi); }
-# 834 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_facets.h" 3
+# 827 "/usr/include/c++/4.8/bits/locale_facets.h" 3
       char_type
       tolower(char_type __c) const
       { return this->do_tolower(__c); }
-# 851 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_facets.h" 3
+# 844 "/usr/include/c++/4.8/bits/locale_facets.h" 3
       const char_type*
       tolower(char_type* __lo, const char_type* __hi) const
       { return this->do_tolower(__lo, __hi); }
-# 871 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_facets.h" 3
+# 864 "/usr/include/c++/4.8/bits/locale_facets.h" 3
       char_type
       widen(char __c) const
       {
@@ -11450,7 +12882,7 @@ namespace std
  this->_M_widen_init();
  return this->do_widen(__c);
       }
-# 898 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_facets.h" 3
+# 891 "/usr/include/c++/4.8/bits/locale_facets.h" 3
       const char*
       widen(const char* __lo, const char* __hi, char_type* __to) const
       {
@@ -11463,7 +12895,7 @@ namespace std
    _M_widen_init();
  return this->do_widen(__lo, __hi, __to);
       }
-# 929 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_facets.h" 3
+# 922 "/usr/include/c++/4.8/bits/locale_facets.h" 3
       char
       narrow(char_type __c, char __dfault) const
       {
@@ -11474,7 +12906,7 @@ namespace std
    _M_narrow[static_cast<unsigned char>(__c)] = __t;
  return __t;
       }
-# 962 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_facets.h" 3
+# 955 "/usr/include/c++/4.8/bits/locale_facets.h" 3
       const char_type*
       narrow(const char_type* __lo, const char_type* __hi,
       char __dfault, char* __to) const
@@ -11510,34 +12942,34 @@ namespace std
 
       virtual
       ~ctype();
-# 1011 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_facets.h" 3
+# 1004 "/usr/include/c++/4.8/bits/locale_facets.h" 3
       virtual char_type
       do_toupper(char_type __c) const;
-# 1028 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_facets.h" 3
+# 1021 "/usr/include/c++/4.8/bits/locale_facets.h" 3
       virtual const char_type*
       do_toupper(char_type* __lo, const char_type* __hi) const;
-# 1044 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_facets.h" 3
+# 1037 "/usr/include/c++/4.8/bits/locale_facets.h" 3
       virtual char_type
       do_tolower(char_type __c) const;
-# 1061 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_facets.h" 3
+# 1054 "/usr/include/c++/4.8/bits/locale_facets.h" 3
       virtual const char_type*
       do_tolower(char_type* __lo, const char_type* __hi) const;
-# 1081 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_facets.h" 3
+# 1074 "/usr/include/c++/4.8/bits/locale_facets.h" 3
       virtual char_type
       do_widen(char __c) const
       { return __c; }
-# 1104 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_facets.h" 3
+# 1097 "/usr/include/c++/4.8/bits/locale_facets.h" 3
       virtual const char*
       do_widen(const char* __lo, const char* __hi, char_type* __to) const
       {
  __builtin_memcpy(__to, __lo, __hi - __lo);
  return __hi;
       }
-# 1130 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_facets.h" 3
+# 1123 "/usr/include/c++/4.8/bits/locale_facets.h" 3
       virtual char
       do_narrow(char_type __c, char __dfault) const
       { return __c; }
-# 1156 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_facets.h" 3
+# 1149 "/usr/include/c++/4.8/bits/locale_facets.h" 3
       virtual const char_type*
       do_narrow(const char_type* __lo, const char_type* __hi,
   char __dfault, char* __to) const
@@ -11550,7 +12982,7 @@ namespace std
       void _M_narrow_init() const;
       void _M_widen_init() const;
     };
-# 1181 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_facets.h" 3
+# 1174 "/usr/include/c++/4.8/bits/locale_facets.h" 3
   template<>
     class ctype<wchar_t> : public __ctype_abstract_base<wchar_t>
     {
@@ -11576,10 +13008,10 @@ namespace std
 
 
       static locale::id id;
-# 1214 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_facets.h" 3
+# 1207 "/usr/include/c++/4.8/bits/locale_facets.h" 3
       explicit
       ctype(size_t __refs = 0);
-# 1225 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_facets.h" 3
+# 1218 "/usr/include/c++/4.8/bits/locale_facets.h" 3
       explicit
       ctype(__c_locale __cloc, size_t __refs = 0);
 
@@ -11590,41 +13022,41 @@ namespace std
 
       virtual
       ~ctype();
-# 1249 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_facets.h" 3
+# 1242 "/usr/include/c++/4.8/bits/locale_facets.h" 3
       virtual bool
       do_is(mask __m, char_type __c) const;
-# 1268 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_facets.h" 3
+# 1261 "/usr/include/c++/4.8/bits/locale_facets.h" 3
       virtual const char_type*
       do_is(const char_type* __lo, const char_type* __hi, mask* __vec) const;
-# 1286 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_facets.h" 3
+# 1279 "/usr/include/c++/4.8/bits/locale_facets.h" 3
       virtual const char_type*
       do_scan_is(mask __m, const char_type* __lo, const char_type* __hi) const;
-# 1304 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_facets.h" 3
+# 1297 "/usr/include/c++/4.8/bits/locale_facets.h" 3
       virtual const char_type*
       do_scan_not(mask __m, const char_type* __lo,
     const char_type* __hi) const;
-# 1321 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_facets.h" 3
+# 1314 "/usr/include/c++/4.8/bits/locale_facets.h" 3
       virtual char_type
       do_toupper(char_type __c) const;
-# 1338 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_facets.h" 3
+# 1331 "/usr/include/c++/4.8/bits/locale_facets.h" 3
       virtual const char_type*
       do_toupper(char_type* __lo, const char_type* __hi) const;
-# 1354 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_facets.h" 3
+# 1347 "/usr/include/c++/4.8/bits/locale_facets.h" 3
       virtual char_type
       do_tolower(char_type __c) const;
-# 1371 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_facets.h" 3
+# 1364 "/usr/include/c++/4.8/bits/locale_facets.h" 3
       virtual const char_type*
       do_tolower(char_type* __lo, const char_type* __hi) const;
-# 1391 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_facets.h" 3
+# 1384 "/usr/include/c++/4.8/bits/locale_facets.h" 3
       virtual char_type
       do_widen(char __c) const;
-# 1413 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_facets.h" 3
+# 1406 "/usr/include/c++/4.8/bits/locale_facets.h" 3
       virtual const char*
       do_widen(const char* __lo, const char* __hi, char_type* __to) const;
-# 1436 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_facets.h" 3
+# 1429 "/usr/include/c++/4.8/bits/locale_facets.h" 3
       virtual char
       do_narrow(char_type __c, char __dfault) const;
-# 1462 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_facets.h" 3
+# 1455 "/usr/include/c++/4.8/bits/locale_facets.h" 3
       virtual const char_type*
       do_narrow(const char_type* __lo, const char_type* __hi,
   char __dfault, char* __to) const;
@@ -11645,12 +13077,6 @@ namespace std
       explicit
       ctype_byname(const char* __s, size_t __refs = 0);
 
-
-
-
-
-
-
     protected:
       virtual
       ~ctype_byname() { };
@@ -11663,11 +13089,6 @@ namespace std
     public:
       explicit
       ctype_byname(const char* __s, size_t __refs = 0);
-
-
-
-
-
 
     protected:
       virtual
@@ -11682,11 +13103,6 @@ namespace std
       explicit
       ctype_byname(const char* __s, size_t __refs = 0);
 
-
-
-
-
-
     protected:
       virtual
       ~ctype_byname();
@@ -11697,17 +13113,16 @@ namespace std
 }
 
 
-# 1 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\mingw32\\bits\\ctype_inline.h" 1 3
-# 37 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\mingw32\\bits\\ctype_inline.h" 3
-namespace std
+# 1 "/usr/include/i386-linux-gnu/c++/4.8/bits/ctype_inline.h" 1 3
+# 37 "/usr/include/i386-linux-gnu/c++/4.8/bits/ctype_inline.h" 3
+namespace std __attribute__ ((__visibility__ ("default")))
 {
 
 
   bool
   ctype<char>::
   is(mask __m, char __c) const
-  { return (_M_table[static_cast<unsigned char>(__c) ] & __m); }
-
+  { return _M_table[static_cast<unsigned char>(__c)] & __m; }
 
   const char*
   ctype<char>::
@@ -11722,7 +13137,8 @@ namespace std
   ctype<char>::
   scan_is(mask __m, const char* __low, const char* __high) const
   {
-    while (__low < __high && !this->is(__m, *__low))
+    while (__low < __high
+    && !(_M_table[static_cast<unsigned char>(*__low)] & __m))
       ++__low;
     return __low;
   }
@@ -11731,16 +13147,17 @@ namespace std
   ctype<char>::
   scan_not(mask __m, const char* __low, const char* __high) const
   {
-    while (__low < __high && this->is(__m, *__low) != 0)
+    while (__low < __high
+    && (_M_table[static_cast<unsigned char>(*__low)] & __m) != 0)
       ++__low;
     return __low;
   }
 
 
 }
-# 1535 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_facets.h" 2 3
+# 1512 "/usr/include/c++/4.8/bits/locale_facets.h" 2 3
 
-namespace std
+namespace std __attribute__ ((__visibility__ ("default")))
 {
 
 
@@ -11852,9 +13269,7 @@ namespace std
    delete [] _M_falsename;
  }
     }
-
-namespace __cxx11 {
-# 1665 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_facets.h" 3
+# 1640 "/usr/include/c++/4.8/bits/locale_facets.h" 3
   template<typename _CharT>
     class numpunct : public locale::facet
     {
@@ -11883,33 +13298,33 @@ namespace __cxx11 {
       numpunct(size_t __refs = 0)
       : facet(__refs), _M_data(0)
       { _M_initialize_numpunct(); }
-# 1703 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_facets.h" 3
+# 1678 "/usr/include/c++/4.8/bits/locale_facets.h" 3
       explicit
       numpunct(__cache_type* __cache, size_t __refs = 0)
       : facet(__refs), _M_data(__cache)
       { _M_initialize_numpunct(); }
-# 1717 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_facets.h" 3
+# 1692 "/usr/include/c++/4.8/bits/locale_facets.h" 3
       explicit
       numpunct(__c_locale __cloc, size_t __refs = 0)
       : facet(__refs), _M_data(0)
       { _M_initialize_numpunct(__cloc); }
-# 1731 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_facets.h" 3
+# 1706 "/usr/include/c++/4.8/bits/locale_facets.h" 3
       char_type
       decimal_point() const
       { return this->do_decimal_point(); }
-# 1744 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_facets.h" 3
+# 1719 "/usr/include/c++/4.8/bits/locale_facets.h" 3
       char_type
       thousands_sep() const
       { return this->do_thousands_sep(); }
-# 1775 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_facets.h" 3
+# 1750 "/usr/include/c++/4.8/bits/locale_facets.h" 3
       string
       grouping() const
       { return this->do_grouping(); }
-# 1788 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_facets.h" 3
+# 1763 "/usr/include/c++/4.8/bits/locale_facets.h" 3
       string_type
       truename() const
       { return this->do_truename(); }
-# 1801 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_facets.h" 3
+# 1776 "/usr/include/c++/4.8/bits/locale_facets.h" 3
       string_type
       falsename() const
       { return this->do_falsename(); }
@@ -11918,23 +13333,23 @@ namespace __cxx11 {
 
       virtual
       ~numpunct();
-# 1818 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_facets.h" 3
+# 1793 "/usr/include/c++/4.8/bits/locale_facets.h" 3
       virtual char_type
       do_decimal_point() const
       { return _M_data->_M_decimal_point; }
-# 1830 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_facets.h" 3
+# 1805 "/usr/include/c++/4.8/bits/locale_facets.h" 3
       virtual char_type
       do_thousands_sep() const
       { return _M_data->_M_thousands_sep; }
-# 1843 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_facets.h" 3
+# 1818 "/usr/include/c++/4.8/bits/locale_facets.h" 3
       virtual string
       do_grouping() const
       { return _M_data->_M_grouping; }
-# 1856 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_facets.h" 3
+# 1831 "/usr/include/c++/4.8/bits/locale_facets.h" 3
       virtual string_type
       do_truename() const
       { return _M_data->_M_truename; }
-# 1869 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_facets.h" 3
+# 1844 "/usr/include/c++/4.8/bits/locale_facets.h" 3
       virtual string_type
       do_falsename() const
       { return _M_data->_M_falsename; }
@@ -11985,21 +13400,13 @@ namespace __cxx11 {
    }
       }
 
-
-
-
-
-
-
     protected:
       virtual
       ~numpunct_byname() { }
     };
 
-}
 
-
-# 1947 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_facets.h" 3
+# 1914 "/usr/include/c++/4.8/bits/locale_facets.h" 3
   template<typename _CharT, typename _InIter>
     class num_get : public locale::facet
     {
@@ -12013,15 +13420,15 @@ namespace __cxx11 {
 
 
       static locale::id id;
-# 1968 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_facets.h" 3
+# 1935 "/usr/include/c++/4.8/bits/locale_facets.h" 3
       explicit
       num_get(size_t __refs = 0) : facet(__refs) { }
-# 1994 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_facets.h" 3
+# 1961 "/usr/include/c++/4.8/bits/locale_facets.h" 3
       iter_type
       get(iter_type __in, iter_type __end, ios_base& __io,
    ios_base::iostate& __err, bool& __v) const
       { return this->do_get(__in, __end, __io, __err, __v); }
-# 2031 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_facets.h" 3
+# 1998 "/usr/include/c++/4.8/bits/locale_facets.h" 3
       iter_type
       get(iter_type __in, iter_type __end, ios_base& __io,
    ios_base::iostate& __err, long& __v) const
@@ -12052,7 +13459,7 @@ namespace __cxx11 {
       get(iter_type __in, iter_type __end, ios_base& __io,
    ios_base::iostate& __err, unsigned long long& __v) const
       { return this->do_get(__in, __end, __io, __err, __v); }
-# 2091 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_facets.h" 3
+# 2058 "/usr/include/c++/4.8/bits/locale_facets.h" 3
       iter_type
       get(iter_type __in, iter_type __end, ios_base& __io,
    ios_base::iostate& __err, float& __v) const
@@ -12067,7 +13474,7 @@ namespace __cxx11 {
       get(iter_type __in, iter_type __end, ios_base& __io,
    ios_base::iostate& __err, long double& __v) const
       { return this->do_get(__in, __end, __io, __err, __v); }
-# 2134 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_facets.h" 3
+# 2101 "/usr/include/c++/4.8/bits/locale_facets.h" 3
       iter_type
       get(iter_type __in, iter_type __end, ios_base& __io,
    ios_base::iostate& __err, void*& __v) const
@@ -12077,13 +13484,11 @@ namespace __cxx11 {
 
       virtual ~num_get() { }
 
-      __attribute ((__abi_tag__ ("cxx11")))
       iter_type
       _M_extract_float(iter_type, iter_type, ios_base&, ios_base::iostate&,
          string&) const;
 
       template<typename _ValueT>
- __attribute ((__abi_tag__ ("cxx11")))
  iter_type
  _M_extract_int(iter_type, iter_type, ios_base&, ios_base::iostate&,
          _ValueT&) const;
@@ -12125,7 +13530,7 @@ namespace __cxx11 {
      }
    return __ret;
  }
-# 2207 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_facets.h" 3
+# 2172 "/usr/include/c++/4.8/bits/locale_facets.h" 3
       virtual iter_type
       do_get(iter_type, iter_type, ios_base&, ios_base::iostate&, bool&) const;
 
@@ -12181,12 +13586,12 @@ namespace __cxx11 {
 
       virtual iter_type
       do_get(iter_type, iter_type, ios_base&, ios_base::iostate&, void*&) const;
-# 2270 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_facets.h" 3
+# 2235 "/usr/include/c++/4.8/bits/locale_facets.h" 3
     };
 
   template<typename _CharT, typename _InIter>
     locale::id num_get<_CharT, _InIter>::id;
-# 2288 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_facets.h" 3
+# 2253 "/usr/include/c++/4.8/bits/locale_facets.h" 3
   template<typename _CharT, typename _OutIter>
     class num_put : public locale::facet
     {
@@ -12200,14 +13605,14 @@ namespace __cxx11 {
 
 
       static locale::id id;
-# 2309 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_facets.h" 3
+# 2274 "/usr/include/c++/4.8/bits/locale_facets.h" 3
       explicit
       num_put(size_t __refs = 0) : facet(__refs) { }
-# 2327 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_facets.h" 3
+# 2292 "/usr/include/c++/4.8/bits/locale_facets.h" 3
       iter_type
       put(iter_type __s, ios_base& __io, char_type __fill, bool __v) const
       { return this->do_put(__s, __io, __fill, __v); }
-# 2369 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_facets.h" 3
+# 2334 "/usr/include/c++/4.8/bits/locale_facets.h" 3
       iter_type
       put(iter_type __s, ios_base& __io, char_type __fill, long __v) const
       { return this->do_put(__s, __io, __fill, __v); }
@@ -12226,7 +13631,7 @@ namespace __cxx11 {
       put(iter_type __s, ios_base& __io, char_type __fill,
    unsigned long long __v) const
       { return this->do_put(__s, __io, __fill, __v); }
-# 2432 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_facets.h" 3
+# 2397 "/usr/include/c++/4.8/bits/locale_facets.h" 3
       iter_type
       put(iter_type __s, ios_base& __io, char_type __fill, double __v) const
       { return this->do_put(__s, __io, __fill, __v); }
@@ -12235,7 +13640,7 @@ namespace __cxx11 {
       put(iter_type __s, ios_base& __io, char_type __fill,
    long double __v) const
       { return this->do_put(__s, __io, __fill, __v); }
-# 2457 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_facets.h" 3
+# 2422 "/usr/include/c++/4.8/bits/locale_facets.h" 3
       iter_type
       put(iter_type __s, ios_base& __io, char_type __fill,
    const void* __v) const
@@ -12269,7 +13674,7 @@ namespace __cxx11 {
 
       virtual
       ~num_put() { };
-# 2505 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_facets.h" 3
+# 2470 "/usr/include/c++/4.8/bits/locale_facets.h" 3
       virtual iter_type
       do_put(iter_type __s, ios_base& __io, char_type __fill, bool __v) const;
 
@@ -12392,7 +13797,8 @@ namespace __cxx11 {
     inline bool
     isgraph(_CharT __c, const locale& __loc)
     { return use_facet<ctype<_CharT> >(__loc).is(ctype_base::graph, __c); }
-# 2637 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_facets.h" 3
+
+
   template<typename _CharT>
     inline _CharT
     toupper(_CharT __c, const locale& __loc)
@@ -12407,12 +13813,12 @@ namespace __cxx11 {
 
 }
 
-# 1 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_facets.tcc" 1 3
-# 33 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_facets.tcc" 3
+# 1 "/usr/include/c++/4.8/bits/locale_facets.tcc" 1 3
+# 33 "/usr/include/c++/4.8/bits/locale_facets.tcc" 3
        
-# 34 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_facets.tcc" 3
+# 34 "/usr/include/c++/4.8/bits/locale_facets.tcc" 3
 
-namespace std
+namespace std __attribute__ ((__visibility__ ("default")))
 {
 
 
@@ -12457,6 +13863,8 @@ namespace std
     void
     __numpunct_cache<_CharT>::_M_cache(const locale& __loc)
     {
+      _M_allocated = true;
+
       const numpunct<_CharT>& __np = use_facet<numpunct<_CharT> >(__loc);
 
       char* __grouping = 0;
@@ -12464,24 +13872,24 @@ namespace std
       _CharT* __falsename = 0;
       try
  {
-   const string& __g = __np.grouping();
-   _M_grouping_size = __g.size();
+   _M_grouping_size = __np.grouping().size();
    __grouping = new char[_M_grouping_size];
-   __g.copy(__grouping, _M_grouping_size);
+   __np.grouping().copy(__grouping, _M_grouping_size);
+   _M_grouping = __grouping;
    _M_use_grouping = (_M_grouping_size
-        && static_cast<signed char>(__grouping[0]) > 0
-        && (__grouping[0]
+        && static_cast<signed char>(_M_grouping[0]) > 0
+        && (_M_grouping[0]
      != __gnu_cxx::__numeric_traits<char>::__max));
 
-   const basic_string<_CharT>& __tn = __np.truename();
-   _M_truename_size = __tn.size();
+   _M_truename_size = __np.truename().size();
    __truename = new _CharT[_M_truename_size];
-   __tn.copy(__truename, _M_truename_size);
+   __np.truename().copy(__truename, _M_truename_size);
+   _M_truename = __truename;
 
-   const basic_string<_CharT>& __fn = __np.falsename();
-   _M_falsename_size = __fn.size();
+   _M_falsename_size = __np.falsename().size();
    __falsename = new _CharT[_M_falsename_size];
-   __fn.copy(__falsename, _M_falsename_size);
+   __np.falsename().copy(__falsename, _M_falsename_size);
+   _M_falsename = __falsename;
 
    _M_decimal_point = __np.decimal_point();
    _M_thousands_sep = __np.thousands_sep();
@@ -12493,11 +13901,6 @@ namespace std
    __ct.widen(__num_base::_S_atoms_in,
        __num_base::_S_atoms_in
        + __num_base::_S_iend, _M_atoms_in);
-
-   _M_grouping = __grouping;
-   _M_truename = __truename;
-   _M_falsename = __falsename;
-   _M_allocated = true;
  }
       catch(...)
  {
@@ -12507,7 +13910,7 @@ namespace std
    throw;
  }
     }
-# 139 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_facets.tcc" 3
+# 136 "/usr/include/c++/4.8/bits/locale_facets.tcc" 3
   __attribute__ ((__pure__)) bool
   __verify_grouping(const char* __grouping, size_t __grouping_size,
       const string& __grouping_tmp) throw ();
@@ -12515,7 +13918,6 @@ namespace std
 
 
   template<typename _CharT, typename _InIter>
-    __attribute ((__abi_tag__ ("cxx11")))
     _InIter
     num_get<_CharT, _InIter>::
     _M_extract_float(_InIter __beg, _InIter __end, ios_base& __io,
@@ -12741,7 +14143,6 @@ namespace std
 
   template<typename _CharT, typename _InIter>
     template<typename _ValueT>
-      __attribute ((__abi_tag__ ("cxx11")))
       _InIter
       num_get<_CharT, _InIter>::
       _M_extract_int(_InIter __beg, _InIter __end, ios_base& __io,
@@ -13086,7 +14487,7 @@ namespace std
  __err |= ios_base::eofbit;
       return __beg;
     }
-# 735 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_facets.tcc" 3
+# 730 "/usr/include/c++/4.8/bits/locale_facets.tcc" 3
   template<typename _CharT, typename _InIter>
     _InIter
     num_get<_CharT, _InIter>::
@@ -13312,7 +14713,7 @@ namespace std
  }
       __len = __newlen;
     }
-# 971 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_facets.tcc" 3
+# 966 "/usr/include/c++/4.8/bits/locale_facets.tcc" 3
   template<typename _CharT, typename _OutIter>
     template<typename _ValueT>
       _OutIter
@@ -13336,26 +14737,24 @@ namespace std
 
  char __fbuf[16];
  __num_base::_S_format_float(__io, __fbuf, __mod);
-# 1025 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_facets.tcc" 3
- const bool __fixed = __io.flags() & ios_base::fixed;
- const int __max_exp =
-   __gnu_cxx::__numeric_traits<_ValueT>::__max_exponent10;
 
 
 
 
-
-
-
- const int __cs_size = __fixed ? __max_exp + __prec + 4
-                               : __max_digits * 2 + __prec;
+ int __cs_size = __max_digits * 3;
  char* __cs = static_cast<char*>(__builtin_alloca(__cs_size));
- __len = std::__convert_from_v(_S_get_c_locale(), __cs, 0, __fbuf,
-          __prec, __v);
+ __len = std::__convert_from_v(_S_get_c_locale(), __cs, __cs_size,
+          __fbuf, __prec, __v);
 
 
-
-
+ if (__len >= __cs_size)
+   {
+     __cs_size = __len + 1;
+     __cs = static_cast<char*>(__builtin_alloca(__cs_size));
+     __len = std::__convert_from_v(_S_get_c_locale(), __cs, __cs_size,
+       __fbuf, __prec, __v);
+   }
+# 1027 "/usr/include/c++/4.8/bits/locale_facets.tcc" 3
  const ctype<_CharT>& __ctype = use_facet<ctype<_CharT> >(__loc);
 
  _CharT* __ws = static_cast<_CharT*>(__builtin_alloca(sizeof(_CharT)
@@ -13472,7 +14871,7 @@ namespace std
     num_put<_CharT, _OutIter>::
     do_put(iter_type __s, ios_base& __io, char_type __fill, double __v) const
     { return _M_insert_float(__s, __io, __fill, char(), __v); }
-# 1169 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_facets.tcc" 3
+# 1152 "/usr/include/c++/4.8/bits/locale_facets.tcc" 3
   template<typename _CharT, typename _OutIter>
     _OutIter
     num_put<_CharT, _OutIter>::
@@ -13502,7 +14901,7 @@ namespace std
     }
 
 
-# 1206 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_facets.tcc" 3
+# 1189 "/usr/include/c++/4.8/bits/locale_facets.tcc" 3
   template<typename _CharT, typename _Traits>
     void
     __pad<_CharT, _Traits>::_S_pad(ios_base& __io, _CharT __fill,
@@ -13592,8 +14991,8 @@ namespace std
 
 
 
-  extern template class __cxx11:: numpunct<char>;
-  extern template class __cxx11:: numpunct_byname<char>;
+  extern template class numpunct<char>;
+  extern template class numpunct_byname<char>;
   extern template class num_get<char>;
   extern template class num_put<char>;
   extern template class ctype_byname<char>;
@@ -13631,8 +15030,8 @@ namespace std
     has_facet<num_get<char> >(const locale&);
 
 
-  extern template class __cxx11:: numpunct<wchar_t>;
-  extern template class __cxx11:: numpunct_byname<wchar_t>;
+  extern template class numpunct<wchar_t>;
+  extern template class numpunct_byname<wchar_t>;
   extern template class num_get<wchar_t>;
   extern template class num_put<wchar_t>;
   extern template class ctype_byname<wchar_t>;
@@ -13673,12 +15072,11 @@ namespace std
 
 
 }
-# 2652 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\locale_facets.h" 2 3
-# 38 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\basic_ios.h" 2 3
+# 2609 "/usr/include/c++/4.8/bits/locale_facets.h" 2 3
+# 38 "/usr/include/c++/4.8/bits/basic_ios.h" 2 3
 
 
-
-namespace std
+namespace std __attribute__ ((__visibility__ ("default")))
 {
 
 
@@ -13690,7 +15088,7 @@ namespace std
  __throw_bad_cast();
       return *__f;
     }
-# 66 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\basic_ios.h" 3
+# 65 "/usr/include/c++/4.8/bits/basic_ios.h" 3
   template<typename _CharT, typename _Traits>
     class basic_ios : public ios_base
     {
@@ -13734,19 +15132,24 @@ namespace std
       const __num_get_type* _M_num_get;
 
     public:
-# 120 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\basic_ios.h" 3
+
+
+
+
+
+
+
       operator void*() const
       { return this->fail() ? 0 : const_cast<basic_ios*>(this); }
-
 
       bool
       operator!() const
       { return this->fail(); }
-# 136 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\basic_ios.h" 3
+# 130 "/usr/include/c++/4.8/bits/basic_ios.h" 3
       iostate
       rdstate() const
       { return _M_streambuf_state; }
-# 147 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\basic_ios.h" 3
+# 141 "/usr/include/c++/4.8/bits/basic_ios.h" 3
       void
       clear(iostate __state = goodbit);
 
@@ -13792,7 +15195,7 @@ namespace std
       bool
       eof() const
       { return (this->rdstate() & eofbit) != 0; }
-# 200 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\basic_ios.h" 3
+# 194 "/usr/include/c++/4.8/bits/basic_ios.h" 3
       bool
       fail() const
       { return (this->rdstate() & (badbit | failbit)) != 0; }
@@ -13806,11 +15209,11 @@ namespace std
       bool
       bad() const
       { return (this->rdstate() & badbit) != 0; }
-# 221 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\basic_ios.h" 3
+# 215 "/usr/include/c++/4.8/bits/basic_ios.h" 3
       iostate
       exceptions() const
       { return _M_exception; }
-# 256 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\basic_ios.h" 3
+# 250 "/usr/include/c++/4.8/bits/basic_ios.h" 3
       void
       exceptions(iostate __except)
       {
@@ -13838,11 +15241,11 @@ namespace std
 
       virtual
       ~basic_ios() { }
-# 294 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\basic_ios.h" 3
+# 288 "/usr/include/c++/4.8/bits/basic_ios.h" 3
       basic_ostream<_CharT, _Traits>*
       tie() const
       { return _M_tie; }
-# 306 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\basic_ios.h" 3
+# 300 "/usr/include/c++/4.8/bits/basic_ios.h" 3
       basic_ostream<_CharT, _Traits>*
       tie(basic_ostream<_CharT, _Traits>* __tiestr)
       {
@@ -13860,10 +15263,10 @@ namespace std
       basic_streambuf<_CharT, _Traits>*
       rdbuf() const
       { return _M_streambuf; }
-# 346 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\basic_ios.h" 3
+# 340 "/usr/include/c++/4.8/bits/basic_ios.h" 3
       basic_streambuf<_CharT, _Traits>*
       rdbuf(basic_streambuf<_CharT, _Traits>* __sb);
-# 360 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\basic_ios.h" 3
+# 354 "/usr/include/c++/4.8/bits/basic_ios.h" 3
       basic_ios&
       copyfmt(const basic_ios& __rhs);
 
@@ -13883,7 +15286,7 @@ namespace std
    }
  return _M_fill;
       }
-# 389 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\basic_ios.h" 3
+# 383 "/usr/include/c++/4.8/bits/basic_ios.h" 3
       char_type
       fill(char_type __ch)
       {
@@ -13891,14 +15294,14 @@ namespace std
  _M_fill = __ch;
  return __old;
       }
-# 409 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\basic_ios.h" 3
+# 403 "/usr/include/c++/4.8/bits/basic_ios.h" 3
       locale
       imbue(const locale& __loc);
-# 429 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\basic_ios.h" 3
+# 423 "/usr/include/c++/4.8/bits/basic_ios.h" 3
       char
       narrow(char_type __c, char __dfault) const
       { return __check_facet(_M_ctype).narrow(__c, __dfault); }
-# 448 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\basic_ios.h" 3
+# 442 "/usr/include/c++/4.8/bits/basic_ios.h" 3
       char_type
       widen(char __c) const
       { return __check_facet(_M_ctype).widen(__c); }
@@ -13924,7 +15327,7 @@ namespace std
 
       void
       init(basic_streambuf<_CharT, _Traits>* __sb);
-# 509 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\basic_ios.h" 3
+
       void
       _M_cache_locale(const locale& __loc);
     };
@@ -13932,12 +15335,12 @@ namespace std
 
 }
 
-# 1 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\basic_ios.tcc" 1 3
-# 33 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\basic_ios.tcc" 3
+# 1 "/usr/include/c++/4.8/bits/basic_ios.tcc" 1 3
+# 33 "/usr/include/c++/4.8/bits/basic_ios.tcc" 3
        
-# 34 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\basic_ios.tcc" 3
+# 34 "/usr/include/c++/4.8/bits/basic_ios.tcc" 3
 
-namespace std
+namespace std __attribute__ ((__visibility__ ("default")))
 {
 
 
@@ -14035,7 +15438,7 @@ namespace std
 
 
       _M_cache_locale(_M_ios_locale);
-# 146 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\basic_ios.tcc" 3
+# 146 "/usr/include/c++/4.8/bits/basic_ios.tcc" 3
       _M_fill = _CharT();
       _M_fill_init = false;
 
@@ -14077,15 +15480,15 @@ namespace std
 
 
 }
-# 517 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\basic_ios.h" 2 3
-# 45 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\ios" 2 3
-# 39 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\ostream" 2 3
+# 476 "/usr/include/c++/4.8/bits/basic_ios.h" 2 3
+# 45 "/usr/include/c++/4.8/ios" 2 3
+# 39 "/usr/include/c++/4.8/ostream" 2 3
 
 
-namespace std
+namespace std __attribute__ ((__visibility__ ("default")))
 {
 
-# 57 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\ostream" 3
+# 57 "/usr/include/c++/4.8/ostream" 3
   template<typename _CharT, typename _Traits>
     class basic_ostream : virtual public basic_ios<_CharT, _Traits>
     {
@@ -14104,7 +15507,7 @@ namespace std
       typedef num_put<_CharT, ostreambuf_iterator<_CharT, _Traits> >
              __num_put_type;
       typedef ctype<_CharT> __ctype_type;
-# 83 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\ostream" 3
+# 83 "/usr/include/c++/4.8/ostream" 3
       explicit
       basic_ostream(__streambuf_type* __sb)
       { this->init(__sb); }
@@ -14120,7 +15523,7 @@ namespace std
 
       class sentry;
       friend class sentry;
-# 107 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\ostream" 3
+# 107 "/usr/include/c++/4.8/ostream" 3
       __ostream_type&
       operator<<(__ostream_type& (*__pf)(__ostream_type&))
       {
@@ -14149,7 +15552,7 @@ namespace std
  __pf(*this);
  return *this;
       }
-# 165 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\ostream" 3
+# 165 "/usr/include/c++/4.8/ostream" 3
       __ostream_type&
       operator<<(long __n)
       { return _M_insert(__n); }
@@ -14192,7 +15595,7 @@ namespace std
       __ostream_type&
       operator<<(unsigned long long __n)
       { return _M_insert(__n); }
-# 219 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\ostream" 3
+# 219 "/usr/include/c++/4.8/ostream" 3
       __ostream_type&
       operator<<(double __f)
       { return _M_insert(__f); }
@@ -14208,14 +15611,14 @@ namespace std
       __ostream_type&
       operator<<(long double __f)
       { return _M_insert(__f); }
-# 244 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\ostream" 3
+# 244 "/usr/include/c++/4.8/ostream" 3
       __ostream_type&
       operator<<(const void* __p)
       { return _M_insert(__p); }
-# 269 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\ostream" 3
+# 269 "/usr/include/c++/4.8/ostream" 3
       __ostream_type&
       operator<<(__streambuf_type* __sb);
-# 302 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\ostream" 3
+# 302 "/usr/include/c++/4.8/ostream" 3
       __ostream_type&
       put(char_type __c);
 
@@ -14231,31 +15634,31 @@ namespace std
  if (__put != __n)
    this->setstate(ios_base::badbit);
       }
-# 334 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\ostream" 3
+# 334 "/usr/include/c++/4.8/ostream" 3
       __ostream_type&
       write(const char_type* __s, streamsize __n);
-# 347 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\ostream" 3
+# 347 "/usr/include/c++/4.8/ostream" 3
       __ostream_type&
       flush();
-# 357 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\ostream" 3
+# 357 "/usr/include/c++/4.8/ostream" 3
       pos_type
       tellp();
-# 368 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\ostream" 3
+# 368 "/usr/include/c++/4.8/ostream" 3
       __ostream_type&
       seekp(pos_type);
-# 380 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\ostream" 3
+# 380 "/usr/include/c++/4.8/ostream" 3
        __ostream_type&
       seekp(off_type, ios_base::seekdir);
 
     protected:
       basic_ostream()
       { this->init(0); }
-# 413 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\ostream" 3
+
       template<typename _ValueT>
  __ostream_type&
  _M_insert(_ValueT __v);
     };
-# 425 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\ostream" 3
+# 399 "/usr/include/c++/4.8/ostream" 3
   template <typename _CharT, typename _Traits>
     class basic_ostream<_CharT, _Traits>::sentry
     {
@@ -14264,10 +15667,10 @@ namespace std
       basic_ostream<_CharT, _Traits>& _M_os;
 
     public:
-# 444 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\ostream" 3
+# 418 "/usr/include/c++/4.8/ostream" 3
       explicit
       sentry(basic_ostream<_CharT, _Traits>& __os);
-# 454 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\ostream" 3
+# 428 "/usr/include/c++/4.8/ostream" 3
       ~sentry()
       {
 
@@ -14278,11 +15681,11 @@ namespace std
        _M_os.setstate(ios_base::badbit);
    }
       }
-# 475 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\ostream" 3
+# 449 "/usr/include/c++/4.8/ostream" 3
       operator bool() const
       { return _M_ok; }
     };
-# 495 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\ostream" 3
+# 469 "/usr/include/c++/4.8/ostream" 3
   template<typename _CharT, typename _Traits>
     inline basic_ostream<_CharT, _Traits>&
     operator<<(basic_ostream<_CharT, _Traits>& __out, _CharT __c)
@@ -14309,7 +15712,7 @@ namespace std
     inline basic_ostream<char, _Traits>&
     operator<<(basic_ostream<char, _Traits>& __out, unsigned char __c)
     { return (__out << static_cast<char>(__c)); }
-# 537 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\ostream" 3
+# 511 "/usr/include/c++/4.8/ostream" 3
   template<typename _CharT, typename _Traits>
     inline basic_ostream<_CharT, _Traits>&
     operator<<(basic_ostream<_CharT, _Traits>& __out, const _CharT* __s)
@@ -14349,12 +15752,12 @@ namespace std
     inline basic_ostream<char, _Traits> &
     operator<<(basic_ostream<char, _Traits>& __out, const unsigned char* __s)
     { return (__out << reinterpret_cast<const char*>(__s)); }
-# 588 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\ostream" 3
+# 562 "/usr/include/c++/4.8/ostream" 3
   template<typename _CharT, typename _Traits>
     inline basic_ostream<_CharT, _Traits>&
     endl(basic_ostream<_CharT, _Traits>& __os)
     { return flush(__os.put(__os.widen('\n'))); }
-# 600 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\ostream" 3
+# 574 "/usr/include/c++/4.8/ostream" 3
   template<typename _CharT, typename _Traits>
     inline basic_ostream<_CharT, _Traits>&
     ends(basic_ostream<_CharT, _Traits>& __os)
@@ -14369,18 +15772,18 @@ namespace std
     inline basic_ostream<_CharT, _Traits>&
     flush(basic_ostream<_CharT, _Traits>& __os)
     { return __os.flush(); }
-# 635 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\ostream" 3
+# 609 "/usr/include/c++/4.8/ostream" 3
 
 }
 
-# 1 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\ostream.tcc" 1 3
-# 37 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\ostream.tcc" 3
+# 1 "/usr/include/c++/4.8/bits/ostream.tcc" 1 3
+# 37 "/usr/include/c++/4.8/bits/ostream.tcc" 3
        
-# 38 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\ostream.tcc" 3
+# 38 "/usr/include/c++/4.8/bits/ostream.tcc" 3
 
 
 
-namespace std
+namespace std __attribute__ ((__visibility__ ("default")))
 {
 
 
@@ -14745,20 +16148,20 @@ namespace std
 
 
 }
-# 639 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\ostream" 2 3
-# 40 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\iostream" 2 3
-# 1 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\istream" 1 3
-# 36 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\istream" 3
+# 613 "/usr/include/c++/4.8/ostream" 2 3
+# 40 "/usr/include/c++/4.8/iostream" 2 3
+# 1 "/usr/include/c++/4.8/istream" 1 3
+# 36 "/usr/include/c++/4.8/istream" 3
        
-# 37 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\istream" 3
+# 37 "/usr/include/c++/4.8/istream" 3
 
 
 
 
-namespace std
+namespace std __attribute__ ((__visibility__ ("default")))
 {
 
-# 57 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\istream" 3
+# 57 "/usr/include/c++/4.8/istream" 3
   template<typename _CharT, typename _Traits>
     class basic_istream : virtual public basic_ios<_CharT, _Traits>
     {
@@ -14811,7 +16214,7 @@ namespace std
 
       class sentry;
       friend class sentry;
-# 119 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\istream" 3
+# 119 "/usr/include/c++/4.8/istream" 3
       __istream_type&
       operator>>(__istream_type& (*__pf)(__istream_type&))
       { return __pf(*this); }
@@ -14829,7 +16232,7 @@ namespace std
  __pf(*this);
  return *this;
       }
-# 167 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\istream" 3
+# 167 "/usr/include/c++/4.8/istream" 3
       __istream_type&
       operator>>(bool& __n)
       { return _M_extract(__n); }
@@ -14864,7 +16267,7 @@ namespace std
       __istream_type&
       operator>>(unsigned long long& __n)
       { return _M_extract(__n); }
-# 213 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\istream" 3
+# 213 "/usr/include/c++/4.8/istream" 3
       __istream_type&
       operator>>(float& __f)
       { return _M_extract(__f); }
@@ -14876,45 +16279,45 @@ namespace std
       __istream_type&
       operator>>(long double& __f)
       { return _M_extract(__f); }
-# 234 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\istream" 3
+# 234 "/usr/include/c++/4.8/istream" 3
       __istream_type&
       operator>>(void*& __p)
       { return _M_extract(__p); }
-# 258 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\istream" 3
+# 258 "/usr/include/c++/4.8/istream" 3
       __istream_type&
       operator>>(__streambuf_type* __sb);
-# 268 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\istream" 3
+# 268 "/usr/include/c++/4.8/istream" 3
       streamsize
       gcount() const
       { return _M_gcount; }
-# 301 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\istream" 3
+# 301 "/usr/include/c++/4.8/istream" 3
       int_type
       get();
-# 315 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\istream" 3
+# 315 "/usr/include/c++/4.8/istream" 3
       __istream_type&
       get(char_type& __c);
-# 342 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\istream" 3
+# 342 "/usr/include/c++/4.8/istream" 3
       __istream_type&
       get(char_type* __s, streamsize __n, char_type __delim);
-# 353 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\istream" 3
+# 353 "/usr/include/c++/4.8/istream" 3
       __istream_type&
       get(char_type* __s, streamsize __n)
       { return this->get(__s, __n, this->widen('\n')); }
-# 376 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\istream" 3
+# 376 "/usr/include/c++/4.8/istream" 3
       __istream_type&
       get(__streambuf_type& __sb, char_type __delim);
-# 386 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\istream" 3
+# 386 "/usr/include/c++/4.8/istream" 3
       __istream_type&
       get(__streambuf_type& __sb)
       { return this->get(__sb, this->widen('\n')); }
-# 415 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\istream" 3
+# 415 "/usr/include/c++/4.8/istream" 3
       __istream_type&
       getline(char_type* __s, streamsize __n, char_type __delim);
-# 426 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\istream" 3
+# 426 "/usr/include/c++/4.8/istream" 3
       __istream_type&
       getline(char_type* __s, streamsize __n)
       { return this->getline(__s, __n, this->widen('\n')); }
-# 450 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\istream" 3
+# 450 "/usr/include/c++/4.8/istream" 3
       __istream_type&
       ignore(streamsize __n, int_type __delim);
 
@@ -14923,31 +16326,31 @@ namespace std
 
       __istream_type&
       ignore();
-# 467 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\istream" 3
+# 467 "/usr/include/c++/4.8/istream" 3
       int_type
       peek();
-# 485 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\istream" 3
+# 485 "/usr/include/c++/4.8/istream" 3
       __istream_type&
       read(char_type* __s, streamsize __n);
-# 504 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\istream" 3
+# 504 "/usr/include/c++/4.8/istream" 3
       streamsize
       readsome(char_type* __s, streamsize __n);
-# 521 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\istream" 3
+# 521 "/usr/include/c++/4.8/istream" 3
       __istream_type&
       putback(char_type __c);
-# 537 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\istream" 3
+# 537 "/usr/include/c++/4.8/istream" 3
       __istream_type&
       unget();
-# 555 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\istream" 3
+# 555 "/usr/include/c++/4.8/istream" 3
       int
       sync();
-# 570 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\istream" 3
+# 570 "/usr/include/c++/4.8/istream" 3
       pos_type
       tellg();
-# 585 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\istream" 3
+# 585 "/usr/include/c++/4.8/istream" 3
       __istream_type&
       seekg(pos_type);
-# 601 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\istream" 3
+# 601 "/usr/include/c++/4.8/istream" 3
       __istream_type&
       seekg(off_type, ios_base::seekdir);
 
@@ -14956,7 +16359,7 @@ namespace std
       basic_istream()
       : _M_gcount(streamsize(0))
       { this->init(0); }
-# 639 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\istream" 3
+
       template<typename _ValueT>
  __istream_type&
  _M_extract(_ValueT& __v);
@@ -14993,7 +16396,7 @@ namespace std
     basic_istream<wchar_t>&
     basic_istream<wchar_t>::
     ignore(streamsize __n, int_type __delim);
-# 685 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\istream" 3
+# 656 "/usr/include/c++/4.8/istream" 3
   template<typename _CharT, typename _Traits>
     class basic_istream<_CharT, _Traits>::sentry
     {
@@ -15007,14 +16410,14 @@ namespace std
       typedef basic_istream<_CharT, _Traits> __istream_type;
       typedef typename __istream_type::__ctype_type __ctype_type;
       typedef typename _Traits::int_type __int_type;
-# 721 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\istream" 3
+# 692 "/usr/include/c++/4.8/istream" 3
       explicit
       sentry(basic_istream<_CharT, _Traits>& __is, bool __noskipws = false);
-# 734 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\istream" 3
+# 705 "/usr/include/c++/4.8/istream" 3
       operator bool() const
       { return _M_ok; }
     };
-# 750 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\istream" 3
+# 721 "/usr/include/c++/4.8/istream" 3
   template<typename _CharT, typename _Traits>
     basic_istream<_CharT, _Traits>&
     operator>>(basic_istream<_CharT, _Traits>& __in, _CharT& __c);
@@ -15028,7 +16431,7 @@ namespace std
     inline basic_istream<char, _Traits>&
     operator>>(basic_istream<char, _Traits>& __in, signed char& __c)
     { return (__in >> reinterpret_cast<char&>(__c)); }
-# 792 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\istream" 3
+# 763 "/usr/include/c++/4.8/istream" 3
   template<typename _CharT, typename _Traits>
     basic_istream<_CharT, _Traits>&
     operator>>(basic_istream<_CharT, _Traits>& __in, _CharT* __s);
@@ -15047,7 +16450,7 @@ namespace std
     inline basic_istream<char, _Traits>&
     operator>>(basic_istream<char, _Traits>& __in, signed char* __s)
     { return (__in >> reinterpret_cast<char*>(__s)); }
-# 823 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\istream" 3
+# 794 "/usr/include/c++/4.8/istream" 3
   template<typename _CharT, typename _Traits>
     class basic_iostream
     : public basic_istream<_CharT, _Traits>,
@@ -15086,24 +16489,23 @@ namespace std
     protected:
       basic_iostream()
       : __istream_type(), __ostream_type() { }
-# 884 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\istream" 3
     };
-# 906 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\istream" 3
+# 854 "/usr/include/c++/4.8/istream" 3
   template<typename _CharT, typename _Traits>
     basic_istream<_CharT, _Traits>&
     ws(basic_istream<_CharT, _Traits>& __is);
-# 931 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\istream" 3
+# 879 "/usr/include/c++/4.8/istream" 3
 
 }
 
-# 1 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\istream.tcc" 1 3
-# 37 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\istream.tcc" 3
+# 1 "/usr/include/c++/4.8/bits/istream.tcc" 1 3
+# 37 "/usr/include/c++/4.8/bits/istream.tcc" 3
        
-# 38 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\istream.tcc" 3
+# 38 "/usr/include/c++/4.8/bits/istream.tcc" 3
 
 
 
-namespace std
+namespace std __attribute__ ((__visibility__ ("default")))
 {
 
 
@@ -15567,7 +16969,7 @@ namespace std
               const int_type __eof = traits_type::eof();
               __streambuf_type* __sb = this->rdbuf();
               int_type __c = __sb->sgetc();
-# 513 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\bits\\istream.tcc" 3
+# 513 "/usr/include/c++/4.8/bits/istream.tcc" 3
        bool __large_ignore = false;
        while (true)
   {
@@ -16146,13 +17548,13 @@ namespace std
 
 
 }
-# 935 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\istream" 2 3
-# 41 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\iostream" 2 3
+# 883 "/usr/include/c++/4.8/istream" 2 3
+# 41 "/usr/include/c++/4.8/iostream" 2 3
 
-namespace std
+namespace std __attribute__ ((__visibility__ ("default")))
 {
 
-# 60 "d:\\mingw\\lib\\gcc\\mingw32\\5.3.0\\include\\c++\\iostream" 3
+# 60 "/usr/include/c++/4.8/iostream" 3
   extern istream cin;
   extern ostream cout;
   extern ostream cerr;
@@ -16173,8 +17575,6 @@ namespace std
 }
 # 2 "hello.cpp" 2
 
-
-# 3 "hello.cpp"
 int main()
 {
     std::cout<<"hello world"<<std::endl;

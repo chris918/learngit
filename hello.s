@@ -1,64 +1,39 @@
 	.file	"hello.cpp"
-.lcomm __ZStL8__ioinit,1,1
-	.def	___main;	.scl	2;	.type	32;	.endef
-	.section .rdata,"dr"
-LC0:
-	.ascii "hello world\0"
+	.local	_ZStL8__ioinit
+	.comm	_ZStL8__ioinit,1,1
+	.section	.rodata
+.LC0:
+	.string	"hello world"
 	.text
-	.globl	_main
-	.def	_main;	.scl	2;	.type	32;	.endef
-_main:
-LFB1004:
-	.cfi_startproc
-	leal	4(%esp), %ecx
-	.cfi_def_cfa 1, 0
-	andl	$-16, %esp
-	pushl	-4(%ecx)
-	pushl	%ebp
-	.cfi_escape 0x10,0x5,0x2,0x75,0
-	movl	%esp, %ebp
-	pushl	%ecx
-	.cfi_escape 0xf,0x3,0x75,0x7c,0x6
-	subl	$20, %esp
-	call	___main
-	movl	$LC0, 4(%esp)
-	movl	$__ZSt4cout, (%esp)
-	call	__ZStlsISt11char_traitsIcEERSt13basic_ostreamIcT_ES5_PKc
-	movl	$__ZSt4endlIcSt11char_traitsIcEERSt13basic_ostreamIT_T0_ES6_, (%esp)
-	movl	%eax, %ecx
-	call	__ZNSolsEPFRSoS_E
-	subl	$4, %esp
-	movl	$0, %eax
-	movl	-4(%ebp), %ecx
-	.cfi_def_cfa 1, 0
-	leave
-	.cfi_restore 5
-	leal	-4(%ecx), %esp
-	.cfi_def_cfa 4, 4
-	ret
-	.cfi_endproc
-LFE1004:
-	.def	___tcf_0;	.scl	3;	.type	32;	.endef
-___tcf_0:
-LFB1014:
+	.globl	main
+	.type	main, @function
+main:
+.LFB971:
 	.cfi_startproc
 	pushl	%ebp
 	.cfi_def_cfa_offset 8
 	.cfi_offset 5, -8
 	movl	%esp, %ebp
 	.cfi_def_cfa_register 5
-	subl	$8, %esp
-	movl	$__ZStL8__ioinit, %ecx
-	call	__ZNSt8ios_base4InitD1Ev
+	andl	$-16, %esp
+	subl	$16, %esp
+	movl	$.LC0, 4(%esp)
+	movl	$_ZSt4cout, (%esp)
+	call	_ZStlsISt11char_traitsIcEERSt13basic_ostreamIcT_ES5_PKc
+	movl	$_ZSt4endlIcSt11char_traitsIcEERSt13basic_ostreamIT_T0_ES6_, 4(%esp)
+	movl	%eax, (%esp)
+	call	_ZNSolsEPFRSoS_E
+	movl	$0, %eax
 	leave
 	.cfi_restore 5
 	.cfi_def_cfa 4, 4
 	ret
 	.cfi_endproc
-LFE1014:
-	.def	__Z41__static_initialization_and_destruction_0ii;	.scl	3;	.type	32;	.endef
-__Z41__static_initialization_and_destruction_0ii:
-LFB1013:
+.LFE971:
+	.size	main, .-main
+	.type	_Z41__static_initialization_and_destruction_0ii, @function
+_Z41__static_initialization_and_destruction_0ii:
+.LFB980:
 	.cfi_startproc
 	pushl	%ebp
 	.cfi_def_cfa_offset 8
@@ -67,24 +42,26 @@ LFB1013:
 	.cfi_def_cfa_register 5
 	subl	$24, %esp
 	cmpl	$1, 8(%ebp)
-	jne	L6
+	jne	.L3
 	cmpl	$65535, 12(%ebp)
-	jne	L6
-	movl	$__ZStL8__ioinit, %ecx
-	call	__ZNSt8ios_base4InitC1Ev
-	movl	$___tcf_0, (%esp)
-	call	_atexit
-L6:
-	nop
+	jne	.L3
+	movl	$_ZStL8__ioinit, (%esp)
+	call	_ZNSt8ios_base4InitC1Ev
+	movl	$__dso_handle, 8(%esp)
+	movl	$_ZStL8__ioinit, 4(%esp)
+	movl	$_ZNSt8ios_base4InitD1Ev, (%esp)
+	call	__cxa_atexit
+.L3:
 	leave
 	.cfi_restore 5
 	.cfi_def_cfa 4, 4
 	ret
 	.cfi_endproc
-LFE1013:
-	.def	__GLOBAL__sub_I_main;	.scl	3;	.type	32;	.endef
-__GLOBAL__sub_I_main:
-LFB1015:
+.LFE980:
+	.size	_Z41__static_initialization_and_destruction_0ii, .-_Z41__static_initialization_and_destruction_0ii
+	.type	_GLOBAL__sub_I_main, @function
+_GLOBAL__sub_I_main:
+.LFB981:
 	.cfi_startproc
 	pushl	%ebp
 	.cfi_def_cfa_offset 8
@@ -94,20 +71,17 @@ LFB1015:
 	subl	$24, %esp
 	movl	$65535, 4(%esp)
 	movl	$1, (%esp)
-	call	__Z41__static_initialization_and_destruction_0ii
+	call	_Z41__static_initialization_and_destruction_0ii
 	leave
 	.cfi_restore 5
 	.cfi_def_cfa 4, 4
 	ret
 	.cfi_endproc
-LFE1015:
-	.section	.ctors,"w"
+.LFE981:
+	.size	_GLOBAL__sub_I_main, .-_GLOBAL__sub_I_main
+	.section	.init_array,"aw"
 	.align 4
-	.long	__GLOBAL__sub_I_main
-	.ident	"GCC: (GNU) 5.3.0"
-	.def	__ZStlsISt11char_traitsIcEERSt13basic_ostreamIcT_ES5_PKc;	.scl	2;	.type	32;	.endef
-	.def	__ZSt4endlIcSt11char_traitsIcEERSt13basic_ostreamIT_T0_ES6_;	.scl	2;	.type	32;	.endef
-	.def	__ZNSolsEPFRSoS_E;	.scl	2;	.type	32;	.endef
-	.def	__ZNSt8ios_base4InitD1Ev;	.scl	2;	.type	32;	.endef
-	.def	__ZNSt8ios_base4InitC1Ev;	.scl	2;	.type	32;	.endef
-	.def	_atexit;	.scl	2;	.type	32;	.endef
+	.long	_GLOBAL__sub_I_main
+	.hidden	__dso_handle
+	.ident	"GCC: (Ubuntu 4.8.4-2ubuntu1~14.04.3) 4.8.4"
+	.section	.note.GNU-stack,"",@progbits
